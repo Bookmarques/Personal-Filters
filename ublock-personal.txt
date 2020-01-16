@@ -165,3 +165,6 @@ google.com##.fbar
 
 ! https://www.deezer.com 
 deezer.com##.page-alerts
+
+! https://icons8.com 
+icons8.com##.app-link-copybar
