@@ -84,6 +84,9 @@ aeon.co##.banner-theme-dark-blue.footer-banner
 ! 1/7/2020 | radio.pt 
 radio.pt###section-ad
 radio.pt###section-ad2
+||static.radio.pt/images/*.jpg$image
+radio.pt##.station-detail.section-block > div:nth-of-type(5)
+
 
 ! 1/9/2020 | rollingstone.com 
 rollingstone.com##.c-ad--728x90.c-ad--desktop-header.c-ad
