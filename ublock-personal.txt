@@ -159,3 +159,6 @@ meo.pt###warning_EU_cookiemsg
 ! https://www.google.com 
 google.com##.fbar
 
+! https://21stcenturywire.com 
+21stcenturywire.com###text-352
+
