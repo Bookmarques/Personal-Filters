@@ -92,6 +92,7 @@ radio.pt###section-ad2
 rollingstone.com##.c-ad--728x90.c-ad--desktop-header.c-ad
 rollingstone.com##div.l-blog__item:nth-of-type(6)
 rollingstone.com###adm-right-rail-2 > .google-publisher.adma
+rollingstone.com###sticky-rail-ad
 
 ! 1/9/2020 | indiewire.com 
 indiewire.com###leaderboard
