@@ -155,3 +155,7 @@ geracaobenfica.blogspot.com###cookieChoiceInfo
 cliente.meo.pt###warning_EU_cookiemsg
 login.telecom.pt##.cookies-box
 meo.pt###warning_EU_cookiemsg
+
+! https://www.google.com 
+google.com##.fbar
+
