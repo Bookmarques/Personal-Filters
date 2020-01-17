@@ -169,3 +169,7 @@ icons8.com##.app-link-copybar
 
 ! quora.com ------------------------------------------------------------------------------------------------------!
 quora.com##.message
+
+! arstechnica.com ------------------------------------------------------------------------------------------------!
+arstechnica.com##.ad_xrail_top.ad_xrail.ad
+arstechnica.com##.ad_crown.ad
