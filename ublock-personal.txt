@@ -38,6 +38,9 @@ record.pt##.barra_cofina
 ! expresso.pt --------------------------------------------------------------------------------------------------!
 expresso.pt##.overlay-rectangle-overlay
 
+! bostonglobe.com ----------------------------------------------------------------------------------------------!
+bostonglobe.com##.meter-social-connect--visible.meter-social-connect
+
 ! rtp.pt -------------------------------------------------------------------------------------------------------!
 rtp.pt###rtpprivacycontent
 
