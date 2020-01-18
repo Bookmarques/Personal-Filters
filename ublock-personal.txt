@@ -56,6 +56,9 @@ nytimes.com##.e12j3pa50.css-rpp6l6
 wired.com##.advertisement__leaderboard
 wired.com##.siderail-rad.js-post-listing-rad.load-failure > .cm-failsafes
 
+! blogvisaodemercado.pt ----------------------------------------------------------------------------------------!
+blogvisaodemercado.pt###vm-1120257731
+
 ! theguardian.com ----------------------------------------------------------------------------------------------! 
 theguardian.com##.site-message
 
