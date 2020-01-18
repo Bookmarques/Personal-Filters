@@ -179,3 +179,6 @@ arstechnica.com##.ad_crown.ad
 
 ! jornaleconomico.sapo.pt ----------------------------------------------------------------------------------------!
 jornaleconomico.sapo.pt##.cc-color-override--1923857235.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
+
+! rektmag.net ----------------------------------------------------------------------------------------------------!
+rektmag.net###yui_3_17_2_1_1579353705700_317
