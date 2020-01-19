@@ -18,7 +18,6 @@
 ||ad-score.com^$third-party
 ||adblade.com^$third-party
 ||adbrn.com^$third-party
-||ad-delivery.net^$third-party
 ||addthis.com^$third-party
 ||addthisedge.com^$third-party
 ||adentifi.com^$third-party
@@ -47,7 +46,6 @@
 ||adsafeprotected.com^$third-party
 ||adserver.adtech.de^$third-party
 ||adservice.google.*^
-||adservice.google.com^$third-party
 ||adsrvr.org^$third-party
 ||adsymptotic.com^$third-party
 ||adtech.com^$third-party
@@ -144,6 +142,7 @@
 ||criteo.net^$third-party
 ||crm4d.com^$third-party
 ||crsspxl.com^$third-party
+||crtx.info^$third-party
 ||crwdcntrl.net^$third-party
 ||cse.google.com^$third-party
 ||ctnsnet.com^$third-party
