@@ -93,7 +93,6 @@
 ||exponential.com^$third-party
 ||facebook.com^$third-party
 ||facebook.net^$third-party
-@@facebook.net^$domain=facebook.com
 ||fwmrm.net^$third-party
 ||fyber.com^$third-party
 ||getintent.com^$third-party
@@ -151,6 +150,7 @@
 ||pagefair.com^$third-party
 ||pagefair.net^$third-party
 ||parsely.com^$third-party
+||pixel.wp.com^$third-party
 ||placeholdit.imgix.net^$third-party
 ||pixel.facebook.com^$third-party
 ||popads.com^$third-party
@@ -189,6 +189,7 @@
 ||spotx.tv^$third-party
 ||spotxchange.com^$third-party
 ||springserve.com^$third-party
+||stats.wp.com^$third-party
 ||stickyadstv.com^$third-party
 ||storygize.net^$third-party
 ||summerhamster.com^$third-party
