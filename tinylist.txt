@@ -121,6 +121,7 @@
 ||clevernt.com^$third-party
 ||clickly.co^$third-party
 ||cloudfront.net^$third-party
+||collector.githubapp.com^$third-party
 ||comscore.com^$third-party
 ||concert.io^$third-party
 ||condenastdigital.com^$third-party
