@@ -32,7 +32,6 @@
 ||d22koylsc2kvhb.cloudfront.net^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d254l5jk9au3wv.cloudfront.net^
-||d2c8v52ll5s99u.cloudfront.net^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
 ||d2fbkzyicji7c4.cloudfront.net^
