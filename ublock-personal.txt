@@ -191,3 +191,6 @@ refinery29.com###CybotCookiebotDialog
 
 ! youtube.com ---------------------------------------------------------------------------!
 youtube.com##.ytp-ad-module.video-ads
+
+! washingtonpost.com ---------------------------------------------------------------------------!
+washingtonpost.com##.t_blyfmsroudatm
