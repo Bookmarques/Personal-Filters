@@ -407,6 +407,7 @@
 0.0.0.0 pub.net
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
+0.0.0.0 pubstack.io
 0.0.0.0 pulsepoint.com
 0.0.0.0 pushbullet.com
 0.0.0.0 pusher.com
