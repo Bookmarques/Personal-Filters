@@ -320,6 +320,7 @@
 0.0.0.0 lijit.com
 0.0.0.0 livefyre.com
 0.0.0.0 liveintent.com
+0.0.0.0 videoplayerhub.com
 0.0.0.0 liverail.com
 0.0.0.0 lkqd.com
 0.0.0.0 lkqd.net
