@@ -292,7 +292,7 @@
 ||npttech.com^$third-party
 ||nr-data.net^$third-party
 ||ntv.io^$third-party
-||ntv.iov
+||ntv.io^$third-party
 ||nugg.ad^$third-party
 ||oath.com^$third-party
 ||omniture.com^$third-party
