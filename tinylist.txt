@@ -18,6 +18,7 @@
 ||ad-score.com^$third-party
 ||adblade.com^$third-party
 ||adbrn.com^$third-party
+||ad-delivery.net^$third-party
 ||addthis.com^$third-party
 ||addthisedge.com^$third-party
 ||adentifi.com^$third-party
