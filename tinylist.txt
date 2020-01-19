@@ -93,6 +93,7 @@
 ||exponential.com^$third-party
 ||facebook.com^$third-party
 ||facebook.net^$third-party
+||frog.wix.com^$third-party
 ||fwmrm.net^$third-party
 ||fyber.com^$third-party
 ||getintent.com^$third-party
