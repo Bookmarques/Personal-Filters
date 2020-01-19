@@ -22,6 +22,8 @@ sapo.pt##div.pub:nth-of-type(2)
 sapo.pt##.scoreboard.grid > .pub_live
 sapo.pt##.scoreboard.grid > .bet
 sapo.pt##.sm-100
+sapo.pt###prime
+sapo.pt###content
 
 ! publico.pt ---------------------------------------------------------------------------------------------------!
 publico.pt##.stack--opta.stack
