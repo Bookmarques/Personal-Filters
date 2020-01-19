@@ -5,460 +5,460 @@
 ! Expires: 7 days (update frequency once a month)
 ! Homepage: https://bitaites.org
 !
-||1rx.io^$third-party
-||2mdn.net^$third-party
-||2o7.net^$third-party
-||33across.com^$third-party
-||360yield.com^$third-party
-||3lift.com^$third-party
-||3utilities.com^$third-party
-||a-ads.com^$third-party
-||aaxads.com^$third-party
-||acuityplatform.com^$third-party
-||ad-score.com^$third-party
-||adblade.com^$third-party
-||adbrn.com^$third-party
-||addthis.com^$third-party
-||addthisedge.com^$third-party
-||adentifi.com^$third-party
-||adform.com^$third-party
-||adform.net^$third-party
-||adfrontiers.com^$third-party
-||adglare.net^$third-party
-||adgrx.com^$third-party
-||adhese.com^$third-party
-||adhigh.net^$third-party
-||adhood.com^$third-party
-||adition.com^$third-party
-||adkernel.com^$third-party
-||adledge.com^$third-party
-||adlightning.com^$third-party
-||admantx.com^$third-party
-||admedo.com^$third-party
-||admixer.net^$third-party
-||adnxs.com^$third-party
-||adobedtm.com^$third-party
-||adomik.com^$third-party
-||adotmob.com^$third-party
-||adrcdn.com^$third-party
-||adroll.com^$third-party
-||ads-twitter.com^$third-party
-||adsafeprotected.com^$third-party
-||adserver.adtech.de^$third-party
-||adservice.google.*^
-||adsrvr.org^$third-party
-||adsymptotic.com^$third-party
-||adtech.com^$third-party
-||adtechus.com^$third-party
-||adtlgc.com^$third-party
-||advertising.com^$third-party
-||adyoulike.com^$third-party
-||adzerk.net^$third-party
-||aerserv.com^$third-party
-||afy11.net^$third-party
-||agkn.com^$third-party
-||alooma.com^$third-party
-||altitude-arena.com^$third-party
-||amazon-adsystem.com^$third-party
-||amazonaws.com^$third-party
-||amp.services^$third-party
-||amplitude.com^$third-party
-||ampproject.org^$third-party
-||aolcdn.com^$third-party
-||appier.net^$third-party
-||appnexus.com^$third-party
-||appspot.com^$third-party
-||aralego.com^$third-party
-||arrivalist.com^$third-party
-||assets.adobedtm.net^$third-party
-||astartpage.com^$third-party
-||aswpsdkus.com^$third-party
-||atdmt.com^$third-party
-||awin.com^$third-party
-||bat.bing.com^$third-party
-||beachfront.com^$third-party
-||beachfrontmedia.com^$third-party
-||beemray.com^$third-party
-||bet.pt^$third-party
-||betrad.com^$third-party
-||bfmio.com^$third-party
-||bid.com^$third-party
-||bidfluence.com^$third-party
-||bidswitch.net^$third-party
-||bidtellect.com^$third-party
-||bidtheatre.com^$third-party
-||bizible.com^$third-party
-||bkrtx.com^$third-party
-||blismedia.com^$third-party
-||blogsmithmedia.com^$third-party
-||blueconic.net^$third-party
-||bluekai.com^$third-party
-||bnmla.com^$third-party
-||bounceexchange.com^$third-party
-||bounceme.net^$third-party
-||bouncex.net^$third-party
-||brightcom.com^$third-party
-||brightroll.com^$third-party
-||btrll.com^$third-party
-||bttrack.com^$third-party
-||byside.com^$third-party
-||c1exchange.com^$third-party
-||casalemedia.com^$third-party
-||casascm.pt^$third-party
-||casinosolverde.pt^$third-party
-||cdn.concert.io^$third-party
-||cedato.com^$third-party
-||cedexis-radar.net^$third-party
-||cedexis-test.com^$third-party
-||cedexis.com^$third-party
-||celtra.com^$third-party
-||centralimo.pt^$third-party
-||chartbeat.com^$third-party
-||chartbeat.net^$third-party
-||cint.com^$third-party
-||claranet.pt^$third-party
-||clevernetwork.pt^$third-party
-||clevernt.com^$third-party
-||clickly.co^$third-party
-||cloudfront.net^$third-party
-||collector.githubapp.com^$third-party
-||comscore.com^$third-party
-||concert.io^$third-party
-||condenastdigital.com^$third-party
-||conductrics.com^$third-party
-||connatix.com^$third-party
-||connexity.net^$third-party
-||consensu.org^$third-party
-||content-ad.net^$third-party
-||contextweb.com^$third-party
-||conversantmedia.com^$third-party
-||convertro.com^$third-party
-||conviva.com^$third-party
-||cookielaw.org^$third-party
-||coxmt.com^$third-party
-||crazyegg.com^$third-party
-||createjs.com^$third-party
-||creative-serving.com^$third-party
-||criteo.com^$third-party
-||criteo.net^$third-party
-||crm4d.com^$third-party
-||crsspxl.com^$third-party
-||crtx.info^$third-party
-||crwdcntrl.net^$third-party
-||cse.google.com^$third-party
-||ctnsnet.com^$third-party
-||cwkuki.com^$third-party
-||cxense.com^$third-party
-||ddns.net^$third-party
-||de17a.com^$third-party
-||demandwebstrem.com^$third-party
-||demdex.net^$third-party
-||disqus.com^$third-party
-||disquscdn.com^$third-party
-||dotomi.com^$third-party
-||doubleclick.net^$third-party
-||doubleverify.com^$third-party
-||duckdns.org^$third-party
-||duckduckgo.com^$third-party
-||dynamicyield.com^$third-party
-||dyndns.info^$third-party
-||dyndns.org^$third-party
-||e-goi.com^$third-party
-||eacdn.com^$third-party
-||easydmp.net^$third-party
-||edgekey.net^$third-party
-||edigitalsurvey.com^$third-party
-||effectivemeasure.net^$third-party
-||effitarget.com^$third-party
-||elogua.com^$third-party
-||email-reflex.com^$third-party
-||emxdgt.com^$third-party
-||engageya.com^$third-party
-||ero-advertising.com^$third-party
-||eroadvertising.com^$third-party
-||etahub.com^$third-party
-||everesttech.net^$third-party
-||evidon.com^$third-party
-||exelate.com^$third-party
-||exelator.com^$third-party
-||exoclick.com^$third-party
-||exosrv.com^$third-party
-||exponential.com^$third-party
-||eyereturn.com^$third-party
-||eyeviewads.com^$third-party
-||facebook.com^$third-party
-||facebook.net^$third-party
-||falseframe.com^$third-party
-||fleetdata.com^$third-party
-||flurry.com^$third-party
-||foxnews.com^$third-party
-||futurecdn.net^$third-party
-||fwmrm.net^$third-party
-||fyber.com^$third-party
-||gemius.pl^$third-party
-||getclicky.com^$third-party
-||getintent.com^$third-party
-||getsocial.io^$third-party
-||gigya.com^$third-party
-||glotgrx.com^$third-party
-||go-mpulse.net^$third-party
-||google-analytics.com^$third-party
-||googleadservices.com^$third-party
-||googlesyndication.com^$third-party
-||googletagmanager.com^$third-party
-||googletagservices.com^$third-party
-||gscontxt.net^$third-party
-||gumgum.com^$third-party
-||gwallet.com^$third-party
-||h-bid.com^$third-party
-||hopto.org^$third-party
-||hotjar.com^$third-party
-||hs-analytics.net^$third-party
-||hs-scripts.com^$third-party
-||hsadpixel.net^$third-party
-||hscollectedforms.net^$third-party
-||icfcdn.com^$third-party
-||id.google.*^
-||imonomy.com^$third-party
-||impdesk.com^$third-party
-||impresapublishing.pt^$third-party
-||impressionmonster.com^$third-party
-||improvedigital.com^$third-party
-||imrworldwide.com^$third-party
-||index.com^$third-party
-||indexexchange.com^$third-party
-||indexww.com^$third-party
-||inner-active.com^$third-party
-||inside-graph.com^$third-party
-||insticator.com^$third-party
-||instinctiveads.com^$third-party
-||insurads.com^$third-party
-||intergi.com^$third-party
-||ipify.org^$third-party
-||ipredictive.com^$third-party
-||iteratehq.com^$third-party
-||juicyads.com^$third-party
-||jwpltx.com^$third-party
-||korrelate.net^$third-party
-||krxd.net^$third-party
-||kwpsurveys.com^$third-party
-||leiki.com^$third-party
-||lightboxcdn.com^$third-party
-||lijit.com^$third-party
-||livefyre.com^$third-party
-||liveintent.com^$third-party
-||liverail.com^$third-party
-||lkqd.com^$third-party
-||lkqd.net^$third-party
-||load.s3.amazonaws.com^$third-party
-||lojaimpresa.pt^$third-party
-||lp4.io^$third-party
-||lporirxe.com^$third-party
-||marktest.pt^$third-party
-||matamo.org^$third-party
-||mathtag.com^$third-party
-||media.net^$third-party
-||media6degrees.com^$third-party
-||mediarithmics.com^$third-party
-||mediavoice.com^$third-party
-||megafin.pt^$third-party
-||metaffiliation.com^$third-party
-||metric.gstatic.com^$third-party
-||metrica.yandex.com^$third-party
-||metrics.brightcove.com^$third-party
-||mfadsrv.com^$third-party
-||mfadsrvr.com^$third-party
-||mixpanel.com^$third-party
-||mnet-ad.net^$third-party
-||moatads.com^$third-party
-||moatpixel.com^$third-party
-||mobfox.com^$third-party
-||mobileadtrading.com^$third-party
-||mookie1.com^$third-party
-||mxpnl.com^$third-party
-||mxptint.net^$third-party
-||myftp.org^$third-party
-||mythings.com^$third-party
-||myvnc.com^$third-party
-||nativo.com^$third-party
-||nervoussummer.com^$third-party
-||netseer.com^$third-party
-||newrelic.com^$third-party
-||nexac.com^$third-party
-||nicequest.com^$third-party
-||nmusic.pt^$third-party
-||no-ip.org^$third-party
-||nossaaposta.pt^$third-party
-||npttech.com^$third-party
-||nr-data.net^$third-party
-||ntv.io^$third-party
-||ntv.io^$third-party
-||nugg.ad^$third-party
-||oath.com^$third-party
-||omniture.com^$third-party
-||omtrdc.net^$third-party
-||oneall.com^$third-party
-||onesignal.com^$third-party
-||onetrust.com^$third-party
-||onthe.io^$third-party
-||openx.com^$third-party
-||openx.net^$third-party
-||optimatic.com^$third-party
-||optimizely.com^$third-party
-||optimost.com^$third-party
-||optnmstr.com^$third-party
-||outbrain.com^$third-party
-||outbrainimg.com^$third-party
-||owneriq.net^$third-party
-||p.typekit.net^$third-party
-||pagead2.googlesyndication.com^$third-party
-||pagefair.com^$third-party
-||pagefair.net^$third-party
-||parsely.com^$third-party
-||pcdn.co^$third-party
-||peer5.com^$third-party
-||permutive.com^$third-party
-||pgmcdn.com^$third-party
-||pippio.com^$third-party
-||pixel.facebook.com^$third-party
-||pixel.wp.com^$third-party
-||placeholdit.imgix.net^$third-party
-||plista.com^$third-party
-||polyfill.io^$third-party
-||popads.com^$third-party
-||postrelease.com^$third-party
-||powerlinks.com^$third-party
-||prebid.org^$third-party
-||privacy-center.org^$third-party
-||pro-market.net^$third-party
-||programattik.com^$third-party
-||pub.net^$third-partywork
-||pubmatic.com^$third-party
-||pubmine.com^$third-party
-||pulsepoint.com^$third-party
-||pushbullet.com^$third-party
-||pusher.com^$third-party
-||pusherapp.com^$third-party
-||q1connect.com^$third-party
-||quantcast.com^$third-party
-||quantserve.com^$third-party
-||quantum-advertising.com^$third-party
-||rackcdn.com^$third-party
-||ranker.com^$third-party
-||redirectme.net^$third-party
-||remax.pt^$third-party
-||revcontent.com^$third-party
-||revsci.net^$third-party
-||rfihub.com^$third-party
-||rhythmone.com^$third-party
-||richaudience.com^$third-party
-||rlcdn.com^$third-party
-||rockyou.com^$third-party
-||rockyou.net^$third-party
-||rs-stripe.com^$third-party
-||rubicon.com^$third-party
-||rubiconproject.com^$third-party
-||rundsp.com^$third-party
-||s0.wp.com^$third-party
-||sail-horizon.com^$third-party
-||sail-personalize.com^$third-party
-||sascdn.com^$third-party
-||scorecardresearch.com^$third-party
-||segment.com^$third-party
-||segment.io^$third-party
-||sekindo.com^$third-party
-||semasio.net^$third-party
-||serveblog.net^$third-party
-||serveborn.com^$third-party
-||servedby-buysellads.com^$third-party
-||serveftp.com^$third-party
-||servegame.com^$third-party
-||servehttp.com^$third-party
-||servepics.com^$third-party
-||serverbeer.com^$third-party
-||servimg.com^$third-party
-||serving-sys.com^$third-party
-||shareaholic.net^$third-party
-||sharethis.com^$third-party
-||sharethrough.com^$third-party
-||sitescout.com^$third-party
-||sitewebvideo.com^$third-party
-||skimresources.com^$third-party
-||sl.pt^$third-party
-||smaato.com^$third-party
-||smartadserver.com^$third-party
-||smartclip.net^$third-party
-||smartocto.com^$third-party
-||sojern.com^$third-party
-||sonobi.com^$third-party
-||sovrn.com^$third-party
-||speedcurve.com^$third-party
-||spotx.tv^$third-party
-||spotxchange.com^$third-party
-||springserve.com^$third-party
-||statcounter.com^$third-party
-||stats.wordpress.com^$third-party
-||stats.wp.com^$third-party
-||stickyadstv.com^$third-party
-||storygize.net^$third-party
-||streamrail.com^$third-party
-||summerhamster.com^$third-party
-||sunmedia.tv^$third-party
-||swelen.com^$third-party
-||swiftypecdn.com^$third-party
-||synacor.com^$third-party
-||sytes.net^$third-party
-||taboola.com^$third-party
-||tagmanager.yahoo.*^$third-party
-||tapad.com^$third-party
-||teads.tv^$third-party
-||tealium.com^$third-party
-||techradar.com^$third-party
-||tekblue.net^$third-party
-||tidaltv.com^$third-party
-||tinypass.com^$third-party
-||tiqcdn.com^$third-party
-||trafficforce.com^$third-party
-||trafficjunky.com^$third-party
-||trafficjunky.net^$third-party
-||tremorhub.com^$third-party
-||tribalfusion.com^$third-party
-||triplelift.com^$third-party
-||truste.com^$third-party
-||trustx.org^$third-party
-||tsyndicate.com^$third-party
-||tubemogul.com^$third-party
-||turn.com^$third-party
-||tynt.com^$third-party
-||typekit.net^$third-party
-||unrulymedia.com^$third-party
-||usabilla.com^$third-party
-||userreport.com^$third-party
-||vendorlist.consensu.org^$third-party
-||vertamedia.com^$third-party
-||vi.ai^$third-party
-||vidazoo.com^$third-party
-||viglink.com^$third-party
-||vilynx.com^$third-party
-||vindicosuite.com^$third-party
-||virool.com^$third-party
-||visualdna.com^$third-party
-||visualwebsiteoptimizer.com^$third-party
-||vk.com^$third-party
-||voxmedia.com^$third-party
-||w.org^$third-party
-||w55c.net^$third-party
-||weborama.com^$third-party
-||weborama.fr^$third-party
-||wibbitz.com^$third-party
-||wsod.com^$third-party
-||xl.pt^$third-party
-||yabidos.com^$third-party
-||yieldlab.net^$third-party
-||yieldmo.com^$third-party
-||yuktamedia.com^$third-party
-||zapto.org^$third-party
-||zemanta.com^$third-party
-||zencdn.net^$third-party
-||zergnet.com^$third-party
-||zqtk.net^$third-party
+* 1rx.io * block
+* 2mdn.net * block
+* 2o7.net * block
+* 33across.com * block
+* 360yield.com * block
+* 3lift.com * block
+* 3utilities.com * block
+* a-ads.com * block
+* aaxads.com * block
+* acuityplatform.com * block
+* ad-score.com * block
+* adblade.com * block
+* adbrn.com * block
+* addthis.com * block
+* addthisedge.com * block
+* adentifi.com * block
+* adform.com * block
+* adform.net * block
+* adfrontiers.com * block
+* adglare.net * block
+* adgrx.com * block
+* adhese.com * block
+* adhigh.net * block
+* adhood.com * block
+* adition.com * block
+* adkernel.com * block
+* adledge.com * block
+* adlightning.com * block
+* admantx.com * block
+* admedo.com * block
+* admixer.net * block
+* adnxs.com * block
+* adobedtm.com * block
+* adomik.com * block
+* adotmob.com * block
+* adrcdn.com * block
+* adroll.com * block
+* ads-twitter.com * block
+* adsafeprotected.com * block
+* adserver.adtech.de * block
+* adservice.google.* block
+* adsrvr.org * block
+* adsymptotic.com * block
+* adtech.com * block
+* adtechus.com * block
+* adtlgc.com * block
+* advertising.com * block
+* adyoulike.com * block
+* adzerk.net * block
+* aerserv.com * block
+* afy11.net * block
+* agkn.com * block
+* alooma.com * block
+* altitude-arena.com * block
+* amazon-adsystem.com * block
+* amazonaws.com * block
+* amp.services * block
+* amplitude.com * block
+* ampproject.org * block
+* aolcdn.com * block
+* appier.net * block
+* appnexus.com * block
+* appspot.com * block
+* aralego.com * block
+* arrivalist.com * block
+* assets.adobedtm.net * block
+* astartpage.com * block
+* aswpsdkus.com * block
+* atdmt.com * block
+* awin.com * block
+* bat.bing.com * block
+* beachfront.com * block
+* beachfrontmedia.com * block
+* beemray.com * block
+* bet.pt * block
+* betrad.com * block
+* bfmio.com * block
+* bid.com * block
+* bidfluence.com * block
+* bidswitch.net * block
+* bidtellect.com * block
+* bidtheatre.com * block
+* bizible.com * block
+* bkrtx.com * block
+* blismedia.com * block
+* blogsmithmedia.com * block
+* blueconic.net * block
+* bluekai.com * block
+* bnmla.com * block
+* bounceexchange.com * block
+* bounceme.net * block
+* bouncex.net * block
+* brightcom.com * block
+* brightroll.com * block
+* btrll.com * block
+* bttrack.com * block
+* byside.com * block
+* c1exchange.com * block
+* casalemedia.com * block
+* casascm.pt * block
+* casinosolverde.pt * block
+* cdn.concert.io * block
+* cedato.com * block
+* cedexis-radar.net * block
+* cedexis-test.com * block
+* cedexis.com * block
+* celtra.com * block
+* centralimo.pt * block
+* chartbeat.com * block
+* chartbeat.net * block
+* cint.com * block
+* claranet.pt * block
+* clevernetwork.pt * block
+* clevernt.com * block
+* clickly.co * block
+* cloudfront.net * block
+* collector.githubapp.com * block
+* comscore.com * block
+* concert.io * block
+* condenastdigital.com * block
+* conductrics.com * block
+* connatix.com * block
+* connexity.net * block
+* consensu.org * block
+* content-ad.net * block
+* contextweb.com * block
+* conversantmedia.com * block
+* convertro.com * block
+* conviva.com * block
+* cookielaw.org * block
+* coxmt.com * block
+* crazyegg.com * block
+* createjs.com * block
+* creative-serving.com * block
+* criteo.com * block
+* criteo.net * block
+* crm4d.com * block
+* crsspxl.com * block
+* crtx.info * block
+* crwdcntrl.net * block
+* cse.google.com * block
+* ctnsnet.com * block
+* cwkuki.com * block
+* cxense.com * block
+* ddns.net * block
+* de17a.com * block
+* demandwebstrem.com * block
+* demdex.net * block
+* disqus.com * block
+* disquscdn.com * block
+* dotomi.com * block
+* doubleclick.net * block
+* doubleverify.com * block
+* duckdns.org * block
+* duckduckgo.com * block
+* dynamicyield.com * block
+* dyndns.info * block
+* dyndns.org * block
+* e-goi.com * block
+* eacdn.com * block
+* easydmp.net * block
+* edgekey.net * block
+* edigitalsurvey.com * block
+* effectivemeasure.net * block
+* effitarget.com * block
+* elogua.com * block
+* email-reflex.com * block
+* emxdgt.com * block
+* engageya.com * block
+* ero-advertising.com * block
+* eroadvertising.com * block
+* etahub.com * block
+* everesttech.net * block
+* evidon.com * block
+* exelate.com * block
+* exelator.com * block
+* exoclick.com * block
+* exosrv.com * block
+* exponential.com * block
+* eyereturn.com * block
+* eyeviewads.com * block
+* facebook.com * block
+* facebook.net * block
+* falseframe.com * block
+* fleetdata.com * block
+* flurry.com * block
+* foxnews.com * block
+* futurecdn.net * block
+* fwmrm.net * block
+* fyber.com * block
+* gemius.pl * block
+* getclicky.com * block
+* getintent.com * block
+* getsocial.io * block
+* gigya.com * block
+* glotgrx.com * block
+* go-mpulse.net * block
+* google-analytics.com * block
+* googleadservices.com * block
+* googlesyndication.com * block
+* googletagmanager.com * block
+* googletagservices.com * block
+* gscontxt.net * block
+* gumgum.com * block
+* gwallet.com * block
+* h-bid.com * block
+* hopto.org * block
+* hotjar.com * block
+* hs-analytics.net * block
+* hs-scripts.com * block
+* hsadpixel.net * block
+* hscollectedforms.net * block
+* icfcdn.com * block
+* id.google. * block
+* imonomy.com * block
+* impdesk.com * block
+* impresapublishing.pt * block
+* impressionmonster.com * block
+* improvedigital.com * block
+* imrworldwide.com * block
+* index.com * block
+* indexexchange.com * block
+* indexww.com * block
+* inner-active.com * block
+* inside-graph.com * block
+* insticator.com * block
+* instinctiveads.com * block
+* insurads.com * block
+* intergi.com * block
+* ipify.org * block
+* ipredictive.com * block
+* iteratehq.com * block
+* juicyads.com * block
+* jwpltx.com * block
+* korrelate.net * block
+* krxd.net * block
+* kwpsurveys.com * block
+* leiki.com * block
+* lightboxcdn.com * block
+* lijit.com * block
+* livefyre.com * block
+* liveintent.com * block
+* liverail.com * block
+* lkqd.com * block
+* lkqd.net * block
+* load.s3.amazonaws.com * block
+* lojaimpresa.pt * block
+* lp4.io * block
+* lporirxe.com * block
+* marktest.pt * block
+* matamo.org * block
+* mathtag.com * block
+* media.net * block
+* media6degrees.com * block
+* mediarithmics.com * block
+* mediavoice.com * block
+* megafin.pt * block
+* metaffiliation.com * block
+* metric.gstatic.com * block
+* metrica.yandex.com * block
+* metrics.brightcove.com * block
+* mfadsrv.com * block
+* mfadsrvr.com * block
+* mixpanel.com * block
+* mnet-ad.net * block
+* moatads.com * block
+* moatpixel.com * block
+* mobfox.com * block
+* mobileadtrading.com * block
+* mookie1.com * block
+* mxpnl.com * block
+* mxptint.net * block
+* myftp.org * block
+* mythings.com * block
+* myvnc.com * block
+* nativo.com * block
+* nervoussummer.com * block
+* netseer.com * block
+* newrelic.com * block
+* nexac.com * block
+* nicequest.com * block
+* nmusic.pt * block
+* no-ip.org * block
+* nossaaposta.pt * block
+* npttech.com * block
+* nr-data.net * block
+* ntv.io * block
+* nugg.ad * block
+* oath.com * block
+* omniture.com * block
+* omtrdc.net * block
+* oneall.com * block
+* onesignal.com * block
+* onetrust.com * block
+* onthe.io * block
+* openx.com * block
+* openx.net * block
+* optimatic.com * block
+* optimizely.com * block
+* optimost.com * block
+* optnmstr.com * block
+* outbrain.com * block
+* outbrainimg.com * block
+* owneriq.net * block
+* p.typekit.net * block
+* pagead2.googlesyndication.com * block
+* pagefair.com * block
+* pagefair.net * block
+* parsely.com * block
+* pcdn.co * block
+* peer5.com * block
+* permutive.com * block
+* pgmcdn.com * block
+* pippio.com * block
+* pixel.facebook.com * block
+* pixel.wp.com * block
+* placeholdit.imgix.net * block
+* plista.com * block
+* polyfill.io * block
+* popads.com * block
+* postrelease.com * block
+* powerlinks.com * block
+* prebid.org * block
+* privacy-center.org * block
+* pro-market.net * block
+* programattik.com * block
+* pub.net * block
+* pubmatic.com * block
+* pubmine.com * block
+* pulsepoint.com * block
+* pushbullet.com * block
+* pusher.com * block
+* pusherapp.com * block
+* q1connect.com * block
+* quantcast.com * block
+* quantserve.com * block
+* quantum-advertising.com * block
+* rackcdn.com * block
+* ranker.com * block
+* redirectme.net * block
+* remax.pt * block
+* revcontent.com * block
+* revsci.net * block
+* rfihub.com * block
+* rhythmone.com * block
+* richaudience.com * block
+* rlcdn.com * block
+* rockyou.com * block
+* rockyou.net * block
+* rs-stripe.com * block
+* rubicon.com * block
+* rubiconproject.com * block
+* rundsp.com * block
+* s0.wp.com * block
+* sail-horizon.com * block
+* sail-personalize.com * block
+* sascdn.com * block
+* scorecardresearch.com * block
+* segment.com * block
+* segment.io * block
+* sekindo.com * block
+* semasio.net * block
+* serveblog.net * block
+* serveborn.com * block
+* servedby-buysellads.com * block
+* serveftp.com * block
+* servegame.com * block
+* servehttp.com * block
+* servepics.com * block
+* serverbeer.com * block
+* servimg.com * block
+* serving-sys.com * block
+* shareaholic.net * block
+* sharethis.com * block
+* sharethrough.com * block
+* sitescout.com * block
+* sitewebvideo.com * block
+* skimresources.com * block
+* sl.pt * block
+* smaato.com * block
+* smartadserver.com * block
+* smartclip.net * block
+* smartocto.com * block
+* sojern.com * block
+* sonobi.com * block
+* sovrn.com * block
+* speedcurve.com * block
+* spotx.tv * block
+* spotxchange.com * block
+* springserve.com * block
+* statcounter.com * block
+* stats.wordpress.com * block
+* stats.wp.com * block
+* stickyadstv.com * block
+* storygize.net * block
+* streamrail.com * block
+* summerhamster.com * block
+* sunmedia.tv * block
+* swelen.com * block
+* swiftypecdn.com * block
+* synacor.com * block
+* sytes.net * block
+* taboola.com * block
+* tagmanager.yahoo.* * block
+* tapad.com * block
+* teads.tv * block
+* tealium.com * block
+* techradar.com * block
+* tekblue.net * block
+* tidaltv.com * block
+* tinypass.com * block
+* tiqcdn.com * block
+* trafficforce.com * block
+* trafficjunky.com * block
+* trafficjunky.net * block
+* tremorhub.com * block
+* tribalfusion.com * block
+* triplelift.com * block
+* truste.com * block
+* trustx.org * block
+* tsyndicate.com * block
+* tubemogul.com * block
+* turn.com * block
+* tynt.com * block
+* typekit.net * block
+* unrulymedia.com * block
+* usabilla.com * block
+* userreport.com * block
+* vendorlist.consensu.org * block
+* vertamedia.com * block
+* vi.ai * block
+* vidazoo.com * block
+* viglink.com * block
+* vilynx.com * block
+* vindicosuite.com * block
+* virool.com * block
+* visualdna.com * block
+* visualwebsiteoptimizer.com * block
+* vk.com * block
+* voxmedia.com * block
+* w.org * block
+* w55c.net * block
+* weborama.com * block
+* weborama.fr * block
+* wibbitz.com * block
+* wsod.com * block
+* xl.pt * block
+* yabidos.com * block
+* yieldlab.net * block
+* yieldmo.com * block
+* yuktamedia.com * block
+* zapto.org * block
+* zemanta.com * block
+* zencdn.net * block
+* zergnet.com * block
+* zqtk.net * block
+
