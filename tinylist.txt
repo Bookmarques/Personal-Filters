@@ -63,6 +63,7 @@
 ||chartbeat.com^$third-party
 ||chartbeat.net^$third-party
 ||comscore.com^$third-party
+||comunidade.globalmediagroup.pt^$third-party
 ||conductrics.com^$third-party
 ||connatix.com^$third-party
 ||content-ad.net^$third-party
@@ -135,6 +136,7 @@
 ||nervoussummer.com^$third-party
 ||newrelic.com^$third-party
 ||nexac.com^$third-party
+||nonio.globalmediagroup.pt^$third-party
 ||npttech.com^$third-party
 ||nr-data.net^$third-party
 ||nugg.ad^$third-party
