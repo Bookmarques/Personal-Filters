@@ -233,7 +233,6 @@
 0.0.0.0 d2b7n13v8adl6f.cloudfront.net
 0.0.0.0 d2bfa0zlmvk3fe.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
-0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2cgumzzqhgmdu.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2d8qsxiai9qwj.cloudfront.net
