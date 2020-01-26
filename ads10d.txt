@@ -1,3 +1,0 @@
-0.0.0.0 icfcdn.com
-0.0.0.0 id5-sync.com
-0.0.0.0 ima3vpaid.appspot.com
