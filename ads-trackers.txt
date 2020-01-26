@@ -38,6 +38,7 @@
 0.0.0.0 admedo.com
 0.0.0.0 admixer.net
 0.0.0.0 adnxs.com 
+0.0.0.0 adobedtm.com
 0.0.0.0 adomik.com
 0.0.0.0 adotmob.com
 0.0.0.0 adrcdn.com
@@ -237,6 +238,7 @@
 0.0.0.0 hsadpixel.net
 0.0.0.0 hscollectedforms.net
 0.0.0.0 icfcdn.com
+0.0.0.0 id.impresa.pt
 0.0.0.0 id5-sync.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imonomy.com
