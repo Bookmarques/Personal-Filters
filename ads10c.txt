@@ -1,0 +1,7 @@
+0.0.0.0 icfcdn.com
+0.0.0.0 id5-sync.com
+0.0.0.0 ima3vpaid.appspot.com
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 imonomy.com
+0.0.0.0 impdesk.com
+0.0.0.0 impresapublishing.pt
