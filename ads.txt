@@ -254,6 +254,7 @@
 0.0.0.0 insticator.com
 0.0.0.0 instinctiveads.com
 0.0.0.0 insurads.com
+0.0.0.0 intellitxt.com
 0.0.0.0 intentiq.com
 0.0.0.0 intergi.com
 0.0.0.0 ipify.org
@@ -456,6 +457,7 @@
 0.0.0.0 swelen.com
 0.0.0.0 synacor.com
 0.0.0.0 sytes.net
+0.0.0.0 taboola.com
 0.0.0.0 tagcdn.com
 0.0.0.0 tagmanager.yahoo
 0.0.0.0 tapad.com
@@ -506,6 +508,7 @@
 0.0.0.0 weborama.com
 0.0.0.0 weborama.fr
 0.0.0.0 wibbitz.com
+0.0.0.0 widgets.outbrain.com
 0.0.0.0 ws.globalnoticias.pt
 0.0.0.0 wsod.com
 0.0.0.0 xl.pt
