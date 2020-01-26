@@ -48,6 +48,7 @@
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adscale.de
 0.0.0.0 adserver.adtech.de
+0.0.0.0 adservice.google.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtech.com
@@ -144,6 +145,7 @@
 0.0.0.0 connatix.com
 0.0.0.0 connexity.net
 0.0.0.0 consensu.org
+0.0.0.0 consent.google.com
 0.0.0.0 content-ad.net
 0.0.0.0 contextweb.com
 0.0.0.0 conversantmedia.com
