@@ -1,5 +1,4 @@
 0.0.0.0 1rx.io
-0.0.0.0 pubstack.io
 0.0.0.0 2mdn.net
 0.0.0.0 2o7.net
 0.0.0.0 33across.com
@@ -319,6 +318,7 @@
 0.0.0.0 pub.network
 0.0.0.0 pubmatic.com
 0.0.0.0 pubmine.com
+0.0.0.0 pubstack.io
 0.0.0.0 pulsepoint.com
 0.0.0.0 pushbullet.com
 0.0.0.0 pusher.com
@@ -391,7 +391,7 @@
 0.0.0.0 synacor.com
 0.0.0.0 sytes.net
 0.0.0.0 taboola.com
-0.0.0.0 tagmanager.yahoo.*
+0.0.0.0 tagmanager.yahoo
 0.0.0.0 tapad.com
 0.0.0.0 teads.tv
 0.0.0.0 tealium.com
