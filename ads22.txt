@@ -1,0 +1,5 @@
+0.0.0.0 zapto.org
+0.0.0.0 zemanta.com
+0.0.0.0 zencdn.net
+0.0.0.0 zergnet.com
+0.0.0.0 zqtk.net
