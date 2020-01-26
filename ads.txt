@@ -1,440 +1,440 @@
-* 1rx.io * block
-* 2mdn.net * block
-* 2o7.net * block
-* 33across.com * block
-* 360yield.com * block
-* 3lift.com * block
-* 3utilities.com * block
-* a-ads.com * block
-* aaxads.com * block
-* acuityplatform.com * block
-* ad-score.com * block
-* adblade.com * block
-* adbrn.com * block
-* addthis.com * block
-* addthisedge.com * block
-* adentifi.com * block
-* adform.com * block
-* adform.net * block
-* adfrontiers.com * block
-* adglare.net * block
-* adgrx.com * block
-* adhese.com * block
-* adhigh.net * block
-* adhood.com * block
-* adition.com * block
-* adkernel.com * block
-* adledge.com * block
-* adlightning.com * block
-* admantx.com * block
-* admedo.com * block
-* admixer.net * block
-* adnxs.com * block
-* adomik.com * block
-* adotmob.com * block
-* adrcdn.com * block
-* adroll.com * block
-* ads-twitter.com * block
-* adsafeprotected.com * block
-* adserver.adtech.de * block
-* adservice.google.* * block
-* adsrvr.org * block
-* adsymptotic.com * block
-* adtech.com * block
-* adtechus.com * block
-* adtlgc.com * block
-* advertising.com * block
-* adyoulike.com * block
-* adzerk.net * block
-* aerserv.com * block
-* afy11.net * block
-* agkn.com * block
-* alooma.com * block
-* altitude-arena.com * block
-* amazon-adsystem.com * block
-* amp.services * block
-* amplitude.com * block
-* ampproject.org * block
-* aolcdn.com * block
-* appier.net * block
-* appnexus.com * block
-* appspot.com * block
-* aralego.com * block
-* arrivalist.com * block
-* assets.adobedtm.net * block
-* astartpage.com * block
-* aswpsdkus.com * block
-* atdmt.com * block
-* awin.com * block
-* bat.bing.com * block
-* beachfront.com * block
-* beachfrontmedia.com * block
-* beemray.com * block
-* bet.pt * block
-* betrad.com * block
-* bfmio.com * block
-* bid.com * block
-* bidfluence.com * block
-* bidswitch.net * block
-* bidtellect.com * block
-* bidtheatre.com * block
-* bizible.com * block
-* bkrtx.com * block
-* blismedia.com * block
-* blogsmithmedia.com * block
-* blueconic.net * block
-* bluekai.com * block
-* bnmla.com * block
-* bounceexchange.com * block
-* bounceme.net * block
-* bouncex.net * block
-* brightcom.com * block
-* brightroll.com * block
-* btrll.com * block
-* bttrack.com * block
-* byside.com * block
-* c1exchange.com * block
-* casalemedia.com * block
-* casascm.pt * block
-* casinosolverde.pt * block
-* cdn.concert.io * block
-* cedato.com * block
-* cedexis-radar.net * block
-* cedexis-test.com * block
-* cedexis.com * block
-* celtra.com * block
-* centralimo.pt * block
-* chartbeat.com * block
-* chartbeat.net * block
-* cint.com * block
-* clevernetwork.pt * block
-* clevernt.com * block
-* clickly.co * block
-* comscore.com * block
-* concert.io * block
-* condenastdigital.com * block
-* conductrics.com * block
-* connatix.com * block
-* connexity.net * block
-* consensu.org * block
-* content-ad.net * block
-* contextweb.com * block
-* conversantmedia.com * block
-* convertro.com * block
-* conviva.com * block
-* cookielaw.org * block
-* coxmt.com * block
-* crazyegg.com * block
-* createjs.com * block
-* creative-serving.com * block
-* criteo.com * block
-* criteo.net * block
-* crm4d.com * block
-* crsspxl.com * block
-* crtx.info * block
-* crwdcntrl.net * block
-* cse.google.com * block
-* ctnsnet.com * block
-* cwkuki.com * block
-* cxense.com * block
-* ddns.net * block
-* de17a.com * block
-* demandwebstrem.com * block
-* demdex.net * block
-* disqus.com * block
-* disquscdn.com * block
-* dotomi.com * block
-* doubleclick.net * block
-* doubleverify.com * block
-* dynamicyield.com * block
-* dyndns.info * block
-* dyndns.org * block
-* e-goi.com * block
-* eacdn.com * block
-* easydmp.net * block
-* edigitalsurvey.com * block
-* effectivemeasure.net * block
-* effitarget.com * block
-* elogua.com * block
-* email-reflex.com * block
-* emxdgt.com * block
-* engageya.com * block
-* ero-advertising.com * block
-* eroadvertising.com * block
-* etahub.com * block
-* everesttech.net * block
-* evidon.com * block
-* exelate.com * block
-* exelator.com * block
-* exoclick.com * block
-* exosrv.com * block
-* exponential.com * block
-* eyereturn.com * block
-* eyeviewads.com * block
-* facebook.net * block
-* falseframe.com * block
-* fleetdata.com * block
-* flurry.com * block
-* frog.wix.com * block
-* fwmrm.net * block
-* fyber.com * block
-* gemius.pl * block
-* getclicky.com * block
-* getintent.com * block
-* getsocial.io * block
-* gigya.com * block
-* glotgrx.com * block
-* go-mpulse.net * block
-* google-analytics.com * block
-* googleadservices.com * block
-* googlesyndication.com * block
-* googletagmanager.com * block
-* googletagservices.com * block
-* gscontxt.net * block
-* gumgum.com * block
-* gwallet.com * block
-* h-bid.com * block
-* hopto.org * block
-* hotjar.com * block
-* hs-analytics.net * block
-* hs-scripts.com * block
-* hsadpixel.net * block
-* hscollectedforms.net * block
-* icfcdn.com * block
-* id.google.* * block
-* imonomy.com * block
-* impdesk.com * block
-* impresapublishing.pt * block
-* impressionmonster.com * block
-* improvedigital.com * block
-* imrworldwide.com * block
-* index.com * block
-* indexexchange.com * block
-* indexww.com * block
-* inner-active.com * block
-* inside-graph.com * block
-* insticator.com * block
-* instinctiveads.com * block
-* insurads.com * block
-* intergi.com * block
-* ipify.org * block
-* ipredictive.com * block
-* iteratehq.com * block
-* juicyads.com * block
-* jwpltx.com * block
-* korrelate.net * block
-* krxd.net * block
-* kwpsurveys.com * block
-* leiki.com * block
-* lightboxcdn.com * block
-* lijit.com * block
-* livefyre.com * block
-* liveintent.com * block
-* liverail.com * block
-* lkqd.com * block
-* lkqd.net * block
-* load.s3.amazonaws.com * block
-* lojaimpresa.pt * block
-* lp4.io * block
-* lporirxe.com * block
-* marktest.pt * block
-* matamo.org * block
-* mathtag.com * block
-* media.net * block
-* media6degrees.com * block
-* mediarithmics.com * block
-* mediavoice.com * block
-* megafin.pt * block
-* metaffiliation.com * block
-* metric.gstatic.com * block
-* metrica.yandex.com * block
-* metrics.brightcove.com * block
-* mfadsrv.com * block
-* mfadsrvr.com * block
-* mixpanel.com * block
-* mnet-ad.net * block
-* moatads.com * block
-* moatpixel.com * block
-* mobfox.com * block
-* mobileadtrading.com * block
-* mookie1.com * block
-* mxpnl.com * block
-* mxptint.net * block
-* myftp.org * block
-* mythings.com * block
-* myvnc.com * block
-* nativo.com * block
-* nervoussummer.com * block
-* netseer.com * block
-* newrelic.com * block
-* nexac.com * block
-* nicequest.com * block
-* nmusic.pt * block
-* no-ip.org * block
-* nossaaposta.pt * block
-* npttech.com * block
-* nr-data.net * block
-* ntv.io * block
-* ntv.iov
-* nugg.ad * block
-* oath.com * block
-* omniture.com * block
-* omtrdc.net * block
-* oneall.com * block
-* onesignal.com * block
-* onetrust.com * block
-* onthe.io * block
-* openx.com * block
-* openx.net * block
-* optimatic.com * block
-* optimizely.com * block
-* optimost.com * block
-* optnmstr.com * block
-* outbrain.com * block
-* outbrainimg.com * block
-* owneriq.net * block
-* p.typekit.net * block
-* pagefair.com * block
-* pagefair.net * block
-* parsely.com * block
-* pcdn.co * block
-* peer5.com * block
-* permutive.com * block
-* pgmcdn.com * block
-* pippio.com * block
-* pixel.facebook.com * block
-* pixel.wp.com * block
-* placeholdit.imgix.net * block
-* plista.com * block
-* polyfill.io * block
-* popads.com * block
-* postrelease.com * block
-* powerlinks.com * block
-* prebid.org * block
-* privacy-center.org * block
-* pro-market.net * block
-* programattik.com * block
-* pub.network * block
-* pubmatic.com * block
-* pubmine.com * block
-* pulsepoint.com * block
-* pushbullet.com * block
-* pusher.com * block
-* pusherapp.com * block
-* q1connect.com * block
-* quantcast.com * block
-* quantserve.com * block
-* quantum-advertising.com * block
-* rackcdn.com * block
-* ranker.com * block
-* redirectme.net * block
-* remax.pt * block
-* revcontent.com * block
-* revsci.net * block
-* rfihub.com * block
-* rhythmone.com * block
-* richaudience.com * block
-* rlcdn.com * block
-* rockyou.com * block
-* rockyou.net * block
-* rs-stripe.com * block
-* rubicon.com * block
-* rubiconproject.com * block
-* rundsp.com * block
-* sail-horizon.com * block
-* sail-personalize.com * block
-* sascdn.com * block
-* scorecardresearch.com * block
-* segment.com * block
-* segment.io * block
-* sekindo.com * block
-* semasio.net * block
-* serveblog.net * block
-* serveborn.com * block
-* servedby-buysellads.com * block
-* serveftp.com * block
-* servegame.com * block
-* servehttp.com * block
-* servepics.com * block
-* serverbeer.com * block
-* servimg.com * block
-* serving-sys.com * block
-* shareaholic.net * block
-* sharethis.com * block
-* sharethrough.com * block
-* sitescout.com * block
-* sitewebvideo.com * block
-* skimresources.com * block
-* sl.pt * block
-* smaato.com * block
-* smartadserver.com * block
-* smartclip.net * block
-* smartocto.com * block
-* sojern.com * block
-* sonobi.com * block
-* sovrn.com * block
-* speedcurve.com * block
-* spotx.tv * block
-* spotxchange.com * block
-* springserve.com * block
-* statcounter.com * block
-* stats.wordpress.com * block
-* stats.wp.com * block
-* stickyadstv.com * block
-* storygize.net * block
-* streamrail.com * block
-* summerhamster.com * block
-* sunmedia.tv * block
-* swelen.com * block
-* synacor.com * block
-* sytes.net * block
-* taboola.com * block
-* tagmanager.yahoo.* * block
-* tapad.com * block
-* teads.tv * block
-* tealium.com * block
-* tekblue.net * block
-* tidaltv.com * block
-* tinypass.com * block
-* tiqcdn.com * block
-* trafficforce.com * block
-* trafficjunky.com * block
-* trafficjunky.net * block
-* tremorhub.com * block
-* tribalfusion.com * block
-* triplelift.com * block
-* truste.com * block
-* trustx.org * block
-* tsyndicate.com * block
-* tubemogul.com * block
-* turn.com * block
-* tynt.com * block
-* unrulymedia.com * block
-* usabilla.com * block
-* userreport.com * block
-* vendorlist.consensu.org * block
-* vertamedia.com * block
-* vi.ai * block
-* vidazoo.com * block
-* viglink.com * block
-* vilynx.com * block
-* vindicosuite.com * block
-* virool.com * block
-* visualdna.com * block
-* visualwebsiteoptimizer.com * block
-* vk.com * block
-* w55c.net * block
-* weborama.com * block
-* weborama.fr * block
-* wibbitz.com * block
-* wsod.com * block
-* xl.pt * block
-* yabidos.com * block
-* yieldlab.net * block
-* yieldmo.com * block
-* yuktamedia.com * block
-* zapto.org * block
-* zemanta.com * block
-* zencdn.net * block
-* zergnet.com * block
-* zqtk.net * block
+0.0.0.0 1rx.io
+0.0.0.0 2mdn.net
+0.0.0.0 2o7.net
+0.0.0.0 33across.com
+0.0.0.0 360yield.com
+0.0.0.0 3lift.com
+0.0.0.0 3utilities.com
+0.0.0.0 a-ads.com
+0.0.0.0 aaxads.com
+0.0.0.0 acuityplatform.com
+0.0.0.0 ad-score.com
+0.0.0.0 adblade.com
+0.0.0.0 adbrn.com
+0.0.0.0 addthis.com
+0.0.0.0 addthisedge.com
+0.0.0.0 adentifi.com
+0.0.0.0 adform.com
+0.0.0.0 adform.net
+0.0.0.0 adfrontiers.com
+0.0.0.0 adglare.net
+0.0.0.0 adgrx.com
+0.0.0.0 adhese.com
+0.0.0.0 adhigh.net
+0.0.0.0 adhood.com
+0.0.0.0 adition.com
+0.0.0.0 adkernel.com
+0.0.0.0 adledge.com
+0.0.0.0 adlightning.com
+0.0.0.0 admantx.com
+0.0.0.0 admedo.com
+0.0.0.0 admixer.net
+0.0.0.0 adnxs.com
+0.0.0.0 adomik.com
+0.0.0.0 adotmob.com
+0.0.0.0 adrcdn.com
+0.0.0.0 adroll.com
+0.0.0.0 ads-twitter.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 adserver.adtech.de
+0.0.0.0 adservice.google.*
+0.0.0.0 adsrvr.org
+0.0.0.0 adsymptotic.com
+0.0.0.0 adtech.com
+0.0.0.0 adtechus.com
+0.0.0.0 adtlgc.com
+0.0.0.0 advertising.com
+0.0.0.0 adyoulike.com
+0.0.0.0 adzerk.net
+0.0.0.0 aerserv.com
+0.0.0.0 afy11.net
+0.0.0.0 agkn.com
+0.0.0.0 alooma.com
+0.0.0.0 altitude-arena.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amp.services
+0.0.0.0 amplitude.com
+0.0.0.0 ampproject.org
+0.0.0.0 aolcdn.com
+0.0.0.0 appier.net
+0.0.0.0 appnexus.com
+0.0.0.0 appspot.com
+0.0.0.0 aralego.com
+0.0.0.0 arrivalist.com
+0.0.0.0 assets.adobedtm.net
+0.0.0.0 astartpage.com
+0.0.0.0 aswpsdkus.com
+0.0.0.0 atdmt.com
+0.0.0.0 awin.com
+0.0.0.0 bat.bing.com
+0.0.0.0 beachfront.com
+0.0.0.0 beachfrontmedia.com
+0.0.0.0 beemray.com
+0.0.0.0 bet.pt
+0.0.0.0 betrad.com
+0.0.0.0 bfmio.com
+0.0.0.0 bid.com
+0.0.0.0 bidfluence.com
+0.0.0.0 bidswitch.net
+0.0.0.0 bidtellect.com
+0.0.0.0 bidtheatre.com
+0.0.0.0 bizible.com
+0.0.0.0 bkrtx.com
+0.0.0.0 blismedia.com
+0.0.0.0 blogsmithmedia.com
+0.0.0.0 blueconic.net
+0.0.0.0 bluekai.com
+0.0.0.0 bnmla.com
+0.0.0.0 bounceexchange.com
+0.0.0.0 bounceme.net
+0.0.0.0 bouncex.net
+0.0.0.0 brightcom.com
+0.0.0.0 brightroll.com
+0.0.0.0 btrll.com
+0.0.0.0 bttrack.com
+0.0.0.0 byside.com
+0.0.0.0 c1exchange.com
+0.0.0.0 casalemedia.com
+0.0.0.0 casascm.pt
+0.0.0.0 casinosolverde.pt
+0.0.0.0 cdn.concert.io
+0.0.0.0 cedato.com
+0.0.0.0 cedexis-radar.net
+0.0.0.0 cedexis-test.com
+0.0.0.0 cedexis.com
+0.0.0.0 celtra.com
+0.0.0.0 centralimo.pt
+0.0.0.0 chartbeat.com
+0.0.0.0 chartbeat.net
+0.0.0.0 cint.com
+0.0.0.0 clevernetwork.pt
+0.0.0.0 clevernt.com
+0.0.0.0 clickly.co
+0.0.0.0 comscore.com
+0.0.0.0 concert.io
+0.0.0.0 condenastdigital.com
+0.0.0.0 conductrics.com
+0.0.0.0 connatix.com
+0.0.0.0 connexity.net
+0.0.0.0 consensu.org
+0.0.0.0 content-ad.net
+0.0.0.0 contextweb.com
+0.0.0.0 conversantmedia.com
+0.0.0.0 convertro.com
+0.0.0.0 conviva.com
+0.0.0.0 cookielaw.org
+0.0.0.0 coxmt.com
+0.0.0.0 crazyegg.com
+0.0.0.0 createjs.com
+0.0.0.0 creative-serving.com
+0.0.0.0 criteo.com
+0.0.0.0 criteo.net
+0.0.0.0 crm4d.com
+0.0.0.0 crsspxl.com
+0.0.0.0 crtx.info
+0.0.0.0 crwdcntrl.net
+0.0.0.0 cse.google.com
+0.0.0.0 ctnsnet.com
+0.0.0.0 cwkuki.com
+0.0.0.0 cxense.com
+0.0.0.0 ddns.net
+0.0.0.0 de17a.com
+0.0.0.0 demandwebstrem.com
+0.0.0.0 demdex.net
+0.0.0.0 disqus.com
+0.0.0.0 disquscdn.com
+0.0.0.0 dotomi.com
+0.0.0.0 doubleclick.net
+0.0.0.0 doubleverify.com
+0.0.0.0 dynamicyield.com
+0.0.0.0 dyndns.info
+0.0.0.0 dyndns.org
+0.0.0.0 e-goi.com
+0.0.0.0 eacdn.com
+0.0.0.0 easydmp.net
+0.0.0.0 edigitalsurvey.com
+0.0.0.0 effectivemeasure.net
+0.0.0.0 effitarget.com
+0.0.0.0 elogua.com
+0.0.0.0 email-reflex.com
+0.0.0.0 emxdgt.com
+0.0.0.0 engageya.com
+0.0.0.0 ero-advertising.com
+0.0.0.0 eroadvertising.com
+0.0.0.0 etahub.com
+0.0.0.0 everesttech.net
+0.0.0.0 evidon.com
+0.0.0.0 exelate.com
+0.0.0.0 exelator.com
+0.0.0.0 exoclick.com
+0.0.0.0 exosrv.com
+0.0.0.0 exponential.com
+0.0.0.0 eyereturn.com
+0.0.0.0 eyeviewads.com
+0.0.0.0 facebook.net
+0.0.0.0 falseframe.com
+0.0.0.0 fleetdata.com
+0.0.0.0 flurry.com
+0.0.0.0 frog.wix.com
+0.0.0.0 fwmrm.net
+0.0.0.0 fyber.com
+0.0.0.0 gemius.pl
+0.0.0.0 getclicky.com
+0.0.0.0 getintent.com
+0.0.0.0 getsocial.io
+0.0.0.0 gigya.com
+0.0.0.0 glotgrx.com
+0.0.0.0 go-mpulse.net
+0.0.0.0 google-analytics.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 googletagservices.com
+0.0.0.0 gscontxt.net
+0.0.0.0 gumgum.com
+0.0.0.0 gwallet.com
+0.0.0.0 h-bid.com
+0.0.0.0 hopto.org
+0.0.0.0 hotjar.com
+0.0.0.0 hs-analytics.net
+0.0.0.0 hs-scripts.com
+0.0.0.0 hsadpixel.net
+0.0.0.0 hscollectedforms.net
+0.0.0.0 icfcdn.com
+0.0.0.0 id.google.*
+0.0.0.0 imonomy.com
+0.0.0.0 impdesk.com
+0.0.0.0 impresapublishing.pt
+0.0.0.0 impressionmonster.com
+0.0.0.0 improvedigital.com
+0.0.0.0 imrworldwide.com
+0.0.0.0 index.com
+0.0.0.0 indexexchange.com
+0.0.0.0 indexww.com
+0.0.0.0 inner-active.com
+0.0.0.0 inside-graph.com
+0.0.0.0 insticator.com
+0.0.0.0 instinctiveads.com
+0.0.0.0 insurads.com
+0.0.0.0 intergi.com
+0.0.0.0 ipify.org
+0.0.0.0 ipredictive.com
+0.0.0.0 iteratehq.com
+0.0.0.0 juicyads.com
+0.0.0.0 jwpltx.com
+0.0.0.0 korrelate.net
+0.0.0.0 krxd.net
+0.0.0.0 kwpsurveys.com
+0.0.0.0 leiki.com
+0.0.0.0 lightboxcdn.com
+0.0.0.0 lijit.com
+0.0.0.0 livefyre.com
+0.0.0.0 liveintent.com
+0.0.0.0 liverail.com
+0.0.0.0 lkqd.com
+0.0.0.0 lkqd.net
+0.0.0.0 load.s3.amazonaws.com
+0.0.0.0 lojaimpresa.pt
+0.0.0.0 lp4.io
+0.0.0.0 lporirxe.com
+0.0.0.0 marktest.pt
+0.0.0.0 matamo.org
+0.0.0.0 mathtag.com
+0.0.0.0 media.net
+0.0.0.0 media6degrees.com
+0.0.0.0 mediarithmics.com
+0.0.0.0 mediavoice.com
+0.0.0.0 megafin.pt
+0.0.0.0 metaffiliation.com
+0.0.0.0 metric.gstatic.com
+0.0.0.0 metrica.yandex.com
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 mfadsrv.com
+0.0.0.0 mfadsrvr.com
+0.0.0.0 mixpanel.com
+0.0.0.0 mnet-ad.net
+0.0.0.0 moatads.com
+0.0.0.0 moatpixel.com
+0.0.0.0 mobfox.com
+0.0.0.0 mobileadtrading.com
+0.0.0.0 mookie1.com
+0.0.0.0 mxpnl.com
+0.0.0.0 mxptint.net
+0.0.0.0 myftp.org
+0.0.0.0 mythings.com
+0.0.0.0 myvnc.com
+0.0.0.0 nativo.com
+0.0.0.0 nervoussummer.com
+0.0.0.0 netseer.com
+0.0.0.0 newrelic.com
+0.0.0.0 nexac.com
+0.0.0.0 nicequest.com
+0.0.0.0 nmusic.pt
+0.0.0.0 no-ip.org
+0.0.0.0 nossaaposta.pt
+0.0.0.0 npttech.com
+0.0.0.0 nr-data.net
+0.0.0.0 ntv.io
+0.0.0.0 ntv.iov
+0.0.0.0 nugg.ad
+0.0.0.0 oath.com
+0.0.0.0 omniture.com
+0.0.0.0 omtrdc.net
+0.0.0.0 oneall.com
+0.0.0.0 onesignal.com
+0.0.0.0 onetrust.com
+0.0.0.0 onthe.io
+0.0.0.0 openx.com
+0.0.0.0 openx.net
+0.0.0.0 optimatic.com
+0.0.0.0 optimizely.com
+0.0.0.0 optimost.com
+0.0.0.0 optnmstr.com
+0.0.0.0 outbrain.com
+0.0.0.0 outbrainimg.com
+0.0.0.0 owneriq.net
+0.0.0.0 p.typekit.net
+0.0.0.0 pagefair.com
+0.0.0.0 pagefair.net
+0.0.0.0 parsely.com
+0.0.0.0 pcdn.co
+0.0.0.0 peer5.com
+0.0.0.0 permutive.com
+0.0.0.0 pgmcdn.com
+0.0.0.0 pippio.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.wp.com
+0.0.0.0 placeholdit.imgix.net
+0.0.0.0 plista.com
+0.0.0.0 polyfill.io
+0.0.0.0 popads.com
+0.0.0.0 postrelease.com
+0.0.0.0 powerlinks.com
+0.0.0.0 prebid.org
+0.0.0.0 privacy-center.org
+0.0.0.0 pro-market.net
+0.0.0.0 programattik.com
+0.0.0.0 pub.network
+0.0.0.0 pubmatic.com
+0.0.0.0 pubmine.com
+0.0.0.0 pulsepoint.com
+0.0.0.0 pushbullet.com
+0.0.0.0 pusher.com
+0.0.0.0 pusherapp.com
+0.0.0.0 q1connect.com
+0.0.0.0 quantcast.com
+0.0.0.0 quantserve.com
+0.0.0.0 quantum-advertising.com
+0.0.0.0 rackcdn.com
+0.0.0.0 ranker.com
+0.0.0.0 redirectme.net
+0.0.0.0 remax.pt
+0.0.0.0 revcontent.com
+0.0.0.0 revsci.net
+0.0.0.0 rfihub.com
+0.0.0.0 rhythmone.com
+0.0.0.0 richaudience.com
+0.0.0.0 rlcdn.com
+0.0.0.0 rockyou.com
+0.0.0.0 rockyou.net
+0.0.0.0 rs-stripe.com
+0.0.0.0 rubicon.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 rundsp.com
+0.0.0.0 sail-horizon.com
+0.0.0.0 sail-personalize.com
+0.0.0.0 sascdn.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 segment.com
+0.0.0.0 segment.io
+0.0.0.0 sekindo.com
+0.0.0.0 semasio.net
+0.0.0.0 serveblog.net
+0.0.0.0 serveborn.com
+0.0.0.0 servedby-buysellads.com
+0.0.0.0 serveftp.com
+0.0.0.0 servegame.com
+0.0.0.0 servehttp.com
+0.0.0.0 servepics.com
+0.0.0.0 serverbeer.com
+0.0.0.0 servimg.com
+0.0.0.0 serving-sys.com
+0.0.0.0 shareaholic.net
+0.0.0.0 sharethis.com
+0.0.0.0 sharethrough.com
+0.0.0.0 sitescout.com
+0.0.0.0 sitewebvideo.com
+0.0.0.0 skimresources.com
+0.0.0.0 sl.pt
+0.0.0.0 smaato.com
+0.0.0.0 smartadserver.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartocto.com
+0.0.0.0 sojern.com
+0.0.0.0 sonobi.com
+0.0.0.0 sovrn.com
+0.0.0.0 speedcurve.com
+0.0.0.0 spotx.tv
+0.0.0.0 spotxchange.com
+0.0.0.0 springserve.com
+0.0.0.0 statcounter.com
+0.0.0.0 stats.wordpress.com
+0.0.0.0 stats.wp.com
+0.0.0.0 stickyadstv.com
+0.0.0.0 storygize.net
+0.0.0.0 streamrail.com
+0.0.0.0 summerhamster.com
+0.0.0.0 sunmedia.tv
+0.0.0.0 swelen.com
+0.0.0.0 synacor.com
+0.0.0.0 sytes.net
+0.0.0.0 taboola.com
+0.0.0.0 tagmanager.yahoo.*
+0.0.0.0 tapad.com
+0.0.0.0 teads.tv
+0.0.0.0 tealium.com
+0.0.0.0 tekblue.net
+0.0.0.0 tidaltv.com
+0.0.0.0 tinypass.com
+0.0.0.0 tiqcdn.com
+0.0.0.0 trafficforce.com
+0.0.0.0 trafficjunky.com
+0.0.0.0 trafficjunky.net
+0.0.0.0 tremorhub.com
+0.0.0.0 tribalfusion.com
+0.0.0.0 triplelift.com
+0.0.0.0 truste.com
+0.0.0.0 trustx.org
+0.0.0.0 tsyndicate.com
+0.0.0.0 tubemogul.com
+0.0.0.0 turn.com
+0.0.0.0 tynt.com
+0.0.0.0 unrulymedia.com
+0.0.0.0 usabilla.com
+0.0.0.0 userreport.com
+0.0.0.0 vendorlist.consensu.org
+0.0.0.0 vertamedia.com
+0.0.0.0 vi.ai
+0.0.0.0 vidazoo.com
+0.0.0.0 viglink.com
+0.0.0.0 vilynx.com
+0.0.0.0 vindicosuite.com
+0.0.0.0 virool.com
+0.0.0.0 visualdna.com
+0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 vk.com
+0.0.0.0 w55c.net
+0.0.0.0 weborama.com
+0.0.0.0 weborama.fr
+0.0.0.0 wibbitz.com
+0.0.0.0 wsod.com
+0.0.0.0 xl.pt
+0.0.0.0 yabidos.com
+0.0.0.0 yieldlab.net
+0.0.0.0 yieldmo.com
+0.0.0.0 yuktamedia.com
+0.0.0.0 zapto.org
+0.0.0.0 zemanta.com
+0.0.0.0 zencdn.net
+0.0.0.0 zergnet.com
+0.0.0.0 zqtk.net
