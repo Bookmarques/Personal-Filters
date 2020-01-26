@@ -1,3 +1,0 @@
-0.0.0.0 yabidos.com
-0.0.0.0 yieldlab.net
-0.0.0.0 yieldmo.com
