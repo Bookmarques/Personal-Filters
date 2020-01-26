@@ -272,13 +272,13 @@
 0.0.0.0 newrelic.com
 0.0.0.0 nexac.com
 0.0.0.0 nicequest.com
+0.0.0.0 nile.works
 0.0.0.0 nmusic.pt
 0.0.0.0 no-ip.org
 0.0.0.0 nossaaposta.pt
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 ntv.io
-0.0.0.0 nugg.ad
 0.0.0.0 oath.com
 0.0.0.0 omniture.com
 0.0.0.0 omtrdc.net
@@ -419,6 +419,7 @@
 0.0.0.0 vertamedia.com
 0.0.0.0 vi.ai
 0.0.0.0 vidazoo.com
+0.0.0.0 videoplayerhub.com
 0.0.0.0 viglink.com
 0.0.0.0 vilynx.com
 0.0.0.0 vindicosuite.com
