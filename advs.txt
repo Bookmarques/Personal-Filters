@@ -30,6 +30,7 @@
 0.0.0.0 admedo.com
 0.0.0.0 admixer.net
 0.0.0.0 adnxs.com
+0.0.0.0 adobedtm
 0.0.0.0 adomik.com
 0.0.0.0 adotmob.com
 0.0.0.0 adrcdn.com
@@ -223,6 +224,7 @@
 0.0.0.0 iteratehq.com
 0.0.0.0 juicyads.com
 0.0.0.0 jwpltx.com
+0.0.0.0 keywee.co
 0.0.0.0 korrelate.net
 0.0.0.0 krxd.net
 0.0.0.0 kwpsurveys.com
