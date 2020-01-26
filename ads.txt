@@ -111,6 +111,7 @@
 0.0.0.0 clevernetwork.pt
 0.0.0.0 clevernt.com
 0.0.0.0 clickly.co
+0.0.0.0 collector.githubapp.com
 0.0.0.0 comscore.com
 0.0.0.0 concert.io
 0.0.0.0 condenastdigital.com
