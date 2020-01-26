@@ -37,6 +37,7 @@
 0.0.0.0 admantx.com
 0.0.0.0 admedo.com
 0.0.0.0 admixer.net
+0.0.0.0 adnxs.com 
 0.0.0.0 adomik.com
 0.0.0.0 adotmob.com
 0.0.0.0 adrcdn.com
@@ -58,6 +59,7 @@
 0.0.0.0 aerserv.com
 0.0.0.0 afy11.net
 0.0.0.0 agkn.com
+0.0.0.0 akadns.net 
 0.0.0.0 alooma.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 amazon-adsystem.com
