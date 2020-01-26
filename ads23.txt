@@ -1,0 +1,4 @@
+0.0.0.0 wibbitz.com
+0.0.0.0 ws.globalnoticias.pt
+0.0.0.0 wsod.com
+0.0.0.0 xl.pt
