@@ -38,7 +38,7 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adserver.adtech.de
-0.0.0.0 adservice.google.*
+0.0.0.0 adservice.google
 0.0.0.0 adsrvr.org
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtech.com
