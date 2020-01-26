@@ -207,6 +207,7 @@
 0.0.0.0 eyeviewads.com
 0.0.0.0 facebook.net
 0.0.0.0 falseframe.com
+0.0.0.0 fapi-elb-1180347742.eu-west-1.elb.amazonaws.com
 0.0.0.0 fleetdata.com
 0.0.0.0 flurry.com
 0.0.0.0 fotorama.io
