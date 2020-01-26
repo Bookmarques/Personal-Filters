@@ -279,6 +279,7 @@
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 ntv.io
+0.0.0.0 nugg.ad
 0.0.0.0 oath.com
 0.0.0.0 omniture.com
 0.0.0.0 omtrdc.net
