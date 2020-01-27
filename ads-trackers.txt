@@ -292,7 +292,6 @@
 0.0.0.0 lkqd.com
 0.0.0.0 lkqd.net
 0.0.0.0 load.s3.amazonaws.com
-0.0.0.0 login.sapo.pt 
 0.0.0.0 lojaimpresa.pt
 0.0.0.0 lp4.io
 0.0.0.0 lporirxe.com
