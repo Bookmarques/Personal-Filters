@@ -380,6 +380,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 placeholdit.imgix.net
 0.0.0.0 planeo.pt
+0.0.0.0 play.google.com
 0.0.0.0 plista.com
 0.0.0.0 polyfill.io
 0.0.0.0 popads.com
