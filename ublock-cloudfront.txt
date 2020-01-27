@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Name: Cloudfront: The Usual Suspects
+! Title: Cloudfront: The Usual Suspects
 ! Expires: 7 days
 ! Description: One, i mean, several filters to rule them all
 !
