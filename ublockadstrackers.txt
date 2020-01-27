@@ -407,7 +407,6 @@ Adblock Plus 2.0]
 ||quantcast.com^
 ||quantserve.com^
 ||quantum-advertising.com^
-||rackcdn.com^
 ||ranker.com^
 ||realtime.co^
 ||redirectme.net^
