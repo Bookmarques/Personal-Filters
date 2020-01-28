@@ -84,6 +84,7 @@
 0.0.0.0 atdmt.com
 0.0.0.0 atlassbx.com
 0.0.0.0 awin.com
+0.0.0.0 bannersnack.com
 0.0.0.0 baseDomain
 0.0.0.0 basebanner.com
 0.0.0.0 bat.bing.com
@@ -297,6 +298,7 @@
 0.0.0.0 lp4.io
 0.0.0.0 lporirxe.com
 0.0.0.0 m6r.eu
+0.0.0.0 mailmunch.co
 0.0.0.0 marktest.pt
 0.0.0.0 matamo.org
 0.0.0.0 mathtag.com
