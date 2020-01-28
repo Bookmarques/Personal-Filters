@@ -418,6 +418,7 @@
 0.0.0.0 richaudience.com
 0.0.0.0 rkdms.com
 0.0.0.0 rlcdn.com
+0.0.0.0 rmp-data.com
 0.0.0.0 rockyou.com
 0.0.0.0 rockyou.net
 0.0.0.0 rs-stripe.com
