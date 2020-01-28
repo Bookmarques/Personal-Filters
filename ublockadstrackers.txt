@@ -197,7 +197,6 @@ Adblock Plus 2.0]
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||effitarget.com^
-||elb079217-1169611713.us-east-1.elb.amazonaws.com^
 ||elogua.com^
 ||email-reflex.com^
 ||emxdgt.com^
