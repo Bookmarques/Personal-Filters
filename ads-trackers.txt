@@ -478,6 +478,7 @@
 0.0.0.0 sunmedia.tv
 0.0.0.0 support.theguardian.com
 0.0.0.0 swelen.com
+0.0.0.0 swiftypecdn.com
 0.0.0.0 synacor.com
 0.0.0.0 sytes.net
 0.0.0.0 taboola.com
