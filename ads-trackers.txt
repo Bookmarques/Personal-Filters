@@ -61,7 +61,8 @@
 0.0.0.0 aerserv.com
 0.0.0.0 afy11.net
 0.0.0.0 agkn.com
-0.0.0.0 akadns.net 
+0.0.0.0 akadns.net
+0.0.0.0 alexametrics.com
 0.0.0.0 alooma.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 amazon-adsystem.com
