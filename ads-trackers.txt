@@ -323,6 +323,7 @@
 0.0.0.0 mobfox.com
 0.0.0.0 mobileadtrading.com
 0.0.0.0 mookie1.com
+0.0.0.0 mql5.com
 0.0.0.0 mstrlytcs.com
 0.0.0.0 mxpnl.com
 0.0.0.0 mxptint.net
@@ -540,6 +541,7 @@
 0.0.0.0 ws.globalnoticias.pt
 0.0.0.0 wsod.com
 0.0.0.0 xl.pt
+0.0.0.0 xhamsterlive.com
 0.0.0.0 y-medialink.com
 0.0.0.0 yabidos.com
 0.0.0.0 yieldlab.net
