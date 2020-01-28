@@ -314,6 +314,7 @@
 0.0.0.0 mediavoice.com
 0.0.0.0 megafin.pt
 0.0.0.0 metaffiliation.com
+0.0.0.0 metartmoney.com
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics.brightcove.com
