@@ -222,6 +222,7 @@
 0.0.0.0 extend.tv
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
+0.0.0.0 ezoic.net
 0.0.0.0 facebook.net
 0.0.0.0 falseframe.com
 0.0.0.0 fapi-elb-1180347742.eu-west-1.elb.amazonaws.com
