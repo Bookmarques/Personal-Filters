@@ -124,6 +124,7 @@
 0.0.0.0 byside.com
 0.0.0.0 c1exchange.com
 0.0.0.0 campeaoprovincias.pt
+0.0.0.0 carbonads.com
 0.0.0.0 cardlytics.com
 0.0.0.0 casalemedia.com
 0.0.0.0 casascm.pt
