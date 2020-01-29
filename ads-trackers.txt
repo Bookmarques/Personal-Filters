@@ -31,6 +31,7 @@
 0.0.0.0 adhood.com
 0.0.0.0 adition.com
 0.0.0.0 adizio.com
+0.0.0.0 ads.jeded.com
 0.0.0.0 adkernel.com
 0.0.0.0 adledge.com
 0.0.0.0 adlightning.com
