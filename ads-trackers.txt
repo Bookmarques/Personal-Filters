@@ -85,6 +85,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 atdmt.com
 0.0.0.0 atlassbx.com
+0.0.0.0 automate-prod.s3.amazonaws.com
 0.0.0.0 awin.com
 0.0.0.0 bannersnack.com
 0.0.0.0 baseDomain
