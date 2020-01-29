@@ -183,6 +183,7 @@
 0.0.0.0 demdex.net
 0.0.0.0 disqus.com
 0.0.0.0 disquscdn.com
+0.0.0.0 districtm.ca
 0.0.0.0 domdex.com
 0.0.0.0 dotomi.com
 0.0.0.0 doubleclick.net
@@ -225,6 +226,7 @@
 0.0.0.0 fapi-elb-1180347742.eu-west-1.elb.amazonaws.com
 0.0.0.0 fleetdata.com
 0.0.0.0 flurry.com
+0.0.0.0 flyertown.ca
 0.0.0.0 fotorama.io
 0.0.0.0 foxpush.com
 0.0.0.0 frog.wix.com
