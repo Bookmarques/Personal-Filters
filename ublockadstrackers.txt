@@ -1,4 +1,4 @@
-Adblock Plus 2.0]
+[Adblock Plus 2.0]
 ! Title: And Now, For Something Completely Different
 ! Expires: 7 days
 ! Description: One, i mean, several filters to rule them all
