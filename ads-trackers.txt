@@ -1,14 +1,3 @@
-0.0.0.0 111.91.190.35.bc.googleusercontent.com
-0.0.0.0 119.29.196.104.bc.googleusercontent.com
-0.0.0.0 175.220.196.104.bc.googleusercontent.com
-0.0.0.0 184.48.190.35.bc.googleusercontent.com
-0.0.0.0 202.90.190.35.bc.googleusercontent.com
-0.0.0.0 246.39.190.35.bc.googleusercontent.com
-0.0.0.0 42.219.186.35.bc.googleusercontent.com
-0.0.0.0 49.74.190.35.bc.googleusercontent.com
-0.0.0.0 64.98.201.35.bc.googleusercontent.com
-0.0.0.0 79423.analytics.edgekey.net
-0.0.0.0 84.249.186.35.bc.googleusercontent.com
 0.0.0.0 1rx.io
 0.0.0.0 24live.co
 0.0.0.0 24liveblog.com
