@@ -645,6 +645,7 @@
 0.0.0.0 pushbullet.com
 0.0.0.0 pusher.com
 0.0.0.0 pusherapp.com
+0.0.0.0 pvclouds.com
 0.0.0.0 q1connect.com
 0.0.0.0 quantcast.com
 0.0.0.0 quantserve.com
