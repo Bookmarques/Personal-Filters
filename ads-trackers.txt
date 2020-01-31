@@ -702,6 +702,7 @@
 0.0.0.0 shareaholic.net
 0.0.0.0 sharethis.com
 0.0.0.0 sharethrough.com
+0.0.0.0 siftscience.com
 0.0.0.0 simpli.fi
 0.0.0.0 siradsalot.com
 0.0.0.0 sitescout.com
