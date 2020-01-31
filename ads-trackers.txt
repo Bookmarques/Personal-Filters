@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: And Now, For Something Completely Different
+! Expires: 7 days
+! Description: One, i mean, several filters to rule them all
+!
 0.0.0.0 1rx.io
 0.0.0.0 24live.co
 0.0.0.0 24liveblog.com
