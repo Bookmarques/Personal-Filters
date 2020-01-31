@@ -406,7 +406,6 @@
 0.0.0.0 google.pn
 0.0.0.0 google.pr
 0.0.0.0 google.ps
-0.0.0.0 google.pt
 0.0.0.0 google.py
 0.0.0.0 google.qa
 0.0.0.0 google.ro
