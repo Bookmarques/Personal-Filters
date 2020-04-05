@@ -43,8 +43,7 @@
 ||adlightning.com^
 ||admantx.com^
 ||admedo.com^
-||admixer.net^
-||adnxs.com^ 
+||admixer.net^ 
 ||adobedtm.com^
 ||adomik.com^
 ||adotmob.com^
@@ -273,7 +272,6 @@
 ||insticator.com^
 ||instinctiveads.com^
 ||insurads.com^
-||intellitxt.com^
 ||intentiq.com^
 ||interactive.guim.co.uk
 ||intergi.com^
@@ -483,7 +481,6 @@
 ||swelen.com^
 ||synacor.com^
 ||sytes.net^
-||taboola.com^
 ||tagcdn.com^
 ||tagmanager.yahoo^
 ||tapad.com^
