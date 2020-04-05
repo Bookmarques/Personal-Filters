@@ -53,7 +53,6 @@
 ||ads-twitter.com^
 ||adsafeprotected.com^
 ||adscale.de^
-||adserver.adtech.de^
 ||adservice.google.com^
 ||adsrvr.org^
 ||adsymptotic.com^
@@ -147,7 +146,6 @@
 ||conde.io^
 ||condenastdigital.com^
 ||conductrics.com^
-||confiant-integrations.global.ssl.fastly.net^ 
 ||connatix.com^
 ||connexity.net^
 ||consensu.org^
@@ -196,7 +194,6 @@
 ||edigitalsurvey.com^
 ||effectivemeasure.net^
 ||effitarget.com^
-||elb079217-1169611713.us-east-1.elb.amazonaws.com^
 ||elogua.com^
 ||email-reflex.com^
 ||emxdgt.com^
@@ -219,7 +216,6 @@
 ||eyeviewads.com^
 ||facebook.net^
 ||falseframe.com^
-||fapi-elb-1180347742.eu-west-1.elb.amazonaws.com^
 ||fleetdata.com^
 ||flurry.com^
 ||fotorama.io^
@@ -294,7 +290,6 @@
 ||lkqd.com^
 ||lkqd.net^
 ||load.s3.amazonaws.com^
-||login.sapo.pt^ 
 ||lojaimpresa.pt^
 ||lp4.io^
 ||lporirxe.com^
@@ -387,7 +382,6 @@
 ||popads.com^
 ||postrelease.com^
 ||powerlinks.com^
-||prd-elb-ipdetect-b-744255226.us-east-1.elb.amazonaws.com^
 ||prebid.org^
 ||privacy-center.org^
 ||pro-market.net^
@@ -447,7 +441,6 @@
 ||shareaholic.net^
 ||sharethis.com^
 ||sharethrough.com^
-||simpli.fi^
 ||siradsalot.com^
 ||sitescout.com^
 ||sitewebvideo.com^
@@ -478,7 +471,6 @@
 ||summerhamster.com^
 ||sunmedia.tv^
 ||support.theguardian.com^
-||swelen.com^
 ||synacor.com^
 ||sytes.net^
 ||tagcdn.com^
