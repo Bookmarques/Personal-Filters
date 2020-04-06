@@ -67,6 +67,7 @@
 ||afy11.net^
 ||agkn.com^
 ||akadns.net^ 
+||alexametrics.com^
 ||alooma.com^
 ||altitude-arena.com^
 ||amazon-adsystem.com^
