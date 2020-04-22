@@ -462,7 +462,6 @@
 ||mixpanel.com$third-party
 ||mktoresp.com$third-party
 ||mkt.publico.pt$third-party
-||mkt.publico.pt$third-party
 ||ml314.com$third-party
 ||mnet-ad.net$third-party
 ||mntzrlt.net$third-party
