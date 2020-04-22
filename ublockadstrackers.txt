@@ -270,7 +270,7 @@
 ||dtscout.com$third-party
 ||dwin1.com$third-party
 ||dynamicyield.com$third-party
-||dyndns.info
+||dyndns.info$third-party
 ||dyndns.org$third-party
 ||dynsrvtyu.com$third-party
 ||dyntrk.com$third-party
@@ -312,8 +312,6 @@
 ||eyereturn.com$third-party
 ||eyeviewads.com$third-party
 ||ezoic.net$third-party
-||facebook.com$third-party
-||facebook.net$third-party
 ||facebook.net$third-party,domain=~facebook.com
 ||faktor.io$third-party
 ||falseframe.com$third-party
@@ -329,7 +327,7 @@
 ||frog.wix.com$third-party
 ||fwmrm.net$third-party
 ||fyber.com$third-party
-||gemius.pl
+||gemius.pl$third-party
 ||getclicky.com$third-party
 ||getintent.com$third-party
 ||getsocial.io$third-party
@@ -344,8 +342,6 @@
 ||gscontxt.net$third-party
 ||gscounters.eu1.gigya.com$third-party
 ||gssprt.jp$third-party
-||gu-web.net$third-party 
-||guardianapps.co.uk
 ||gumgum.com$third-party
 ||gwallet.com$third-party
 ||h-bid.com$third-party
@@ -568,7 +564,7 @@
 ||pro-market.net$third-party
 ||programattik.com$third-party
 ||promo-bc.com$third-party
-||promotionzone.eu
+||promotionzone.eu$third-party
 ||pswec.com$third-party
 ||pub.network$third-party
 ||publicoid.com$third-party 
