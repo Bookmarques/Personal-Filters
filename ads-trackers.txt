@@ -240,6 +240,7 @@
 0.0.0.0 frog.wix.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
+0.0.0.0 g.jwpsrv.com
 0.0.0.0 gaug.es
 0.0.0.0 gemius.pl
 0.0.0.0 getclicky.com
