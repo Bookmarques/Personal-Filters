@@ -1,4 +1,0 @@
-0.0.0.0 bugsnag.com
-0.0.0.0 buysellads.com
-0.0.0.0 byside.com
-0.0.0.0 c.appier.net
