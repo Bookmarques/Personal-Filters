@@ -793,6 +793,7 @@
 0.0.0.0 ws.globalnoticias.pt
 0.0.0.0 wsod.com
 0.0.0.0 xhamsterlive.com
+0.0.0.0 xhamsterpremium.com
 0.0.0.0 xl.pt
 0.0.0.0 y-medialink.com
 0.0.0.0 yabidos.com
