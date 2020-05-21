@@ -52,7 +52,6 @@
 0.0.0.0 admixer.net
 0.0.0.0 adnium.com
 0.0.0.0 adnxs.com
-0.0.0.0 adnxs.com 
 0.0.0.0 adobedtm.com
 0.0.0.0 adomik.com
 0.0.0.0 adotmob.com
@@ -68,7 +67,6 @@
 0.0.0.0 adscale.de
 0.0.0.0 adsco.re
 0.0.0.0 adserver.adtech.de
-0.0.0.0 adservice.google.*
 0.0.0.0 adservice.google.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsrvr.org
@@ -251,7 +249,6 @@
 0.0.0.0 cxense.com
 0.0.0.0 cxpublic.com
 0.0.0.0 dc-storm.com
-0.0.0.0 ddns.net
 0.0.0.0 de17a.com
 0.0.0.0 deepintent.com
 0.0.0.0 demandbase.com
@@ -275,8 +272,6 @@
 0.0.0.0 dtscout.com
 0.0.0.0 dwin1.com
 0.0.0.0 dynamicyield.com
-0.0.0.0 dyndns.info
-0.0.0.0 dyndns.org
 0.0.0.0 dynsrvtyu.com
 0.0.0.0 dyntrk.com
 0.0.0.0 e-goi.com
@@ -317,7 +312,6 @@
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
 0.0.0.0 ezoic.net
-0.0.0.0 facebook.net
 0.0.0.0 faktor.io
 0.0.0.0 falseframe.com
 0.0.0.0 fg8dgt.com
@@ -549,7 +543,6 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gscontxt.net
-0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gssprt.jp
 0.0.0.0 gu-web.net 
 0.0.0.0 guardianapps.co.uk
@@ -613,7 +606,6 @@
 0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
 0.0.0.0 justpremium.com
-0.0.0.0 jwpltx.com
 0.0.0.0 keywee.co
 0.0.0.0 kismetrics.com
 0.0.0.0 klaviyo.com
@@ -759,7 +751,6 @@
 0.0.0.0 outbrainimg.com
 0.0.0.0 owneriq.net
 0.0.0.0 p.typekit.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
 0.0.0.0 pardot.com
