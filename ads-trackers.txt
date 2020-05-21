@@ -66,6 +66,8 @@
 0.0.0.0 adsafety.net
 0.0.0.0 adscale.de
 0.0.0.0 adsco.re
+0.0.0.0 adserver.adtech.de
+0.0.0.0 adservice.google
 0.0.0.0 adservice.google.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsrvr.org
@@ -869,7 +871,6 @@
 0.0.0.0 servedbyopenx.com
 0.0.0.0 serveftp.com
 0.0.0.0 servegame.com
-0.0.0.0 servehttp.com
 0.0.0.0 servepics.com
 0.0.0.0 serverbeer.com
 0.0.0.0 servimg.com
@@ -936,6 +937,7 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagmanager.yahoo
+0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tapad.com
 0.0.0.0 target.com
