@@ -153,6 +153,7 @@
 0.0.0.0 condenast.io
 0.0.0.0 condenastdigital.com
 0.0.0.0 conductrics.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 connatix.com
 0.0.0.0 connexity.net
 0.0.0.0 consensu.org
