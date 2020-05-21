@@ -1,0 +1,7 @@
+0.0.0.0 brightroll.com
+0.0.0.0 bronto.com
+0.0.0.0 browseset.com
+0.0.0.0 btrll.com
+0.0.0.0 btstatic.com
+0.0.0.0 bttrack.com
+0.0.0.0 btttag.com
