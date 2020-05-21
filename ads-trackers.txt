@@ -66,7 +66,6 @@
 0.0.0.0 adsafety.net
 0.0.0.0 adscale.de
 0.0.0.0 adsco.re
-0.0.0.0 adserver.adtech.de
 0.0.0.0 adservice.google.com
 0.0.0.0 adsnative.com
 0.0.0.0 adsrvr.org
@@ -673,6 +672,7 @@
 0.0.0.0 micpn.com
 0.0.0.0 microadinc.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mkt.publico.pt
 0.0.0.0 mktoresp.com
 0.0.0.0 ml314.com
 0.0.0.0 mnet-ad.net
@@ -936,7 +936,6 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagmanager.yahoo
-0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tailsweep.com
 0.0.0.0 tapad.com
 0.0.0.0 target.com
