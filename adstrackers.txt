@@ -541,6 +541,7 @@
 0.0.0.0 mfadsrvr.com
 0.0.0.0 microadinc.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mkt.publico.pt
 0.0.0.0 mnet-ad.net
 0.0.0.0 moatads.com
 0.0.0.0 moatpixel.com
