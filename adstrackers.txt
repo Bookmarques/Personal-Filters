@@ -74,6 +74,7 @@
 0.0.0.0 amplitude.com
 0.0.0.0 ampproject.org
 0.0.0.0 analytics.moz.com
+0.0.0.0 analytics.portraitsofgirls.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 aolcdn.com
 0.0.0.0 appier.net
@@ -137,6 +138,7 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 cedexis-test.com
 0.0.0.0 cedexis.com
+0.0.0.0 cedexis.net
 0.0.0.0 celtra.com
 0.0.0.0 centralimo.pt
 0.0.0.0 chartbeat.com
