@@ -182,6 +182,7 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryptoloot.pro
 0.0.0.0 cse.google.com
+0.0.0.0 csp.withgoogle.com
 0.0.0.0 ctnsnet.com
 0.0.0.0 ctrlztest.com.ar
 0.0.0.0 cwkuki.com
