@@ -2947,7 +2947,6 @@
 0.0.0.0 netdirect.nl
 0.0.0.0 netelixir.com
 0.0.0.0 netflame.cc
-0.0.0.0 netflix.com
 0.0.0.0 nethunt.com
 0.0.0.0 netincap.com
 0.0.0.0 netinfocompany.bg
