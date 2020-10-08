@@ -1769,7 +1769,6 @@
 ||eztexting.com$third-party
 ||ezula.com$third-party
 ||f5biz.com$third-party
-||facebook.com$third-party,domain=~instagram.com
 ||facebook.net$third-party,domain=~facebook.com
 ||facilitatedigital.com$third-party
 ||factortg.com$third-party
