@@ -3711,6 +3711,7 @@
 0.0.0.0 sexystat.com
 0.0.0.0 sezwho.com
 0.0.0.0 sfr.fr
+0.0.0.0 sftapi.com
 0.0.0.0 shareadspace.com
 0.0.0.0 shareaholic.net
 0.0.0.0 shareasale.com
