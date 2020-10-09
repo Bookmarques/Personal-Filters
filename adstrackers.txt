@@ -2237,6 +2237,7 @@
 0.0.0.0 imatmobile.com
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
+0.0.0.0 imhd.io
 0.0.0.0 imiclk.com
 0.0.0.0 imimobile.com
 0.0.0.0 imonitor.nethost.cz
@@ -3261,6 +3262,7 @@
 0.0.0.0 plugin.management
 0.0.0.0 plugrush.com
 0.0.0.0 pm14.com
+0.0.0.0 pmc.com
 0.0.0.0 pmg.com
 0.0.0.0 po.st
 0.0.0.0 pocketcents.com
@@ -3574,6 +3576,7 @@
 0.0.0.0 roia.biz
 0.0.0.0 roiservice.com
 0.0.0.0 rok.com.com
+0.0.0.0 rollbar.com
 0.0.0.0 rollick.io
 0.0.0.0 rontar.com
 0.0.0.0 roq.ad
