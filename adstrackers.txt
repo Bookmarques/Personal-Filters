@@ -4338,7 +4338,6 @@
 0.0.0.0 viewwonder.com
 0.0.0.0 viglink.com
 0.0.0.0 vilynx.com
-0.0.0.0 vimeo.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 virgul.com
 0.0.0.0 virool.com
