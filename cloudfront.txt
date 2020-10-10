@@ -1,4 +1,5 @@
 0.0.0.0 dw7nrwnn2bkh1.cloudfront.net
+0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
 0.0.0.0 d101jag8um25l.cloudfront.net
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
