@@ -58,8 +58,8 @@
 0.0.0.0 980media.com
 0.0.0.0 99count.com
 0.0.0.0 9c9media.ca
-0.0.0.0 Adsatt.ABCNews.starwave.com
-0.0.0.0 Adsatt.go.starwave.com
+0.0.0.0 adsatt.abcnews.starwave.com
+0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a.aproductmsg.com
