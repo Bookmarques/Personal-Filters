@@ -3046,6 +3046,7 @@
 0.0.0.0 omnitagjs.com
 0.0.0.0 omniture.com
 0.0.0.0 omnivirt.com
+0.0.0.0 oms.dowjoneson.com
 0.0.0.0 omtrdc.net
 0.0.0.0 on-mobi.com
 0.0.0.0 onad.eu
@@ -4155,6 +4156,7 @@
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
+0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trafficmp.com
 0.0.0.0 trafficrevenue.net
 0.0.0.0 trafficscore.com
