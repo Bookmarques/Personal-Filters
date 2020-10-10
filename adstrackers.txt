@@ -4,6 +4,10 @@
 0.0.0.0 123found.com
 0.0.0.0 140proof.com
 0.0.0.0 180hits.de
+0.0.0.0 a.nytimes.com
+0.0.0.0 purr.nytimes.com
+0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 180searchassistant.com
 0.0.0.0 1dmp.io
 0.0.0.0 1rx.io
