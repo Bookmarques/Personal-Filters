@@ -4,6 +4,7 @@
 0.0.0.0 123found.com
 0.0.0.0 140proof.com
 0.0.0.0 180hits.de
+0.0.0.0 tailtarget.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 horizon.globo.com
 0.0.0.0 180searchassistant.com
