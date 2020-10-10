@@ -3817,6 +3817,7 @@
 0.0.0.0 sophus3.co.uk
 0.0.0.0 sophus3.com
 0.0.0.0 sourceknowledge.com
+0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 sovrn.com
 0.0.0.0 spacash.com
 0.0.0.0 spacechimpmedia.com
