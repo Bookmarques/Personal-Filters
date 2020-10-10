@@ -466,7 +466,6 @@
 0.0.0.0 adserversolutions.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.nl
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.eu
@@ -822,7 +821,6 @@
 0.0.0.0 atinternet.com
 0.0.0.0 atlassbx.com
 0.0.0.0 atlassolutions.com
-0.0.0.0 atlassolutions.com
 0.0.0.0 atoomic.com
 0.0.0.0 atrinsic.com
 0.0.0.0 att.com
@@ -996,7 +994,6 @@
 0.0.0.0 blingbucks.com
 0.0.0.0 blis.com
 0.0.0.0 blismedia.com
-0.0.0.0chain4media.com
 0.0.0.0 blogads.com
 0.0.0.0 blogagency.pt
 0.0.0.0 blogcatalog.com
@@ -1350,10 +1347,10 @@
 0.0.0.0 condenast.io
 0.0.0.0 condenastdigital.com
 0.0.0.0 conductrics.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 congstar.de
 0.0.0.0 connatix.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 connexity.com
 0.0.0.0 connexity.net
 0.0.0.0 connextra.com
@@ -4613,3 +4610,4 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zuuvi.com
 0.0.0.0 zypmedia.com
+0.0.0.0chain4media.com
