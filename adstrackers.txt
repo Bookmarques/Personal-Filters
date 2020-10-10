@@ -1901,11 +1901,9 @@
 0.0.0.0 fonecta.leiki.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 footprintlive.com
-0.0.0.0 forbes.com
 0.0.0.0 forex-affiliate.net
 0.0.0.0 fospha.com
 0.0.0.0 fotorama.io
-0.0.0.0 foursquare.com
 0.0.0.0 foxnetworks.com
 0.0.0.0 foxonestop.com
 0.0.0.0 foxpush.com
