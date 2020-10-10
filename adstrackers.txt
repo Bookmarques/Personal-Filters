@@ -3448,6 +3448,7 @@
 0.0.0.0 raresummer.com
 0.0.0.0 ratevoice.com
 0.0.0.0 ratings.lycos.com
+0.0.0.0 r.bbci.co.uk
 0.0.0.0 re-directme.com
 0.0.0.0 reachgroup.com
 0.0.0.0 reachjunction.com
@@ -3467,12 +3468,17 @@
 0.0.0.0 realtracker.com
 0.0.0.0 realytics.io
 0.0.0.0 realzeit.io
+0.0.0.0 ssc.api.bbc.com
 0.0.0.0 rebelai.com
 0.0.0.0 recod3.com
 0.0.0.0 redaril.com
+0.0.0.0 fig.bbc.co.uk
 0.0.0.0 redcubes.biz
+0.0.0.0 cdn.hbogo.eu
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectme.net
+0.0.0.0 bbc.gscontxt.net
+0.0.0.0 sa.bbc.co.uk
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
