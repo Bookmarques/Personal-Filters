@@ -3346,6 +3346,7 @@
 0.0.0.0 proper.io
 0.0.0.0 proranktracker.com
 0.0.0.0 prosperent.com
+0.0.0.0 protecmedia.com
 0.0.0.0 protected.media
 0.0.0.0 protexting.com
 0.0.0.0 proton-tm.com
@@ -4420,6 +4421,7 @@
 0.0.0.0 webmecanik.com
 0.0.0.0 webmetro.com
 0.0.0.0 weborama.com
+0.0.0.0 weborama.design
 0.0.0.0 weborama.fr
 0.0.0.0 webpower.com
 0.0.0.0 webreseau.com
