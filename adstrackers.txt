@@ -4,9 +4,6 @@
 0.0.0.0 123found.com
 0.0.0.0 140proof.com
 0.0.0.0 180hits.de
-0.0.0.0 tailtarget.com
-0.0.0.0 horizon-track.globo.com
-0.0.0.0 horizon.globo.com
 0.0.0.0 180searchassistant.com
 0.0.0.0 1dmp.io
 0.0.0.0 1rx.io
@@ -921,6 +918,7 @@
 0.0.0.0 bauhof.ee
 0.0.0.0 baypops.com
 0.0.0.0 bazaarvoice.com
+0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bbelements.com
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 bcfads.com
@@ -1161,6 +1159,7 @@
 0.0.0.0 cdn.addnow.com
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.freefacti.com
+0.0.0.0 cdn.hbogo.eu
 0.0.0.0 cdnma.com
 0.0.0.0 cecash.com
 0.0.0.0 cedato.com
@@ -1179,6 +1178,7 @@
 0.0.0.0 cetrk.com
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 ch.questionmarket.com
+0.0.0.0 chain4media.com
 0.0.0.0 chalkdigital.com
 0.0.0.0 chango.ca
 0.0.0.0 chango.com
@@ -1872,6 +1872,7 @@
 0.0.0.0 fg8dgt.com
 0.0.0.0 fiducia.eco
 0.0.0.0 fiftyt.com
+0.0.0.0 fig.bbc.co.uk
 0.0.0.0 fiksu.com
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.com
@@ -2138,6 +2139,8 @@
 0.0.0.0 hooklogic.com
 0.0.0.0 hopla.online
 0.0.0.0 hopto.org
+0.0.0.0 horizon-track.globo.com
+0.0.0.0 horizon.globo.com
 0.0.0.0 horyzon-media.com
 0.0.0.0 hostedads.realitykings.com
 0.0.0.0 hotjar.com
@@ -3431,6 +3434,7 @@
 0.0.0.0 quismatch.com
 0.0.0.0 quitzon.net
 0.0.0.0 quple.io
+0.0.0.0 r.bbci.co.uk
 0.0.0.0 raasnet.com
 0.0.0.0 rackspace.com
 0.0.0.0 rad.msn.com
@@ -3451,7 +3455,6 @@
 0.0.0.0 raresummer.com
 0.0.0.0 ratevoice.com
 0.0.0.0 ratings.lycos.com
-0.0.0.0 r.bbci.co.uk
 0.0.0.0 re-directme.com
 0.0.0.0 reachgroup.com
 0.0.0.0 reachjunction.com
@@ -3471,17 +3474,12 @@
 0.0.0.0 realtracker.com
 0.0.0.0 realytics.io
 0.0.0.0 realzeit.io
-0.0.0.0 ssc.api.bbc.com
 0.0.0.0 rebelai.com
 0.0.0.0 recod3.com
 0.0.0.0 redaril.com
-0.0.0.0 fig.bbc.co.uk
 0.0.0.0 redcubes.biz
-0.0.0.0 cdn.hbogo.eu
 0.0.0.0 redirectingat.com
 0.0.0.0 redirectme.net
-0.0.0.0 bbc.gscontxt.net
-0.0.0.0 sa.bbc.co.uk
 0.0.0.0 redmas.com
 0.0.0.0 reduxmedia.com
 0.0.0.0 reduxmediagroup.com
@@ -3617,6 +3615,7 @@
 0.0.0.0 s2d6.com
 0.0.0.0 s4m.io
 0.0.0.0 sa-as.com
+0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sabavision.com
 0.0.0.0 sabio.us
 0.0.0.0 sabre.com
@@ -3881,6 +3880,7 @@
 0.0.0.0 srbijacafe.org
 0.0.0.0 src.kitcode.net
 0.0.0.0 srwww1.com
+0.0.0.0 ssc.api.bbc.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackpath.com
 0.0.0.0 stackpathcdn.com
@@ -3991,6 +3991,7 @@
 0.0.0.0 tailsweep.co.uk
 0.0.0.0 tailsweep.com
 0.0.0.0 tailsweep.se
+0.0.0.0 tailtarget.com
 0.0.0.0 takoomi.com
 0.0.0.0 takru.com
 0.0.0.0 tangerinenet.biz
@@ -4151,6 +4152,7 @@
 0.0.0.0 tradingfront.cn
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.liveuniversenetwork.com
+0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
@@ -4166,7 +4168,6 @@
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafficleader.com
-0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trafficmp.com
 0.0.0.0 trafficrevenue.net
 0.0.0.0 trafficscore.com
@@ -4624,4 +4625,3 @@
 0.0.0.0 zumobi.com
 0.0.0.0 zuuvi.com
 0.0.0.0 zypmedia.com
-0.0.0.0chain4media.com
