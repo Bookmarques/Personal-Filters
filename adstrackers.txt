@@ -1,15 +1,9 @@
 0.0.0.0 101com.com
 0.0.0.0 101order.com
-0.0.0.0 pixelcounter.elmundo.es
 0.0.0.0 103092804.com
 0.0.0.0 123found.com
 0.0.0.0 140proof.com
 0.0.0.0 180hits.de
-0.0.0.0 ep00.epimg.net
-0.0.0.0 a.nytimes.com
-0.0.0.0 purr.nytimes.com
-0.0.0.0 meter-svc.nytimes.com
-0.0.0.0 als-svc.nytimes.com
 0.0.0.0 180searchassistant.com
 0.0.0.0 1dmp.io
 0.0.0.0 1rx.io
@@ -59,14 +53,13 @@
 0.0.0.0 980media.com
 0.0.0.0 99count.com
 0.0.0.0 9c9media.ca
-0.0.0.0 adsatt.abcnews.starwave.com
-0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 a-ads.com
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a.aproductmsg.com
 0.0.0.0 a.collective-media.net
 0.0.0.0 a.consumer.net
 0.0.0.0 a.mktw.net
+0.0.0.0 a.nytimes.com
 0.0.0.0 a.sakh.com
 0.0.0.0 a.xanga.com
 0.0.0.0 a1platform.co.kr
@@ -445,8 +438,10 @@
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsafety.net
 0.0.0.0 adsatt.abc.starwave.com
+0.0.0.0 adsatt.abcnews.starwave.com
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 adsatt.espn.starwave.com
+0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 adsbwm.com
 0.0.0.0 adsby.bidtheatre.com
 0.0.0.0 adsbyisocket.com
@@ -456,7 +451,6 @@
 0.0.0.0 adsco.re
 0.0.0.0 adscpm.com
 0.0.0.0 adsdaq.com
-0.0.0.0 adspsp.com
 0.0.0.0 adsdk.com
 0.0.0.0 adsend.de
 0.0.0.0 adserv.evo-x.de
@@ -508,6 +502,7 @@
 0.0.0.0 adspirit.net
 0.0.0.0 adsponse.de
 0.0.0.0 adspot.ch
+0.0.0.0 adspsp.com
 0.0.0.0 adsremote.scrippsnetworks.com
 0.0.0.0 adsrevenue.net
 0.0.0.0 adsrv.deviantart.com
@@ -714,6 +709,7 @@
 0.0.0.0 alooma.com
 0.0.0.0 alooma.tv
 0.0.0.0 alphalyr.fr
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 am.ua
 0.0.0.0 amadesa.com
@@ -1751,6 +1747,7 @@
 0.0.0.0 enterprise.noddus.com
 0.0.0.0 entireweb.com
 0.0.0.0 envisionx.co
+0.0.0.0 ep00.epimg.net
 0.0.0.0 epicadvertising.com
 0.0.0.0 epiccash.com
 0.0.0.0 epicmarketplace.com
@@ -2758,6 +2755,7 @@
 0.0.0.0 metaresolver.com
 0.0.0.0 metartmoney.com
 0.0.0.0 meteorsolutions.com
+0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 methodcash.com
 0.0.0.0 methodmi.com
 0.0.0.0 metric.gstatic.com
@@ -3250,6 +3248,7 @@
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.sg
 0.0.0.0 pixel.wp.com
+0.0.0.0 pixelcounter.elmundo.es
 0.0.0.0 piximedia.com
 0.0.0.0 pixlee.com
 0.0.0.0 placecast.net
@@ -3397,6 +3396,7 @@
 0.0.0.0 pulsepoint.com
 0.0.0.0 purecobalt.com
 0.0.0.0 purposelab.com
+0.0.0.0 purr.nytimes.com
 0.0.0.0 pushbird.com
 0.0.0.0 pushbullet.com
 0.0.0.0 pushcrew.com
