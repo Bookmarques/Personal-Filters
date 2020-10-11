@@ -3067,7 +3067,6 @@
 0.0.0.0 ondeviceresearch.com
 0.0.0.0 oneall.com
 0.0.0.0 oneandonlynetwork.com
-0.0.0.0 oneaudience
 0.0.0.0 onedigitalad.com
 0.0.0.0 oneiota.co.uk
 0.0.0.0 onenetworkdirect.com
@@ -3157,7 +3156,6 @@
 0.0.0.0 p.adpdx.com
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p.typekit.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pagefair.com
 0.0.0.0 pagefair.net
 0.0.0.0 pages05.net
@@ -3269,7 +3267,6 @@
 0.0.0.0 playtomic.com
 0.0.0.0 plethoramobile.com
 0.0.0.0 plista.com
-0.0.0.0 plugin.management
 0.0.0.0 plugrush.com
 0.0.0.0 pm14.com
 0.0.0.0 pmc.com
@@ -3672,7 +3669,6 @@
 0.0.0.0 sedotracker.de
 0.0.0.0 seedtag.com
 0.0.0.0 seenthis.co
-0.0.0.0 seeq.com.invalid
 0.0.0.0 seevast.com
 0.0.0.0 seevolution.com
 0.0.0.0 seewhy.com
@@ -4160,7 +4156,6 @@
 0.0.0.0 tradingfront.cn
 0.0.0.0 traffic-exchange.com
 0.0.0.0 traffic.liveuniversenetwork.com
-0.0.0.0 traffic.megaphone.fm
 0.0.0.0 trafficadept.com
 0.0.0.0 trafficcdn.liveuniversenetwork.com
 0.0.0.0 trafficfactory.biz
