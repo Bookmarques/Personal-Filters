@@ -2183,6 +2183,7 @@
 0.0.0.0 i-clicks.net
 0.0.0.0 i-lookup.com
 0.0.0.0 i-stats.com
+0.0.0.0 i.ibb.co
 0.0.0.0 i.ua
 0.0.0.0 i.xx.openx.com
 0.0.0.0 i1img.com
