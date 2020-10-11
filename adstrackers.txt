@@ -3243,6 +3243,7 @@
 0.0.0.0 pixel.sg
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixelcounter.elmundo.es
+0.0.0.0 pixelcounter.marca.com
 0.0.0.0 piximedia.com
 0.0.0.0 pixlee.com
 0.0.0.0 placecast.net
