@@ -135,6 +135,7 @@
 0.0.0.0 comscore.com
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 connexity.net
 0.0.0.0 connextra.com
 0.0.0.0 consensu.org
@@ -179,6 +180,7 @@
 0.0.0.0 dynamicyield.com
 0.0.0.0 dynsrvtyu.com
 0.0.0.0 dyntrk.com
+0.0.0.0 e-goi.com
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 elogua.com
@@ -186,6 +188,7 @@
 0.0.0.0 emetriq.de
 0.0.0.0 emxdgt.com
 0.0.0.0 en25.com
+0.0.0.0 engageya.com
 0.0.0.0 ensighten.com
 0.0.0.0 epom.com
 0.0.0.0 eqads.com
@@ -215,6 +218,7 @@
 0.0.0.0 fqtag.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
+0.0.0.0 gemius.pl
 0.0.0.0 getintent.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
@@ -252,6 +256,7 @@
 0.0.0.0 insightexpressai.com
 0.0.0.0 insticator.com
 0.0.0.0 instinctiveads.com
+0.0.0.0 insurads.com
 0.0.0.0 intentiq.com
 0.0.0.0 ipredictive.com
 0.0.0.0 ispot.tv
@@ -517,6 +522,7 @@
 0.0.0.0 wsod.com
 0.0.0.0 wt-safetag.com
 0.0.0.0 xiti.com
+0.0.0.0 xl.pt
 0.0.0.0 xplosion.de
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldlove-ad-serving.net
