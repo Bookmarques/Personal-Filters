@@ -1345,7 +1345,6 @@
 0.0.0.0 company-target.com
 0.0.0.0 compasslabs.com
 0.0.0.0 compete.com
-0.0.0.0 complex.com
 0.0.0.0 complexmedianetwork.com
 0.0.0.0 comprabanner.it
 0.0.0.0 compuware.com
