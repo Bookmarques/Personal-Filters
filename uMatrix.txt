@@ -216,6 +216,7 @@
 0.0.0.0 firebase.google.com
 0.0.0.0 flashtalking.com
 0.0.0.0 fqtag.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
 0.0.0.0 gemius.pl
