@@ -493,7 +493,6 @@
 0.0.0.0 unrulymedia.com
 0.0.0.0 usabilla.com
 0.0.0.0 userreport.com
-0.0.0.0 vendorlist.consensu.org
 0.0.0.0 vertamedia.com
 0.0.0.0 vi.ai
 0.0.0.0 viafoura.com
