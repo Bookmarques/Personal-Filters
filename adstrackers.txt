@@ -367,8 +367,6 @@
 0.0.0.0 adnordic.eu
 0.0.0.0 adnotch.com
 0.0.0.0 adnxs.com
-0.0.0.0 adnxs.com 
-0.0.0.0 adobe.com
 0.0.0.0 adobedtm.com
 0.0.0.0 adocean-global.com
 0.0.0.0 adocean.pl
