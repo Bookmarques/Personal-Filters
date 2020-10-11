@@ -688,7 +688,6 @@
 0.0.0.0 aistat.net
 0.0.0.0 aivalabs.com
 0.0.0.0 ajouter.net
-0.0.0.0 akamai.com
 0.0.0.0 akncdn.com
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alb.reddit.com
@@ -1059,7 +1058,6 @@
 0.0.0.0 brandwatch.com
 0.0.0.0 branica.com
 0.0.0.0 branovate.com
-0.0.0.0 bravenet.com.invalid
 0.0.0.0 breaktime.com.tw
 0.0.0.0 brealtime.com
 0.0.0.0 brickandmobile.com
@@ -1502,7 +1500,6 @@
 0.0.0.0 d.adroll.com
 0.0.0.0 d3sv.net
 0.0.0.0 dada.pro
-0.0.0.0 dailymotion.com
 0.0.0.0 dakic-ia-300.com
 0.0.0.0 danban.com
 0.0.0.0 daphnecm.com
@@ -1856,7 +1853,6 @@
 0.0.0.0 fast-adv.it
 0.0.0.0 fastbooking.com
 0.0.0.0 fastclick.com
-0.0.0.0 fastclick.com.edgesuite.net
 0.0.0.0 fastclick.net
 0.0.0.0 fathomdelivers.com
 0.0.0.0 fathomseo.com
