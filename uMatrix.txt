@@ -206,8 +206,6 @@
 0.0.0.0 eyereturn.com
 0.0.0.0 eyeviewads.com
 0.0.0.0 ezoic.net
-0.0.0.0 facebook.com
-0.0.0.0 facebook.net$third-part,domain=~facebook.com
 0.0.0.0 faktor.io
 0.0.0.0 fg8dgt.com
 0.0.0.0 fiftyt.com
