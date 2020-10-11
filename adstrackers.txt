@@ -1892,6 +1892,7 @@
 0.0.0.0 flixbus.com
 0.0.0.0 flow.io
 0.0.0.0 flowgo.com
+0.0.0.0 fls-na.amazon.com
 0.0.0.0 flurry.com
 0.0.0.0 flyertown.ca
 0.0.0.0 flytxt.com
@@ -3612,6 +3613,7 @@
 0.0.0.0 rvty.net
 0.0.0.0 rythmxchange.com
 0.0.0.0 s-onetag.com
+0.0.0.0 s.media-imdb.com
 0.0.0.0 s2d6.com
 0.0.0.0 s4m.io
 0.0.0.0 sa-as.com
@@ -4258,6 +4260,7 @@
 0.0.0.0 ultramercial.com
 0.0.0.0 ultsearch.com
 0.0.0.0 umbel.com
+0.0.0.0 unagi.amazon.com
 0.0.0.0 unanimis.co.uk
 0.0.0.0 underdogmedia.com
 0.0.0.0 undertone.com
