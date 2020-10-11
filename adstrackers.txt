@@ -1299,8 +1299,6 @@
 0.0.0.0 clkrev.com
 0.0.0.0 clmbtech.com
 0.0.0.0 close.io
-0.0.0.0 cloudflareinsights.com
-0.0.0.0 cloudinary.com
 0.0.0.0 clovenetwork.com
 0.0.0.0 clrstm.com
 0.0.0.0 cls.vrvm.com
@@ -1326,7 +1324,6 @@
 0.0.0.0 coinzilla.com
 0.0.0.0 collective-media.net
 0.0.0.0 collective.com
-0.0.0.0 collector.brandmetrics.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collegehumor.com
 0.0.0.0 collserve.com
