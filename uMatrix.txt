@@ -87,6 +87,7 @@
 0.0.0.0 appnexus.com
 0.0.0.0 assets.adobedtm.net
 0.0.0.0 assoc-amazon.com
+0.0.0.0 associates-amazon.com 
 0.0.0.0 aswpsdkus.com
 0.0.0.0 atdmt.com
 0.0.0.0 atlassolutions.com
@@ -111,6 +112,7 @@
 0.0.0.0 bizrate.com
 0.0.0.0 bkrtx.com
 0.0.0.0 blismedia.com
+0.0.0.0 blogherads.com 
 0.0.0.0 blueconic.net
 0.0.0.0 bluekai.com
 0.0.0.0 bongacash.com
@@ -164,6 +166,7 @@
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionlogic.net
 0.0.0.0 conviva.com
+0.0.0.0 cookielaw.org 
 0.0.0.0 corus.ca
 0.0.0.0 coxmt.com
 0.0.0.0 cpx.to
@@ -210,6 +213,7 @@
 0.0.0.0 en25.com
 0.0.0.0 engageya.com
 0.0.0.0 ensighten.com
+0.0.0.0 entitlements.jwplayer.com 
 0.0.0.0 epom.com
 0.0.0.0 eqads.com
 0.0.0.0 erne.co
@@ -264,6 +268,7 @@
 0.0.0.0 ibillboard.com
 0.0.0.0 id5-sync.com
 0.0.0.0 igodigital.com
+0.0.0.0 imhd.io 
 0.0.0.0 imonomy.com
 0.0.0.0 impactradius-event.com
 0.0.0.0 impdesk.com
@@ -396,12 +401,14 @@
 0.0.0.0 placeholdit.imgix.net
 0.0.0.0 playground.xyz
 0.0.0.0 plugrush.com
+0.0.0.0 pmc.com 
 0.0.0.0 polyfill.io
 0.0.0.0 popads.com
 0.0.0.0 popads.net
 0.0.0.0 popcash.net
 0.0.0.0 postrelease.com
 0.0.0.0 powerlinks.com
+0.0.0.0 prd.jwpltx.com 
 0.0.0.0 prebid.org
 0.0.0.0 pro-market.net
 0.0.0.0 promo-bc.com
@@ -435,6 +442,7 @@
 0.0.0.0 rkdms.com
 0.0.0.0 rlcdn.com
 0.0.0.0 rmtag.com
+0.0.0.0 rollbar.com 
 0.0.0.0 rqtrk.eu
 0.0.0.0 rs-stripe.com
 0.0.0.0 rtmark.net
@@ -488,6 +496,7 @@
 0.0.0.0 sumo.com
 0.0.0.0 sundaysky.com
 0.0.0.0 survata.com
+0.0.0.0 swiftypecdn.com 
 0.0.0.0 switchadhub.com
 0.0.0.0 synacor.com
 0.0.0.0 syndication.twitter.com
@@ -506,6 +515,7 @@
 0.0.0.0 tidaltv.com
 0.0.0.0 tinypass.com
 0.0.0.0 trackcmp.net
+0.0.0.0 trackonomics.net 
 0.0.0.0 trafficforce.com
 0.0.0.0 trafficjunky.com
 0.0.0.0 trafficjunky.net
@@ -532,6 +542,7 @@
 0.0.0.0 viafoura.com
 0.0.0.0 videmob.com
 0.0.0.0 videohub.tv
+0.0.0.0 videoplayerhub.com 
 0.0.0.0 videostat.com
 0.0.0.0 vidible.tv
 0.0.0.0 viglink.com
@@ -539,6 +550,7 @@
 0.0.0.0 vindicosuite.com
 0.0.0.0 visualdna.com
 0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 vntsm.com 
 0.0.0.0 vpadn.com
 0.0.0.0 w55c.net
 0.0.0.0 wcfbc.net
