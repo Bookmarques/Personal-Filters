@@ -557,6 +557,7 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 choicestream.com
 0.0.0.0 cintnetworks.com
+0.0.0.0 clevernt.com
 0.0.0.0 clickagy.com
 0.0.0.0 clicky.com
 0.0.0.0 clrstm.com
