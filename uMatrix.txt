@@ -4,6 +4,11 @@
 0.0.0.0 1x1rank.com
 0.0.0.0 23video.com
 0.0.0.0 247realmedia.com
+0.0.0.0 24live.co
+0.0.0.0 24liveblog.com
+0.0.0.0 24log.com
+0.0.0.0 24log.de
+0.0.0.0 24pm-affiliation.com
 0.0.0.0 254a.com
 0.0.0.0 2leep.com
 0.0.0.0 2mdn.net
@@ -23,6 +28,9 @@
 0.0.0.0 4u.pl
 0.0.0.0 5thfinger.com
 0.0.0.0 6sense.com
+0.0.0.0 7bpeople.com
+0.0.0.0 7search.com
+0.0.0.0 9c9media.ca
 0.0.0.0 a-ads.com
 0.0.0.0 aaxads.com
 0.0.0.0 acidpigs.com
