@@ -145,6 +145,7 @@
 0.0.0.0 conversantmedia.com
 0.0.0.0 conversionlogic.net
 0.0.0.0 conviva.com
+0.0.0.0 corus.ca
 0.0.0.0 coxmt.com
 0.0.0.0 cpx.to
 0.0.0.0 crazyegg.com
@@ -215,7 +216,9 @@
 0.0.0.0 fiftyt.com
 0.0.0.0 firebase.google.com
 0.0.0.0 flashtalking.com
+0.0.0.0 flyertown.ca
 0.0.0.0 fqtag.com
+0.0.0.0 freeskreen.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
@@ -453,6 +456,7 @@
 0.0.0.0 springserve.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackpathcdn.com
+0.0.0.0 stats.wp.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stickyadstv.com
 0.0.0.0 stormyachiever.com
