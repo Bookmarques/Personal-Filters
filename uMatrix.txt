@@ -1,3 +1,7 @@
+0.0.0.0 101com.com
+0.0.0.0 101order.com
+0.0.0.0 123found.com
+0.0.0.0 140proof.com
 0.0.0.0 1dmp.io
 0.0.0.0 1rx.io
 0.0.0.0 1trn.com
@@ -26,10 +30,16 @@
 0.0.0.0 4info.com
 0.0.0.0 4mads.com
 0.0.0.0 4u.pl
+0.0.0.0 50websads.com
+0.0.0.0 51network.com
+0.0.0.0 51yes.com
 0.0.0.0 5thfinger.com
+0.0.0.0 63squares.com
 0.0.0.0 6sense.com
+0.0.0.0 77tracking.com
 0.0.0.0 7bpeople.com
 0.0.0.0 7search.com
+0.0.0.0 99count.com
 0.0.0.0 9c9media.ca
 0.0.0.0 a-ads.com
 0.0.0.0 aaxads.com
