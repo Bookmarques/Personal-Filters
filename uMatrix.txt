@@ -104,6 +104,7 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncex.net
 0.0.0.0 branch.io
+0.0.0.0 brandmetrics.com
 0.0.0.0 brandwatch.com
 0.0.0.0 brealtime.com
 0.0.0.0 brightcom.com
@@ -229,6 +230,7 @@
 0.0.0.0 gemius.pl
 0.0.0.0 getintent.com
 0.0.0.0 gigya.com 
+0.0.0.0 go-mpulse.net
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
@@ -527,6 +529,7 @@
 0.0.0.0 w55c.net
 0.0.0.0 wcfbc.net
 0.0.0.0 webclicks24.com
+0.0.0.0 webcontentassessor.com
 0.0.0.0 weborama.com
 0.0.0.0 weborama.design 
 0.0.0.0 weborama.fr
