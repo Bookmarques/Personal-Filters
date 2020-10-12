@@ -983,6 +983,7 @@
 0.0.0.0 xiti.com
 0.0.0.0 xl.pt
 0.0.0.0 xplosion.de
+0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldlove-ad-serving.net
 0.0.0.0 yieldlove.com
