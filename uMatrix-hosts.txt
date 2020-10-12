@@ -507,6 +507,7 @@
 0.0.0.0 tynt.com
 0.0.0.0 undertone.com
 0.0.0.0 unrulymedia.com
+0.0.0.0 collector.githubapp.com
 0.0.0.0 usabilla.com
 0.0.0.0 userreport.com
 0.0.0.0 vertamedia.com
