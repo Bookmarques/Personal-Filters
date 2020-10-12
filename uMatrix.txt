@@ -38,6 +38,7 @@
 0.0.0.0 4mads.com
 0.0.0.0 4u.pl
 0.0.0.0 50websads.com
+0.0.0.0 50websads.com					 
 0.0.0.0 518ad.com
 0.0.0.0 51network.com
 0.0.0.0 51yes.com
