@@ -706,6 +706,7 @@
 0.0.0.0 iteratehq.com
 0.0.0.0 itsup.com
 0.0.0.0 ivitrack.com
+0.0.0.0 jads.co
 0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
 0.0.0.0 justpremium.com
