@@ -14,6 +14,7 @@
 0.0.0.0 acidpigs.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 acxiomapac.com
+0.0.0.0 ad-dev.globalnoticias.pt 
 0.0.0.0 ad-maven.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adblade.com
@@ -134,6 +135,7 @@
 0.0.0.0 colpirio.com
 0.0.0.0 company-target.com
 0.0.0.0 comscore.com
+0.0.0.0 comunidade.globalmediagroup.pt 
 0.0.0.0 conductrics.com
 0.0.0.0 connatix.com
 0.0.0.0 connect.facebook.net
@@ -225,6 +227,7 @@
 0.0.0.0 fyber.com
 0.0.0.0 gemius.pl
 0.0.0.0 getintent.com
+0.0.0.0 gigya.com 
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googlesyndication.com
@@ -263,6 +266,7 @@
 0.0.0.0 instinctiveads.com
 0.0.0.0 insurads.com
 0.0.0.0 intentiq.com
+0.0.0.0 ipify.org 
 0.0.0.0 ipredictive.com
 0.0.0.0 ispot.tv
 0.0.0.0 issuu.com
@@ -341,6 +345,7 @@
 0.0.0.0 netseer.com
 0.0.0.0 newrelic.com
 0.0.0.0 nexac.com
+0.0.0.0 nonio.globalmediagroup.pt 
 0.0.0.0 npttech.com
 0.0.0.0 nr-data.net
 0.0.0.0 ntv.io
@@ -384,6 +389,7 @@
 0.0.0.0 prebid.org
 0.0.0.0 pro-market.net
 0.0.0.0 promo-bc.com
+0.0.0.0 protecmedia.com 
 0.0.0.0 pswec.com
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnation.com
@@ -522,10 +528,12 @@
 0.0.0.0 wcfbc.net
 0.0.0.0 webclicks24.com
 0.0.0.0 weborama.com
+0.0.0.0 weborama.design 
 0.0.0.0 weborama.fr
 0.0.0.0 widespace.com
 0.0.0.0 woopra.com
 0.0.0.0 wpncdn.com
+0.0.0.0 ws.globalnoticias.pt 
 0.0.0.0 wsod.com
 0.0.0.0 wt-safetag.com
 0.0.0.0 xiti.com
