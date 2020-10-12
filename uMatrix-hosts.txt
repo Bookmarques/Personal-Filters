@@ -710,6 +710,7 @@
 0.0.0.0 mgid.com
 0.0.0.0 micpn.com
 0.0.0.0 mixpanel.com
+0.0.0.0 mkt.publico.pt
 0.0.0.0 mktoresp.com
 0.0.0.0 ml314.com
 0.0.0.0 mnet-ad.net
