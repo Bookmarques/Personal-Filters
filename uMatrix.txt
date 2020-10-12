@@ -119,6 +119,7 @@
 0.0.0.0 c1exchange.com
 0.0.0.0 c3tag.com
 0.0.0.0 cannavu.net
+0.0.0.0 carbonads.com
 0.0.0.0 casalemedia.com
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
