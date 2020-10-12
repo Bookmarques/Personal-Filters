@@ -806,7 +806,6 @@
 0.0.0.0 as5000.com
 0.0.0.0 as.webmd.com
 0.0.0.0 assets1.exgfnetwork.com
-0.0.0.0 assets.adobedtm.net
 0.0.0.0 assets.loomia.com
 0.0.0.0 assoc-amazon.com
 0.0.0.0 associates-amazon.com
@@ -849,7 +848,6 @@
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 autocentre.ua
 0.0.0.0 autohits.dk
-0.0.0.0 automattic.com
 0.0.0.0 avalanchers.com
 0.0.0.0 avantlink.com
 0.0.0.0 avenuea.com
