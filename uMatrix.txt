@@ -234,7 +234,6 @@
 0.0.0.0 googletagmanager.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gscontxt.net
-0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gssprt.jp
 0.0.0.0 gumgum.com
 0.0.0.0 gwallet.com
