@@ -438,6 +438,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 apollo.io
 0.0.0.0 app.link
+0.0.0.0 appfocus.go2cloud.org
 0.0.0.0 appnexus.com
 0.0.0.0 assets.adobedtm.net
 0.0.0.0 assoc-amazon.com
@@ -700,6 +701,7 @@
 0.0.0.0 instinctiveads.com
 0.0.0.0 insurads.com
 0.0.0.0 intentiq.com
+0.0.0.0 ip174104920.ahcdn.com
 0.0.0.0 ipify.org 
 0.0.0.0 ipredictive.com
 0.0.0.0 ispot.tv
@@ -929,6 +931,7 @@
 0.0.0.0 theadex.com
 0.0.0.0 thebrighttag.com
 0.0.0.0 thrtle.com
+0.0.0.0 thumb-v1.xhcdn.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinypass.com
 0.0.0.0 trackcmp.net
@@ -982,6 +985,8 @@
 0.0.0.0 ws.globalnoticias.pt 
 0.0.0.0 wsod.com
 0.0.0.0 wt-safetag.com
+0.0.0.0 xhamsterlive.com
+0.0.0.0 xhamsterpremium.com
 0.0.0.0 xiti.com
 0.0.0.0 xl.pt
 0.0.0.0 xplosion.de
