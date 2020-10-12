@@ -98,46 +98,19 @@
 0.0.0.0 acuityplatform.com
 0.0.0.0 acxiom.com
 0.0.0.0 acxiomapac.com
+<<<<<<< HEAD
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
 0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 ad-lib.io
+=======
+0.0.0.0 ad-dev.globalnoticias.pt 
+>>>>>>> parent of 8b13a96... Update uMatrix.txt
 0.0.0.0 ad-maven.com
-0.0.0.0 ad-pay.de
-0.0.0.0 ad-rotator.com
-0.0.0.0 ad-score.com
-0.0.0.0 ad-serverparc.nl
-0.0.0.0 ad-sniper.com
-0.0.0.0 ad-souk.com
-0.0.0.0 ad-space.net
-0.0.0.0 ad-stir.com
-0.0.0.0 ad-tech.com
-0.0.0.0 ad-up.com
-0.0.0.0 ad360.media
-0.0.0.0 ad4game.com
-0.0.0.0 ad4mat.com
-0.0.0.0 ad6media.fr
-0.0.0.0 adabra.com
-0.0.0.0 adacado.com
-0.0.0.0 adaction.de
-0.0.0.0 adaction.se
 0.0.0.0 adadvisor.net
-0.0.0.0 adadyn.com
-0.0.0.0 adagnit.io
-0.0.0.0 adality.de
-0.0.0.0 adap.tv
-0.0.0.0 adapt.tv
-0.0.0.0 adaptiveads.com
-0.0.0.0 adaptly.com
-0.0.0.0 adaptretail.com
-0.0.0.0 adara.com
-0.0.0.0 adaramedia.com
-0.0.0.0 adatus.com
-0.0.0.0 adbalancer.com
-0.0.0.0 adbanner.ro
-0.0.0.0 adbard.net
 0.0.0.0 adblade.com
+<<<<<<< HEAD
 0.0.0.0 adblockanalytics.com
 0.0.0.0 adboost.de.vu
 0.0.0.0 adboost.net
@@ -199,6 +172,8 @@
 0.0.0.0 addlvr.com
 0.0.0.0 addme.com
 0.0.0.0 addroid.com
+=======
+>>>>>>> parent of 8b13a96... Update uMatrix.txt
 0.0.0.0 addthis.com
 0.0.0.0 addthisedge.com
 0.0.0.0 addtoany.com
