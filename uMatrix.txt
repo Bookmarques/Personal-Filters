@@ -793,6 +793,7 @@
 0.0.0.0 onesignal.com
 0.0.0.0 openx.com
 0.0.0.0 openx.net
+0.0.0.0 ophan.theguardian.com
 0.0.0.0 opmnstr.com
 0.0.0.0 optimahub.com
 0.0.0.0 optimatic.com
@@ -875,6 +876,7 @@
 0.0.0.0 segment.io
 0.0.0.0 sekindo.com
 0.0.0.0 semasio.net
+0.0.0.0 servads.fansshare.com
 0.0.0.0 servebom.com
 0.0.0.0 servedbyopenx.com
 0.0.0.0 serving-sys.com
@@ -899,7 +901,6 @@
 0.0.0.0 springserve.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackpathcdn.com
-0.0.0.0 t.paypal.com
 0.0.0.0 stats.wp.com
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stickyadstv.com
@@ -912,6 +913,7 @@
 0.0.0.0 swiftypecdn.com 
 0.0.0.0 switchadhub.com
 0.0.0.0 synacor.com
+0.0.0.0 t.paypal.com
 0.0.0.0 taboola.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tags.tiqcdn.com
