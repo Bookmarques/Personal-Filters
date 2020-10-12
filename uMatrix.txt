@@ -140,7 +140,6 @@
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
-0.0.0.0 adboost.de.vu
 0.0.0.0 adboost.net
 0.0.0.0 adboost.sk
 0.0.0.0 adbooth.net
