@@ -13,7 +13,16 @@
 0.0.0.0 3cinteractive.com
 0.0.0.0 3dstats.com
 0.0.0.0 3lift.com
+0.0.0.0 3utilities.com
+0.0.0.0 4affiliate.net
+0.0.0.0 4d5.net
+0.0.0.0 4dsply.com
 0.0.0.0 4finance.com
+0.0.0.0 4info.com
+0.0.0.0 4mads.com
+0.0.0.0 4u.pl
+0.0.0.0 5thfinger.com
+0.0.0.0 6sense.com
 0.0.0.0 a-ads.com
 0.0.0.0 aaxads.com
 0.0.0.0 acidpigs.com
