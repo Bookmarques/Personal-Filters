@@ -350,6 +350,7 @@
 0.0.0.0 optimatic.com
 0.0.0.0 optimizely.com
 0.0.0.0 optmnstr.com
+0.0.0.0 osano.com
 0.0.0.0 outbrain.com
 0.0.0.0 outbrainimg.com
 0.0.0.0 owneriq.net
