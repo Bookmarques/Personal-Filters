@@ -13,6 +13,7 @@
 0.0.0.0 acidpigs.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 acxiomapac.com
+0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 ad-maven.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adblade.com
@@ -454,6 +455,7 @@
 0.0.0.0 scarabresearch.com
 0.0.0.0 scene7.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 securedvisit.com
 0.0.0.0 segment.com
 0.0.0.0 segment.io
