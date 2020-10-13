@@ -142,6 +142,7 @@
 ||clrstm.com$third-party
 ||cogocast.net$third-party
 ||colpirio.com$third-party
+||colvk.viki.io^
 ||company-target.com$third-party
 ||comscore.com$third-party
 ||conductrics.com$third-party
