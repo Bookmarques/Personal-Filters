@@ -229,6 +229,7 @@
 ||fwmrm.net$third-party
 ||fyber.com$third-party
 ||geoip.nbcnews.com^
+||geolocation.onetrust.com^
 ||getintent.com$third-party
 ||go2cloud.org^
 ||google-analytics.com$third-party
