@@ -66,6 +66,7 @@
 0.0.0.0 amplitude.com
 0.0.0.0 ampproject.org
 0.0.0.0 amung.us
+0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 apollo.io
@@ -130,11 +131,13 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 choicestream.com
 0.0.0.0 cintnetworks.com
+0.0.0.0 clevernt.com
 0.0.0.0 clickagy.com
 0.0.0.0 clicky.com
 0.0.0.0 clrstm.com
 0.0.0.0 cogocast.net
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector.unsplash.com
 0.0.0.0 colpirio.com
 0.0.0.0 company-target.com
 0.0.0.0 comscore.com
