@@ -220,7 +220,6 @@
 ||eyereturn.com$third-party
 ||eyeviewads.com$third-party
 ||ezoic.net$third-party
-||facebook.net$third-party,~facebook.com
 ||faktor.io$third-party
 ||fg8dgt.com$third-party
 ||fiftyt.com$third-party
