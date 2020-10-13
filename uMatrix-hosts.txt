@@ -527,6 +527,7 @@
 0.0.0.0 tremorhub.com
 0.0.0.0 tribalfusion.com
 0.0.0.0 triplelift.com
+0.0.0.0 tritondigital.com
 0.0.0.0 trueleadid.com
 0.0.0.0 truoptik.com
 0.0.0.0 trustx.org
@@ -570,6 +571,7 @@
 0.0.0.0 xiti.com
 0.0.0.0 xl.pt 
 0.0.0.0 xplosion.de
+0.0.0.0 yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yieldlab.net
 0.0.0.0 yieldlove-ad-serving.net
 0.0.0.0 yieldlove.com
