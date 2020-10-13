@@ -200,6 +200,7 @@
 0.0.0.0 emxdgt.com
 0.0.0.0 en25.com
 0.0.0.0 ensighten.com
+0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 epom.com
 0.0.0.0 eqads.com
 0.0.0.0 erne.co
@@ -228,6 +229,7 @@
 0.0.0.0 fqtag.com
 0.0.0.0 fwmrm.net
 0.0.0.0 fyber.com
+0.0.0.0 g.jwpsrv.com
 0.0.0.0 gemius.pl 
 0.0.0.0 getintent.com
 0.0.0.0 gigya.com
@@ -394,6 +396,7 @@
 0.0.0.0 popcash.net
 0.0.0.0 postrelease.com
 0.0.0.0 powerlinks.com
+0.0.0.0 prd.jwpltx.com
 0.0.0.0 prebid.org
 0.0.0.0 pro-market.net
 0.0.0.0 promo-bc.com
