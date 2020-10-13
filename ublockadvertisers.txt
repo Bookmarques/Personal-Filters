@@ -68,6 +68,7 @@
 ||adux.com$third-party
 ||advertising.com$third-party
 ||adyoulike.com$third-party
+||ae.nflximg.net^
 ||agkn.com$third-party
 ||altitude-arena.com$third-party
 ||amazon-adsystem.com$third-party
