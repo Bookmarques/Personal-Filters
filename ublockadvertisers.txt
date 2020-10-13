@@ -358,6 +358,7 @@
 ||oneaudience$third-party
 ||openx.com$third-party
 ||openx.net$third-party
+||ophan.theguardian.com^
 ||opmnstr.com$third-party
 ||optimahub.com$third-party
 ||optimatic.com$third-party
