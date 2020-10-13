@@ -244,6 +244,7 @@
 ||gumgum.com$third-party
 ||gwallet.com$third-party
 ||hellobar.com$third-party
+||horizon-track.globo.com^
 ||hotjar.com$third-party
 ||hs-scripts.com$third-party
 ||hsadspixel.net$third-party
@@ -327,8 +328,8 @@
 ||mgid.com$third-party
 ||micpn.com$third-party
 ||mixpanel.com$third-party
-||mktoresp.com$third-party
 ||mkt.publico.pt^
+||mktoresp.com$third-party
 ||ml314.com$third-party
 ||mnet-ad.net$third-party
 ||mntzrlt.net$third-party
