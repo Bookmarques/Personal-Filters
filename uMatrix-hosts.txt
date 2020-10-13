@@ -59,6 +59,7 @@
 0.0.0.0 adux.com
 0.0.0.0 advertising.com
 0.0.0.0 adyoulike.com
+0.0.0.0 adzerk.net
 0.0.0.0 ae.nflximg.net
 0.0.0.0 agkn.com
 0.0.0.0 altitude-arena.com
