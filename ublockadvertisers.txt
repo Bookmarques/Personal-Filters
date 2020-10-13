@@ -75,6 +75,7 @@
 ||amplitude.com$third-party
 ||ampproject.org$third-party
 ||amung.us$third-party
+||analytics.ecosia.org^
 ||analytics.shareaholic.com$third-party
 ||analytics.twitter.com$third-party
 ||apollo.io$third-party
@@ -259,6 +260,7 @@
 ||impdesk.comm$third-party
 ||impressionmonster.com$third-party
 ||improvedigital.com$third-party
+||improving.duckduckgo.com^
 ||imrworldwide.com$third-party
 ||index.com$third-party
 ||indexexchange.com$third-party
