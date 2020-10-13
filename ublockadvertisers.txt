@@ -156,6 +156,7 @@
 ||conversantmedia.com$third-party
 ||conversionlogic.net$third-party
 ||conviva.com$third-party
+||cookielaw.org$third-party
 ||coxmt.com$third-party
 ||cpx.to$third-party
 ||crazyegg.com$third-party
