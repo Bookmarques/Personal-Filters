@@ -123,7 +123,7 @@
 ||btstatic.com$third-party
 ||bttrack.com$third-party
 ||btttag.com$third-party
-||bugsnag.com$third-party,domain=~slate.com
+||bugsnag.com$third-party,~slate.com
 ||buysellads.com$third-party
 ||c.appier.net$third-party
 ||c1exchange.com$third-party
