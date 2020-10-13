@@ -469,6 +469,7 @@
 ||springserve.com$third-party
 ||stackadapt.com$third-party
 ||stackpathcdn.com$third-party
+||static.scroll.com$third-party
 ||steelhousemedia.com$third-party
 ||stickyadstv.com$third-party
 ||stormyachiever.com$third-party
