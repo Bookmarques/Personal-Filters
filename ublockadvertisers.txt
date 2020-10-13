@@ -230,13 +230,13 @@
 ||fwmrm.net$third-party
 ||fyber.com$third-party
 ||getintent.com$third-party
+||go2cloud.org^
 ||google-analytics.com$third-party
 ||google.com/pagead/$third-party
 ||googleadservices.com$third-party
 ||googlesyndication.com/pagead/$third-party
 ||googletagmanager.com$third-party
 ||googletagservices.com$third-party
-||go2cloud.org^
 ||gscontxt.net$third-party
 ||gscounters.eu1.gigya.com$third-party
 ||gssprt.jp$third-party
@@ -459,6 +459,7 @@
 ||smartocto.com$third-party
 ||smrtb.com$third-party
 ||socdm.com$third-party
+||socket.streamable.com$third-party
 ||sojern.com$third-party
 ||solocpm.com$third-party
 ||sonobi.com$third-party
