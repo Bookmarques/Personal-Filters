@@ -344,8 +344,8 @@
 ||fiftyt.com$third-party
 ||fg8dgt.com$third-party
 ||faktor.io$third-party
-||facebook.net$third-part,domain=~facebook.com
-||facebook.com$third-party
+||facebook.net$third-party,domain=~facebook.com
+||graph.facebook.com$third-party
 ||ezoic.net$third-party
 ||eyeviewads.com$third-party
 ||eyereturn.com$third-party
