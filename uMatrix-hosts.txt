@@ -484,6 +484,7 @@
 0.0.0.0 rmtag.com
 0.0.0.0 rollbar.com 
 0.0.0.0 rqtrk.eu
+0.0.0.0 rrss.abc.es
 0.0.0.0 rs-stripe.com
 0.0.0.0 rtmark.net
 0.0.0.0 ru4.com
@@ -499,6 +500,7 @@
 0.0.0.0 scarabresearch.com
 0.0.0.0 scene7.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 sdk.privacy-center.org
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 securedvisit.com
 0.0.0.0 segment.com
