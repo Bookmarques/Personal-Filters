@@ -221,6 +221,7 @@
 0.0.0.0 engageya.com
 0.0.0.0 ensighten.com
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 ep00.epimg.ne
 0.0.0.0 epom.com
 0.0.0.0 eqads.com
 0.0.0.0 erne.co
@@ -436,6 +437,7 @@
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.wp.com
+0.0.0.0 pixelcounter.elmundo.es
 0.0.0.0 placeholdit.imgix.net
 0.0.0.0 playground.xyz
 0.0.0.0 plugrush.com
