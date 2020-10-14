@@ -142,6 +142,7 @@
 ||clicky.com$third-party
 ||clrstm.com$third-party
 ||cogocast.net$third-party
+||collector.githubapp.com^
 ||colpirio.com$third-party
 ||colvk.viki.io^
 ||company-target.com$third-party
