@@ -266,6 +266,8 @@
 0.0.0.0 gumgum.com
 0.0.0.0 gwallet.com
 0.0.0.0 hellobar.com
+0.0.0.0 horizon-track.globo.com
+0.0.0.0 horizon.globo.com
 0.0.0.0 hotjar.com
 0.0.0.0 hs-scripts.com
 0.0.0.0 hsadspixel.net
