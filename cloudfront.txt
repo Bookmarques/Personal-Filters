@@ -51,6 +51,7 @@
 0.0.0.0 d1az0m14mjvs40.cloudfront.net
 0.0.0.0 d1b2zzpxewkr9z.cloudfront.net
 0.0.0.0 d1bevsqehy4npt.cloudfront.net
+0.0.0.0 d1bl11pgu3tw3h.cloudfront.net
 0.0.0.0 d1boik8k1ctool.cloudfront.net
 0.0.0.0 d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1c0l5ws9ddltf.cloudfront.net
@@ -60,6 +61,7 @@
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1czd1q73kbu32.cloudfront.net
+0.0.0.0 d1d3jupgwm7m5r.cloudfront.net
 0.0.0.0 d1d8vn0fpluuz7.cloudfront.net
 0.0.0.0 d1dli2tyorled9.cloudfront.net
 0.0.0.0 d1dnmhdhg9vg1d.cloudfront.net
