@@ -19,6 +19,7 @@
 0.0.0.0 adblade.com
 0.0.0.0 addthis.com
 0.0.0.0 addtoany.com
+0.0.0.0 w.org
 0.0.0.0 adentifi.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
