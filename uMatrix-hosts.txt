@@ -17,6 +17,11 @@
 0.0.0.0 ad-maven.com
 0.0.0.0 brandmetrics.com
 0.0.0.0 go-mpulse.net
+0.0.0.0 a.nytimes.com
+0.0.0.0 purr.nytimes.com
+0.0.0.0 meter-svc.nytimes.com
+0.0.0.0 als-svc.nytimes.com
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 webcontentassessor.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adblade.com
