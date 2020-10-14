@@ -539,7 +539,6 @@
 0.0.0.0 tealiumiq.com
 0.0.0.0 theadex.com
 0.0.0.0 thebrighttag.com
-0.0.0.0 thetacdn.net
 0.0.0.0 thrtle.com
 0.0.0.0 tidaltv.com
 0.0.0.0 tinypass.com
