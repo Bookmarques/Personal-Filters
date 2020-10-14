@@ -1,7 +1,5 @@
 0.0.0.0 1dmp.io
-0.0.0.0 ct.buzzfeed.com
 0.0.0.0 1rx.io
-0.0.0.0 b-ssl.grvcdn.com
 0.0.0.0 23video.com
 0.0.0.0 247realmedia.com
 0.0.0.0 254a.com
@@ -11,6 +9,10 @@
 0.0.0.0 360yield.com
 0.0.0.0 3lift.com
 0.0.0.0 4finance.com
+0.0.0.0 adrecover.com
+0.0.0.0 ivideosmart.com
+0.0.0.0 izooto.com
+0.0.0.0 shortpixel.ai
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.nytimes.com
 0.0.0.0 aaxads.com
@@ -91,6 +93,7 @@
 0.0.0.0 audience.systems
 0.0.0.0 avocet.io
 0.0.0.0 awin.com
+0.0.0.0 b-ssl.grvcdn.com
 0.0.0.0 bannerflow.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bazaarvoice.com
@@ -178,6 +181,7 @@
 0.0.0.0 crm4d.com
 0.0.0.0 crsspxl.com
 0.0.0.0 crwdcntrl.net
+0.0.0.0 ct.buzzfeed.com
 0.0.0.0 ctnsnet.com
 0.0.0.0 cxense.com
 0.0.0.0 cxpublic.com
@@ -292,6 +296,7 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
+0.0.0.0 innity.net
 0.0.0.0 innovid.com
 0.0.0.0 inside-graph.com
 0.0.0.0 insightexpressai.com
