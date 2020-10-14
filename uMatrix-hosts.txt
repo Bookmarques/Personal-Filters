@@ -4,7 +4,6 @@
 0.0.0.0 247realmedia.com
 0.0.0.0 254a.com
 0.0.0.0 2mdn.net
-0.0.0.0 static.scroll.com
 0.0.0.0 2o7.net
 0.0.0.0 33across.com
 0.0.0.0 360yield.com
@@ -146,6 +145,7 @@
 0.0.0.0 comscore.com
 0.0.0.0 comunidade.globalmediagroup.pt 
 0.0.0.0 conductrics.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 connatix.com
 0.0.0.0 connect.facebook.net 
 0.0.0.0 connexity.net
@@ -487,6 +487,7 @@
 0.0.0.0 springserve.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stackpathcdn.com
+0.0.0.0 static.scroll.com
 0.0.0.0 stats.wp.com 
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stickyadstv.com
