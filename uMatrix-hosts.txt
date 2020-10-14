@@ -496,6 +496,7 @@
 0.0.0.0 smartclip.net
 0.0.0.0 smartocto.com
 0.0.0.0 smrtb.com
+0.0.0.0 sni1gl.wpc.thetacdn.net
 0.0.0.0 socdm.com
 0.0.0.0 socket.streamable.com
 0.0.0.0 sojern.com
