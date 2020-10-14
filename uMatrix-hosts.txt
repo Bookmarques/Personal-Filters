@@ -9,10 +9,6 @@
 0.0.0.0 360yield.com
 0.0.0.0 3lift.com
 0.0.0.0 4finance.com
-0.0.0.0 adrecover.com
-0.0.0.0 ivideosmart.com
-0.0.0.0 izooto.com
-0.0.0.0 shortpixel.ai
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.nytimes.com
 0.0.0.0 aaxads.com
@@ -45,6 +41,7 @@
 0.0.0.0 adnxs.com
 0.0.0.0 adobedtm.com
 0.0.0.0 adotmob.com
+0.0.0.0 adrecover.com
 0.0.0.0 adroll.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.deliverimp.com
@@ -310,7 +307,9 @@
 0.0.0.0 issuu.com
 0.0.0.0 iteratehq.com
 0.0.0.0 itsup.com
+0.0.0.0 ivideosmart.com
 0.0.0.0 ivitrack.com
+0.0.0.0 izooto.com
 0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
 0.0.0.0 justpremium.com
@@ -387,6 +386,7 @@
 0.0.0.0 netmng.com
 0.0.0.0 netseer.com
 0.0.0.0 newrelic.com
+0.0.0.0 newscgp.com
 0.0.0.0 nexac.com
 0.0.0.0 nonio.globalmediagroup.pt 
 0.0.0.0 npttech.com
@@ -500,6 +500,7 @@
 0.0.0.0 serving-sys.com
 0.0.0.0 sharethis.com
 0.0.0.0 sharethrough.com
+0.0.0.0 shortpixel.ai
 0.0.0.0 simpli.fi
 0.0.0.0 sitescout.com
 0.0.0.0 skimresources.com
