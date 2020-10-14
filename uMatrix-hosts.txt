@@ -15,6 +15,9 @@
 0.0.0.0 acxiomapac.com
 0.0.0.0 ad-dev.globalnoticias.pt
 0.0.0.0 ad-maven.com
+0.0.0.0 brandmetrics.com
+0.0.0.0 go-mpulse.net
+0.0.0.0 webcontentassessor.com
 0.0.0.0 adadvisor.net
 0.0.0.0 adblade.com
 0.0.0.0 addthis.com
