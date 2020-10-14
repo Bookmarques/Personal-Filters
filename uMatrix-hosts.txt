@@ -9,6 +9,7 @@
 0.0.0.0 360yield.com
 0.0.0.0 3lift.com
 0.0.0.0 4finance.com
+0.0.0.0 a-ads.com
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.nytimes.com
 0.0.0.0 aaxads.com
@@ -266,6 +267,7 @@
 0.0.0.0 gumgum.com
 0.0.0.0 gwallet.com
 0.0.0.0 hellobar.com
+0.0.0.0 histats.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 horizon.globo.com
 0.0.0.0 hotjar.com
@@ -444,6 +446,7 @@
 0.0.0.0 promo-bc.com
 0.0.0.0 protecmedia.com 
 0.0.0.0 pswec.com
+0.0.0.0 pub.network
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnation.com
 0.0.0.0 pulseinsights.com
