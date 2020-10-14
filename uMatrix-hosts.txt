@@ -19,7 +19,6 @@
 0.0.0.0 adblade.com
 0.0.0.0 addthis.com
 0.0.0.0 addtoany.com
-0.0.0.0 w.org
 0.0.0.0 adentifi.com
 0.0.0.0 adform.com
 0.0.0.0 adform.net
@@ -490,6 +489,7 @@
 0.0.0.0 smartocto.com
 0.0.0.0 smrtb.com
 0.0.0.0 socdm.com
+0.0.0.0 socket.streamable.com
 0.0.0.0 sojern.com
 0.0.0.0 solocpm.com
 0.0.0.0 sonobi.com
@@ -573,6 +573,7 @@
 0.0.0.0 visualwebsiteoptimizer.com
 0.0.0.0 vntsm.com 
 0.0.0.0 vpadn.com
+0.0.0.0 w.org
 0.0.0.0 w55c.net
 0.0.0.0 wcfbc.net
 0.0.0.0 webclicks24.com
