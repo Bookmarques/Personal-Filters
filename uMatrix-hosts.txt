@@ -62,6 +62,7 @@
 0.0.0.0 adyoulike.com
 0.0.0.0 adzerk.net
 0.0.0.0 ae.nflximg.net
+0.0.0.0 agility.cnn.com
 0.0.0.0 agkn.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 amazon-adsystem.com
@@ -173,6 +174,7 @@
 0.0.0.0 cxense.com
 0.0.0.0 cxpublic.com
 0.0.0.0 dailymotion.com
+0.0.0.0 data.cnn.com
 0.0.0.0 dc-storm.com
 0.0.0.0 de17a.com
 0.0.0.0 deepintent.com
