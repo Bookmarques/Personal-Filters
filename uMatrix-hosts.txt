@@ -243,6 +243,7 @@
 0.0.0.0 faktor.io
 0.0.0.0 fg8dgt.com
 0.0.0.0 fiftyt.com
+0.0.0.0 fig.bbc.co.uk
 0.0.0.0 firebase.google.com
 0.0.0.0 flashtalking.com
 0.0.0.0 fqtag.com
@@ -382,6 +383,7 @@
 0.0.0.0 mps.nbcuni.com
 0.0.0.0 mxcdn.net
 0.0.0.0 mxptint.net
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mynativeplatform.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 nativeads.com
