@@ -406,6 +406,7 @@
 0.0.0.0 phar.gu-web.net
 0.0.0.0 pippio.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.wp.com
 0.0.0.0 placeholdit.imgix.net
 0.0.0.0 playground.xyz
 0.0.0.0 plugrush.com
