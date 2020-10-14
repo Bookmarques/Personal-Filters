@@ -239,6 +239,7 @@
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 gemius.pl 
 0.0.0.0 geoip.nbcnews.com
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 getintent.com
 0.0.0.0 getsocial.io
 0.0.0.0 gigya.com
