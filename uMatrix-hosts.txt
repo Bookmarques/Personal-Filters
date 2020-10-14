@@ -66,6 +66,7 @@
 0.0.0.0 agkn.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 amp.services 
 0.0.0.0 amplitude.com
 0.0.0.0 ampproject.org
 0.0.0.0 amung.us
@@ -197,6 +198,7 @@
 0.0.0.0 dynsrvtyu.com
 0.0.0.0 dyntrk.com
 0.0.0.0 e-goi.com 
+0.0.0.0 eacdn.com 
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 effectivemeasure.net
 0.0.0.0 elogua.com
@@ -335,6 +337,7 @@
 0.0.0.0 meetrics.net
 0.0.0.0 megapu.sh
 0.0.0.0 mentad.com
+0.0.0.0 metaffiliation.com 
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mgid.com
@@ -507,7 +510,9 @@
 0.0.0.0 summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 sundaysky.com
+0.0.0.0 sunmedia.tv 
 0.0.0.0 survata.com
+0.0.0.0 swelen.com 
 0.0.0.0 swiftypecdn.com 
 0.0.0.0 switchadhub.com
 0.0.0.0 synacor.com
