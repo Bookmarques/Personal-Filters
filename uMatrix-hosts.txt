@@ -1,5 +1,7 @@
 0.0.0.0 1dmp.io
+0.0.0.0 ct.buzzfeed.com
 0.0.0.0 1rx.io
+0.0.0.0 b-ssl.grvcdn.com
 0.0.0.0 23video.com
 0.0.0.0 247realmedia.com
 0.0.0.0 254a.com
@@ -147,6 +149,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.unsplash.com
 0.0.0.0 colpirio.com
+0.0.0.0 colvk.viki.io
 0.0.0.0 company-target.com
 0.0.0.0 comscore.com
 0.0.0.0 comunidade.globalmediagroup.pt 
@@ -189,6 +192,7 @@
 0.0.0.0 df-srv.de
 0.0.0.0 digitalaudience.io
 0.0.0.0 digitaloceanspaces.com 
+0.0.0.0 disqus.com
 0.0.0.0 districtm.ca
 0.0.0.0 districtm.io
 0.0.0.0 dmxleo.com
@@ -245,6 +249,7 @@
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 gemius.pl 
 0.0.0.0 geoip.nbcnews.com
+0.0.0.0 geolocation.forbes.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 getintent.com
 0.0.0.0 getsocial.io
@@ -284,6 +289,7 @@
 0.0.0.0 index.com
 0.0.0.0 indexexchange.com
 0.0.0.0 indexww.com
+0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
 0.0.0.0 innovid.com
@@ -413,6 +419,7 @@
 0.0.0.0 phar.gu-web.net
 0.0.0.0 pippio.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 placeholdit.imgix.net
 0.0.0.0 playground.xyz
@@ -447,6 +454,7 @@
 0.0.0.0 quantum-advertising.com
 0.0.0.0 quantummetric.com
 0.0.0.0 ranker.com
+0.0.0.0 raresummer.com
 0.0.0.0 realsrv.com
 0.0.0.0 redirectingat.com
 0.0.0.0 reson8.com
