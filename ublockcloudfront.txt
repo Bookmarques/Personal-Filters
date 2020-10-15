@@ -12,8 +12,11 @@
 @@||d1v5qbuvucewy1.cloudfront.net^$font
 @@||d1xk6rghzk2cs1.cloudfront.net^$media
 @@||d21rhj7n383afu.cloudfront.net^$xhr
+@@||d26t7ex48mr4bn.cloudfront.net^$font
 @@||d28n7yywqog3r7.cloudfront.net^$xhr
+@@||d2auhg88b162pf.cloudfront.net^$script
 @@||d2c8v52ll5s99u.cloudfront.net^$script,font
+@@||d2e1bqvws99ptg.cloudfront.net^$script
 @@||d2s8wlbatk24s7.cloudfront.net^$xhr
 @@||d3770qakewhkht.cloudfront.net^$xhr
 @@||d3ad8414wy4gwn.cloudfront.net^$xhr
@@ -21,8 +24,6 @@
 @@||db187550c7dkf.cloudfront.net^$script
 @@||dp8hsntg6do36.cloudfront.net^$xhr,media
 @@||dwgyu36up6iuz.cloudfront.net^$image
-@@||d2auhg88b162pf.cloudfront.net^$script
-@@||d26t7ex48mr4bn.cloudfront.net^$font
 !--------------------------------------------------------------------------------------------------------------!
 
 ! Guilty
