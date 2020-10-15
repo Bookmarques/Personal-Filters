@@ -20,6 +20,7 @@
 @@||d2s8wlbatk24s7.cloudfront.net^$xhr
 @@||d3770qakewhkht.cloudfront.net^$xhr
 @@||d3ad8414wy4gwn.cloudfront.net^$xhr
+@@||d3fa767y2tlbh.cloudfront.net^$script
 @@||d3ovq5r7zefu0d.cloudfront.net^$media
 @@||db187550c7dkf.cloudfront.net^$script
 @@||dp8hsntg6do36.cloudfront.net^$xhr,media
