@@ -24,6 +24,7 @@
 @@||d3ad8414wy4gwn.cloudfront.net^$xhr
 @@||d3fa767y2tlbh.cloudfront.net^$script
 @@||d3ovq5r7zefu0d.cloudfront.net^$media
+@@||d3uelno863zh3a.cloudfront.net^$subdocument
 @@||db187550c7dkf.cloudfront.net^$script
 @@||dp8hsntg6do36.cloudfront.net^$xhr,media
 @@||dwgyu36up6iuz.cloudfront.net^$image
