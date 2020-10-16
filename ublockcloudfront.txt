@@ -19,7 +19,7 @@
 @@||d2e1bqvws99ptg.cloudfront.net^$script,xhr
 @@||d2oq3xygptswll.cloudfront.net^$script,xhr,media
 @@||d2s8wlbatk24s7.cloudfront.net^$xhr
-@@||d30etcnkn29cv0.cloudfront.net^$script
+@@||d30etcnkn29cv0.cloudfront.net^$script,xhr
 @@||d34zzi4723ode4.cloudfront.net^$script
 @@||d3770qakewhkht.cloudfront.net^$xhr
 @@||d3ad8414wy4gwn.cloudfront.net^$xhr
