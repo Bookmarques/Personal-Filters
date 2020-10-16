@@ -17,6 +17,7 @@
 @@||d2auhg88b162pf.cloudfront.net^$script
 @@||d2c8v52ll5s99u.cloudfront.net^$script,font
 @@||d2e1bqvws99ptg.cloudfront.net^$script,xhr
+@@||d2oq3xygptswll.cloudfront.net^$script,media
 @@||d2s8wlbatk24s7.cloudfront.net^$xhr
 @@||d34zzi4723ode4.cloudfront.net^$script
 @@||d3770qakewhkht.cloudfront.net^$xhr
