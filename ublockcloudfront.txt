@@ -6,6 +6,7 @@
 ! 
 !
 ! Not Guilty
+@@||d10xcsyx7kl2b4.cloudfront.net^$script
 @@||d14m14mrb7ajla.cloudfront.net^$xhr
 @@||d155hi8td9k2ns.cloudfront.net^$xhr
 @@||d1bl11pgu3tw3h.cloudfront.net^$media
