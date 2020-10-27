@@ -254,6 +254,7 @@
 0.0.0.0 fyber.com
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 gemius.pl 
+0.0.0.0 geo.nbcsports.com
 0.0.0.0 geoip.nbcnews.com
 0.0.0.0 geolocation.forbes.com
 0.0.0.0 geolocation.onetrust.com
