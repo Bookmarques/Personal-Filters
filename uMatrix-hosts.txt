@@ -340,6 +340,7 @@
 0.0.0.0 lkqd.com
 0.0.0.0 lkqd.net
 0.0.0.0 lockerdome.com
+0.0.0.0 logx.optimizely.com
 0.0.0.0 loop.me
 0.0.0.0 loopme.me
 0.0.0.0 m6r.eu
