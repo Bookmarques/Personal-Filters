@@ -67,6 +67,7 @@
 ! Politico
   politico.com##.bgc--transparent
   politico.com##div.bgc--vulcan-gray19 > .ad.content-group
+  politico.com##.page-header .ad.content-group
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!  
 ! Pressreader
   pressreader.com##.banners-container
