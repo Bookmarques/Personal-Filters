@@ -156,6 +156,9 @@
   ghacks.net##.comment-item:has-text(Klaas Vaak said)
   ghacks.net##.comment-item:has-text(ShintoPlasm said)
   ghacks.net##.comment-item:has-text(Sebas said)
+  ghacks.net##.comment-item:has-text(Benjamin said)
+  ghacks.net##.comment-item:has-text(Choco said)
+  ghacks.net##.comment-item:has-text(Chekov said)
   ghacks.net##.wppsac-slick-slider-wrp
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Github
