@@ -165,10 +165,7 @@
   reddit.com##.infobar-toaster-container
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Twitter
-  twitter.com##[aria-label$="trending now" i]
-  twitter.com##[aria-label="who to follow" i]
-  twitter.com##[aria-label$="trending now" i]:nth-ancestor(2)
-  twitter.com##[aria-label="who to follow" i]:nth-ancestor(2)
+
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! gHacks
   ghacks.net###ghacks_ad_code-2
