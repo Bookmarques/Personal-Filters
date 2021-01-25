@@ -29,7 +29,7 @@
 @@||d28140lin2gosl.cloudfront.net^$xhr
 @@||d28n7yywqog3r7.cloudfront.net^$xhr
 @@||d2auhg88b162pf.cloudfront.net^$script
-@@||d2c8v52ll5s99u.cloudfront.net^$script,font
+@@||d2c8v52ll5s99u.cloudfront.net^$script,font,stylesheet
 @@||d2e1bqvws99ptg.cloudfront.net^$script,xhr
 @@||d2oq3xygptswll.cloudfront.net^$script,xhr,media
 @@||d2s8wlbatk24s7.cloudfront.net^$xhr
