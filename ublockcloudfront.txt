@@ -6,6 +6,18 @@
 ! 
 !
 ! Not Guilty
+@@||cloudfront.net/*.m3u8$xhr
+@@||cloudfront.net/*.mp4$media
+@@||cloudfront.net/*.ts$xhr
+@@||cloudfront.net/*.ttf$font
+@@||cloudfront.net/*.vtt$xhr
+@@||cloudfront.net/*/img/*.png$image
+@@||cloudfront.net/assets/fonts/*$font
+@@||cloudfront.net/jquery.PrintArea*$script
+@@||cloudfront.net/player/*$script
+@@||cloudfront.net/tempusdominus-bootstrap*$script
+@@||cloudfront.net/webtype/*$font
+@@||cloudfront.net^$font
 @@||d10xcsyx7kl2b4.cloudfront.net^$script
 @@||d14m14mrb7ajla.cloudfront.net^$xhr
 @@||d155hi8td9k2ns.cloudfront.net^$xhr
