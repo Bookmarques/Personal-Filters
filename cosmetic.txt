@@ -191,7 +191,7 @@ twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbj
   inverse.com##.adWrapper
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Nakid Online
-  inakid.online##.widget_media_image.clearfix.zeen-widget.sidebar-widget
+  nakid.online##.widget_media_image.clearfix.zeen-widget.sidebar-widget
   nakid.online##.active.tipi-overlay-dark.tipi-overlay-base.tipi-overlay
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Pipocas.TV
