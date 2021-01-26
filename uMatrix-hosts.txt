@@ -282,6 +282,7 @@
 0.0.0.0 hubspot.com
 0.0.0.0 iasds01.com
 0.0.0.0 ibillboard.com
+0.0.0.0 iclickcdn.com
 0.0.0.0 id.google.com
 0.0.0.0 id.impresa.pt
 0.0.0.0 id.l.google.com
