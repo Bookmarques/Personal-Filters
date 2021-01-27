@@ -563,7 +563,7 @@
 0.0.0.0 swiftypecdn.com 
 0.0.0.0 switchadhub.com
 0.0.0.0 synacor.com
-
+0.0.0.0 syndication.twitter.com
 0.0.0.0 taboola.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tags.tiqcdn.com
