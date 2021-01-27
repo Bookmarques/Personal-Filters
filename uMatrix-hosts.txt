@@ -44,6 +44,7 @@
 0.0.0.0 adotmob.com
 0.0.0.0 adrecover.com
 0.0.0.0 adroll.com
+0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 ads.topsrvimp.com
@@ -320,6 +321,7 @@
 0.0.0.0 ivideosmart.com
 0.0.0.0 ivitrack.com
 0.0.0.0 izooto.com
+0.0.0.0 jsphp.sapo.pt
 0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
 0.0.0.0 justpremium.com
@@ -543,6 +545,7 @@
 0.0.0.0 stackadapt.com
 0.0.0.0 stackpathcdn.com
 0.0.0.0 static.scroll.com
+0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com 
 0.0.0.0 steelhousemedia.com
 0.0.0.0 stickyadstv.com
