@@ -47,6 +47,7 @@
 !--------------------------------------------------------------------------------------------------------------!
 
 ! Guilty
+||cloudfront.barilliance.com^
 ||d101jag8um25l.cloudfront.net^
 ||d10hxp21ljytsr.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
