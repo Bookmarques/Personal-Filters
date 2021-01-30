@@ -537,6 +537,7 @@
 ||smartclip.net
 ||smartocto.com
 ||smrtb.com
+||snap.licdn.com
 ||sni1gl.wpc.thetacdn.net
 ||socdm.com
 ||socket.streamable.com
