@@ -180,4 +180,14 @@ twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbj
 ! The Wall Street Journal
   ##.WSJTheme--adWrapper--6E2JufAO
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Mother Jones
+ www.motherjones.com##.display-block.Homepage_ATF_970x250.htl-ad
+ www.motherjones.com##.display-block.Mobile_Homepage_1.htl-ad
+ www.motherjones.com##.display-block.Homepage_Middle1_970x250.htl-ad
+ www.motherjones.com##.display-block.Mobile_Homepage_2.htl-ad
+ www.motherjones.com##.display-block.Homepage_Middle2_970x250.htl-ad
+ www.motherjones.com##.display-block.Mobile_Homepage_3.htl-ad
+ www.motherjones.com##.display-block.Homepage_BTF_970x250.htl-ad
+ www.motherjones.com##.display-block.Mobile_Footer_300x250_Homepage.htl-ad
+!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 !++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++!
