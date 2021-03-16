@@ -146,20 +146,22 @@
 twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > div.r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! gHacks
+  ghacks.net###.dont-break-out.user-content-item:has-text(advertisement)
+  ghacks.net###div-gpt-ad-1524862513262-0
   ghacks.net###ghacks_ad_code-2
   ghacks.net###ghacks_ad_code-3
   ghacks.net###ghacks_ad_code-4
   ghacks.net###ghacks_ad_code-5
+  ghacks.net##.comment-item:has-text(Benjamin said)
+  ghacks.net##.comment-item:has-text(Chekov said)
+  ghacks.net##.comment-item:has-text(Choco said)
+  ghacks.net##.comment-item:has-text(Iron Heart said)
+  ghacks.net##.comment-item:has-text(Klaas Vaak said)
+  ghacks.net##.comment-item:has-text(Sebas said)
+  ghacks.net##.comment-item:has-text(ShintoPlasm said)
+  ghacks.net##.comment-item:has-text(Yuliya said)
   ghacks.net##.ghacks-ad
   ghacks.net##.ghacks-ad-loaded
-  ghacks.net##.comment-item:has-text(Iron Heart said)
-  ghacks.net##.comment-item:has-text(Yuliya said)
-  ghacks.net##.comment-item:has-text(Klaas Vaak said)
-  ghacks.net##.comment-item:has-text(ShintoPlasm said)
-  ghacks.net##.comment-item:has-text(Sebas said)
-  ghacks.net##.comment-item:has-text(Benjamin said)
-  ghacks.net##.comment-item:has-text(Choco said)
-  ghacks.net##.comment-item:has-text(Chekov said)
   ghacks.net##.wppsac-slick-slider-wrp
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Github
