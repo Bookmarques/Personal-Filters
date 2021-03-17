@@ -152,6 +152,8 @@ twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbj
   ghacks.net###ghacks_ad_code-4
   ghacks.net###ghacks_ad_code-5
   ghacks.net###snhb-snhb_ghacks_bottom-0
+  ghacks.net##.col-banner
+  ghacks.net##.column-ad > .ad-title
   ghacks.net##.comment-item:has-text(Benjamin said)
   ghacks.net##.comment-item:has-text(Chekov said)
   ghacks.net##.comment-item:has-text(Choco said)
@@ -163,6 +165,8 @@ twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbj
   ghacks.net##.ghacks-ad
   ghacks.net##.ghacks-ad-loaded
   ghacks.net##.wppsac-slick-slider-wrp
+  ghacks.net##section.sec-caterories > div.wide-ad > .ad-title
+  ghacks.net##section.sec-caterories > div.wide-ad > .wide-banner
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Github
   github.com##.hx_cookie-banner--show.js-cookie-consent-banner
