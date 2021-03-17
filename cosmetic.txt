@@ -162,6 +162,7 @@ twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbj
   ghacks.net##.comment-item:has-text(Sebas said)
   ghacks.net##.comment-item:has-text(ShintoPlasm said)
   ghacks.net##.comment-item:has-text(Yuliya said)
+  ghacks.net##.comment-item:has-text(Allwynd said)
   ghacks.net##.ghacks-ad
   ghacks.net##.ghacks-ad-loaded
   ghacks.net##.wppsac-slick-slider-wrp
