@@ -20,6 +20,7 @@
 @@||cloudfront.net/tempusdominus-bootstrap*$script
 @@||cloudfront.net/webtype/*$font
 @@||cloudfront.net^$font
+@@||cloudfront.xp-assets.aiv-cdn.net/packages/*$script
 @@||d10xcsyx7kl2b4.cloudfront.net^$script
 @@||d14m14mrb7ajla.cloudfront.net^$xhr
 @@||d155hi8td9k2ns.cloudfront.net^$xhr
