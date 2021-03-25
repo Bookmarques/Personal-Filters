@@ -11,7 +11,9 @@
 @@||cloudfront.net/*.ts$xhr
 @@||cloudfront.net/*.ttf$font
 @@||cloudfront.net/*.vtt$xhr
+@@||cloudfront.net/*/chunks/*$script
 @@||cloudfront.net/*/img/*.png$image
+@@||cloudfront.net/*/video/embed/*$script
 @@||cloudfront.net/assets/fonts/*$font
 @@||cloudfront.net/jquery.PrintArea*$script
 @@||cloudfront.net/player/*$script
