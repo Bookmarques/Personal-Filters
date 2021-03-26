@@ -25,9 +25,20 @@
 ! Google Search
   www.google.com##.wwYr3.aID8W.bErdLd
   www.google.com##.fp-nh.gTMtLb
+  google.*##+js(aeld, DOMContentLoaded, CONSENT)
+||consent.google.com^
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Youtube
   youtube.com#@##logo:style(pointer-events: none !important; cursor: default !important)
+! YT consent
+  youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+  youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+  youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
+! YT login
+  youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+  youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
+  youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
+  youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Novo Geração Benfica
   geracaobenfica.blogspot.com###sidebar-wrapper
