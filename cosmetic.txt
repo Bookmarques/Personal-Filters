@@ -10,8 +10,6 @@
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Twitter
   twitter.com##[data-testid="socialContext"]:has-text(/liked$/i):upward(article)
-  twitter.com##[aria-label="Timeline: Your Home Timeline"]>div>div[style^="position: absolute;"],[aria-label$="’s Tweets"]>div>div[style^="position: absolute;"]:not(:has(>div>div>article))
-  twitter.com##svg>g>path[d^="M23.615"]
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Meo
   login.telecom.pt##.warning_EU_cookiemsg
