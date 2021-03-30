@@ -21,6 +21,7 @@
   sapo.pt##.block-crappy-ads.block
   sapo.pt##.widget-horoscope
   sapo.pt##div.block-divider.block
+  sapo.pt##.bsu-placeholder-ctn.\].\[
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Blogger
   blogspot.com###cookieChoiceInfo
