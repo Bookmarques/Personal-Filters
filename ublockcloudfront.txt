@@ -41,6 +41,7 @@
 @@||d3770qakewhkht.cloudfront.net^$xhr
 @@||d3ad8414wy4gwn.cloudfront.net^$xhr
 @@||d3fa767y2tlbh.cloudfront.net^$script
+@@||d3kxowhw4s8amj.cloudfront.net^$script
 @@||d3ovq5r7zefu0d.cloudfront.net^$media
 @@||d3uelno863zh3a.cloudfront.net^$script
 @@||d3uelno863zh3a.cloudfront.net^$subdocument
