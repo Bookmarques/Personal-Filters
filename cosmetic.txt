@@ -187,6 +187,7 @@
   ghacks.net##.wppsac-slick-slider-wrp
   ghacks.net##section.sec-caterories > div.wide-ad > .ad-title
   ghacks.net##section.sec-caterories > div.wide-ad > .wide-banner
+  ghacks.net##.wide-ad-bottom.wide-ad
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Github
   github.com##.hx_cookie-banner--show.js-cookie-consent-banner
