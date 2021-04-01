@@ -27,6 +27,7 @@
 @@||d1bl11pgu3tw3h.cloudfront.net^$media
 @@||d1v5qbuvucewy1.cloudfront.net^$font
 @@||d1xk6rghzk2cs1.cloudfront.net^$media
+@@||d20903hof2l33q.cloudfront.net^$script
 @@||d21rhj7n383afu.cloudfront.net^$xhr
 @@||d26t7ex48mr4bn.cloudfront.net^$font
 @@||d28140lin2gosl.cloudfront.net^$xhr
