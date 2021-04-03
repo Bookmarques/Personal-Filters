@@ -36,6 +36,7 @@
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Youtube
   youtube.com#@##logo:style(pointer-events: none !important; cursor: default !important)
+  youtube.com###interstitial
 ! YT consent
   youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
   youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
