@@ -185,6 +185,7 @@
   ghacks.net##.comment-item:has-text(Allwynd said)
   ghacks.net##.comment-item:has-text(finoderi said)
   ghacks.net##.comment-item:has-text(sure said)
+  ghacks.net##.comment-item:has-text(Altean said)
   ghacks.net##.ghacks-ad
   ghacks.net##.ghacks-ad-loaded
   ghacks.net##.wppsac-slick-slider-wrp
