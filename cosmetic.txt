@@ -33,6 +33,8 @@
   www.google.com##.fp-nh.gTMtLb
   google.*##+js(aeld, DOMContentLoaded, CONSENT)
 ||consent.google.com^
+  translate.google.com##.gb_fa.gb_ea
+  translate.google.com##.gb_8
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Youtube
   youtube.com#@##logo:style(pointer-events: none !important; cursor: default !important)
