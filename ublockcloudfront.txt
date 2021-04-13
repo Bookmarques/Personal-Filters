@@ -50,6 +50,9 @@
 @@||db187550c7dkf.cloudfront.net^$script
 @@||dp8hsntg6do36.cloudfront.net^$xhr,media
 @@||dwgyu36up6iuz.cloudfront.net^$image
+
+@@||cloudfront.net/arch-frontend/*/*$script,domain=auth.uber.com
+@@||cloudfront.net/web-eats*/*$xhr,domain=ubereats.com
 !--------------------------------------------------------------------------------------------------------------!
 
 ! Guilty
