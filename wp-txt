@@ -7,12 +7,13 @@
 ! You are free to copy and distribute this file for non-commercial use
 
 @@||*/jetpack-carousel.min.js$script
-@@||*/jetpack/*/widgets/milestone/*$script
 @@||*/jetpack/*/photon/*$script
 @@||*/jetpack/*/tiled-gallery/*$script
+@@||*/jetpack/*/widgets/milestone/*$script
 @@||*/wp-content/js/bilmur.min.js$script
 @@||*/wp-includes/js/jquery/*$script
 @@||*/wp-includes/js/wp-embed.min.js$script
+@@||nakid.online/wp-content/themes/zeen/assets/js/js.cookie.min.js$script,1p
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Affiliate/Ads
 ||*/plugins/advanced-ads-layer/*$script
