@@ -141,6 +141,9 @@
   publico.pt###subscriptions-promo-default
   publico.pt##.call-to-action.subscription-disclaimer
   publico.pt##.datawall-warning.site-message--datawall.site-message--notice.site-message
+  publico.pt##.incontent-hidden.ad-slot--in-content.ad-slot
+  publico.pt##.show-for-large.ad-slot--double.ad-slot
+  publico.pt##.ad-slot--sticky.ad-slot.l-grid__item--ad.l-grid__item
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! RTP Notícias
   rtp.pt###rtpprivacycontent
