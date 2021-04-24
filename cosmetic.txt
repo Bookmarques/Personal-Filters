@@ -99,6 +99,9 @@
   theguardian.com###sp_message_container_208529
   theguardian.com##.css-8b81c8
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! NBC News
+  nbcnews.com##.isScrolledToTop.header-and-footer--static.topbannerAd.ad-container.header-and-footer--banner-ad
+!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!  
 ! Politico
   politico.com##.bgc--transparent
   politico.com##div.bgc--vulcan-gray19 > .ad.content-group
