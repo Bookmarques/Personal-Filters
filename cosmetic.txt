@@ -154,6 +154,7 @@
   publico.pt##.ad-slot--sticky.ad-slot.l-grid__item--ad.l-grid__item
   publico.pt##.show-for-large.story__supplemental-slot--margin.story__supplemental-slot > .ad-slot--sticky.ad-slot
   publico.pt##.show-for-large.ad-slot--sticky.ad-slot
+  publico.pt##.pubtxt.pubHorz
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! RTP Notícias
   rtp.pt###rtpprivacycontent
