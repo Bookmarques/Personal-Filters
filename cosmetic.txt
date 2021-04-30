@@ -49,6 +49,7 @@
   youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
   youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
   youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
+  youtube.com###masthead-ad
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Novo Geração Benfica
   geracaobenfica.blogspot.com###sidebar-wrapper
