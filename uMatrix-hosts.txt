@@ -148,6 +148,7 @@
 0.0.0.0 clevernt.com
 0.0.0.0 clickagy.com
 0.0.0.0 clicky.com
+0.0.0.0 cloudfront-us-east-1.images.arcpublishing.com
 0.0.0.0 clrstm.com
 0.0.0.0 cogocast.net
 0.0.0.0 collector.githubapp.com
@@ -303,6 +304,7 @@
 0.0.0.0 indexexchange.com
 0.0.0.0 indexww.com
 0.0.0.0 infinityid.condenastdigital.com
+0.0.0.0 ingest.sentry.io
 0.0.0.0 inmobi.com
 0.0.0.0 inner-active.com
 0.0.0.0 innity.net
@@ -618,6 +620,7 @@
 0.0.0.0 vindicosuite.com
 0.0.0.0 visualdna.com
 0.0.0.0 visualwebsiteoptimizer.com
+0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vntsm.com 
 0.0.0.0 vpadn.com
 0.0.0.0 w.org
