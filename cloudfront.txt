@@ -1,3 +1,4 @@
+0.0.0.0 cloudfront.barilliance.com
 0.0.0.0 d101jag8um25l.cloudfront.net
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
@@ -219,6 +220,7 @@
 0.0.0.0 d28wlxclbkz49x.cloudfront.net
 0.0.0.0 d29dbajta0the9.cloudfront.net
 0.0.0.0 d29i6o40xcgdai.cloudfront.net
+0.0.0.0 d29lpg037v41oq.cloudfront.net
 0.0.0.0 d29p64779x43zo.cloudfront.net
 0.0.0.0 d29qt51jeyi6xb.cloudfront.net
 0.0.0.0 d2a945og79nayl.cloudfront.net
