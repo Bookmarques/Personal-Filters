@@ -12,8 +12,6 @@
 0.0.0.0 a-ads.com
 0.0.0.0 a.et.nytimes.com
 0.0.0.0 a.nytimes.com
-0.0.0.0 aax-eu.amazon-adsystem.com
-0.0.0.0 aax-eu.amazon.es
 0.0.0.0 aaxads.com
 0.0.0.0 acidpigs.com
 0.0.0.0 acuityplatform.com
@@ -133,14 +131,11 @@
 0.0.0.0 btttag.com
 0.0.0.0 bugsnag.com
 0.0.0.0 buysellads.com
-0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.appier.net
 0.0.0.0 c1exchange.com
 0.0.0.0 c3tag.com
 0.0.0.0 cannavu.net
-0.0.0.0 capture.condenastdigital.com
 0.0.0.0 casalemedia.com
-0.0.0.0 cdn.mediavoice.com
 0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cedato.com
 0.0.0.0 celtra.com
@@ -190,7 +185,6 @@
 0.0.0.0 crwdcntrl.net
 0.0.0.0 ct.buzzfeed.com
 0.0.0.0 ctnsnet.com
-0.0.0.0 cws.conviva.com
 0.0.0.0 cxense.com
 0.0.0.0 cxpublic.com
 0.0.0.0 dailymotion.com
@@ -282,7 +276,6 @@
 0.0.0.0 gwallet.com
 0.0.0.0 hellobar.com
 0.0.0.0 histats.com
-0.0.0.0 hits-i.iubenda.com
 0.0.0.0 horizon-track.globo.com
 0.0.0.0 horizon.globo.com
 0.0.0.0 hotjar.com
@@ -331,7 +324,6 @@
 0.0.0.0 ivideosmart.com
 0.0.0.0 ivitrack.com
 0.0.0.0 izooto.com
-0.0.0.0 js-sec.indexww.com
 0.0.0.0 jsphp.sapo.pt
 0.0.0.0 jsrdn.com
 0.0.0.0 juicyads.com
@@ -446,7 +438,6 @@
 0.0.0.0 pagefair.net
 0.0.0.0 pardot.com
 0.0.0.0 parsely.com
-0.0.0.0 pbs.getpublica.com
 0.0.0.0 perfectmarket.com
 0.0.0.0 permutive.com
 0.0.0.0 phar.gu-web.net
@@ -514,11 +505,9 @@
 0.0.0.0 rundsp.com
 0.0.0.0 s-onetag.com
 0.0.0.0 s.publicoid.com
-0.0.0.0 s.skimresources.com
 0.0.0.0 sail-track.com
 0.0.0.0 salesmachine.io
 0.0.0.0 sascdn.com
-0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc-static.net
 0.0.0.0 scarabresearch.com
 0.0.0.0 scene7.com
@@ -526,7 +515,6 @@
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 securedvisit.com
-0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment.com
 0.0.0.0 segment.io
 0.0.0.0 sekindo.com
@@ -546,7 +534,6 @@
 0.0.0.0 smartclip.net
 0.0.0.0 smartocto.com
 0.0.0.0 smrtb.com
-0.0.0.0 snapengage.com
 0.0.0.0 sni1gl.wpc.thetacdn.net
 0.0.0.0 socdm.com
 0.0.0.0 socket.streamable.com
@@ -579,7 +566,6 @@
 0.0.0.0 swiftypecdn.com 
 0.0.0.0 switchadhub.com
 0.0.0.0 synacor.com
-0.0.0.0 sync.getpublica.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 taboola.com
 0.0.0.0 tagcommander.com
@@ -649,7 +635,6 @@
 0.0.0.0 widespace.com
 0.0.0.0 woopra.com
 0.0.0.0 wpncdn.com
-0.0.0.0 wren.condenastdigital.com
 0.0.0.0 ws.globalnoticias.pt 
 0.0.0.0 wsod.com
 0.0.0.0 wt-safetag.com
@@ -666,7 +651,6 @@
 0.0.0.0 yieldoptimizer.com
 0.0.0.0 yieldpartners.com
 0.0.0.0 yotpo.com
-0.0.0.0 z.moatads.com
 0.0.0.0 zemanta.com
 0.0.0.0 zencdn.net
 0.0.0.0 zergnet.com
