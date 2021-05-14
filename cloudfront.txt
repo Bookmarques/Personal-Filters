@@ -1,3 +1,4 @@
+0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloudfront.barilliance.com
 0.0.0.0 d101jag8um25l.cloudfront.net
 0.0.0.0 d10hxp21ljytsr.cloudfront.net
