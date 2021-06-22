@@ -32,7 +32,6 @@
   www.google.com##.vUd4jb
   www.google.com##.wwYr3.aID8W.bErdLd
   www.google.com##.fp-nh.gTMtLb
-  google.*##+js(aeld, DOMContentLoaded, CONSENT)
   translate.google.com##.gb_fa.gb_ea
   translate.google.com##.gb_8
 !--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
