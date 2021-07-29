@@ -4,194 +4,42 @@
 ! Title: Cosmetic filters for private use
 !
 
-! Amazon
-  imdb.com###supertab > .cornerstone_slot
-  imdb.com###sidebar > .cornerstone_slot
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Twitter
-  twitter.com##[data-testid="socialContext"]:has-text(/liked$/i):upward(article)
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Meo
-  login.telecom.pt##.warning_EU_cookiemsg
-   meo.pt###warning_EU_cookiemsg
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Sapo
-  sapo.pt###comentarios
-  sapo.pt###billboard
-  sapo.pt##.ad-ctn
-  sapo.pt##.block-crappy-ads.block
-  sapo.pt##.widget-horoscope
-  sapo.pt##div.block-divider.block
-  sapo.pt##.bsu-placeholder-ctn.\].\[
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Blogger
-  blogspot.com###cookieChoiceInfo
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Google Search
-  www.google.com##.jw8mI
-  www.google.com##.vUd4jb
-  www.google.com##.wwYr3.aID8W.bErdLd
-  www.google.com##.fp-nh.gTMtLb
-  translate.google.com##.gb_fa.gb_ea
-  translate.google.com##.gb_8
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Youtube
-  youtube.com#@##logo:style(pointer-events: none !important; cursor: default !important)
-  youtube.com###interstitial
-! YT consent
-  youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
-  youtube.com##+js(json-prune, [].response.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-  youtube.com##+js(json-prune, topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer)
-! YT login
-  youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
-  youtube.com##+js(set, ytInitialData.overlay.upsellDialogRenderer.isVisible, false)
-  youtube.com##+js(json-prune, [].playerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer)
-  youtube.com##+js(json-prune, auxiliaryUi.messageRenderers.upsellDialogRenderer)
-  youtube.com###masthead-ad
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Novo Geração Benfica
-  geracaobenfica.blogspot.com###sidebar-wrapper
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Ter na alma a chama imensa
-  ternaalmaachamaimensa.pw##.singleton-element.cookie-choices-info
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Visão de Mercado
-  blogvisaodemercado.pt##.widget-area.sidebar-primary.sidebar > p
-  blogvisaodemercado.pt###text-11
-  blogvisaodemercado.pt##section.vm-widget.widget:nth-of-type(3)
-  blogvisaodemercado.pt###advads_ad_widget-20
-  blogvisaodemercado.pt###text-15
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Ars Technica
-  arstechnica.com##.ad_crown.ad
-  arstechnica.com##.ad_xrail_top.ad_xrail.ad
-  arstechnica.com##.fullwidth.ad_fullwidth.ad
-  arstechnica.com###sponsored-recommendations
-  arstechnica.com###story-recommendations
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Lifehacker
-  lifehacker.com###sp_message_iframe_388535
-  lifehacker.com###sp_message_container_388535
-  lifehacker.com##.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Gizmodo
-  gizmodo.com##.js_sticky-top-ad.jQLKmy.sc-1op1dd6-0
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! AV Club
-  avclub.com##.js_sticky-top-ad.jQLKmy.sc-1op1dd6-0
-  avclub.com###sp_message_container_388489
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! TechRadar
-  techradar.com##.dfp-leaderboard-container
+! AVClub
+  avclub.com##.hide.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! BBC
-  bbc.com###cookiePrompt
-  bbc.com##.exhqgzu5.css-v17lp6-DialogBackdrop
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Forbes
-  forbes.com##.ntv-loading
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Globo
-  globo.com##.cookie-banner-lgpd-animated.cookie-banner-lgpd-visible
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Guardian
+! NatGeo
+  natgeo.pt##.ng-ad-banner
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! The Guardian
   theguardian.com##.js-top-banner.top-banner-ad-container
-  theguardian.com###sp_message_container_208529
-  theguardian.com##.css-8b81c8
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! NBC News
-  nbcnews.com##.isScrolledToTop.header-and-footer--static.topbannerAd.ad-container.header-and-footer--banner-ad
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!  
+  theguardian.com##.dcr-7gi34x
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Politico
-  politico.com##.bgc--transparent
-  politico.com##div.bgc--vulcan-gray19 > .ad.content-group
-  politico.com##.page-header .ad.content-group
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!  
-! Pressreader
-  pressreader.com##.banners-container
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Rolling Stone
-  rollingstone.com##.c-ad--728x90.c-ad--desktop-header.c-ad
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+  politico.com##.no-border.bgc--transparent > .ad.content-group
+  politico.com##.active.sign-up-21--msg-spinner.sign-up-21--msg
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Slate
   slate.com##.top-ad
-  slate.com##.light.as-oil
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! The Daily Beast
-  thedailybeast.com##.ConnatixAd--show-preloader.ConnatixAd
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! The New York Times
-  nytimes.com##.e1x0szx60.css-17nqy7q.expanded-dock.expanded.shown.gdpr
-  nytimes.com##.e12j3pa51.css-1lzk3av
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! The Register
-  theregister.com##.RegCTBWF_wrapper
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! The Washington Post
-  washingtonpost.com##.fixed.dn.db-ns.z-4.w-100
-  washingtonpost.com##.dn.db-ns.z-4.w-100
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Vox Media
-  theverge.com##.m-privacy-consent
-  vox.com##.m-privacy-consent
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! A Bola
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Sapo
+  sapo.pt##.initial.qv-ctn-top.ad-ctn.\].bottom-space.hide-medium.\[
+  sapo.pt##.sidebar.\].\[ > .\].hide-medium.hide-small.hide-tiny.\[ > .ad-ctn > .pub-2016
+  sapo.pt##.sidebar.\].\[ > .\].hide-medium.hide-small.hide-tiny.\[ > .ad-ctn
+  sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .ad-ctn > .pub-2020
+  sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .ad-ctn
+  sapo.pt##.loading.article-comments.\].\[
+  sapo.pt##.bsu-placeholder-ctn.\].\[
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! A Bola, Record
   abola.pt##.hidden-xs.comentarios.row
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Cofina
   record.pt##.barra_cofina
-  record.pt##.bloco_comentarios
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Público
-  publico.pt###stack-games
-  publico.pt##.opta-widget__wrapper
-  publico.pt###subscriptions-promo-01
-  publico.pt###subscriptions-promo-default
-  publico.pt##.call-to-action.subscription-disclaimer
-  publico.pt##.datawall-warning.site-message--datawall.site-message--notice.site-message
-  publico.pt##.incontent-hidden.ad-slot--in-content.ad-slot
-  publico.pt##.show-for-large.ad-slot--double.ad-slot
-  publico.pt##.ad-slot--sticky.ad-slot.l-grid__item--ad.l-grid__item
-  publico.pt##.show-for-large.story__supplemental-slot--margin.story__supplemental-slot > .ad-slot--sticky.ad-slot
-  publico.pt##.show-for-large.ad-slot--sticky.ad-slot
-  publico.pt##.pubtxt.pubHorz
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! RTP Notícias
-  rtp.pt###rtpprivacycontent
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Film School Rejects
-  filmschoolrejects.com##.widget_custom_html.sidebar-widget.widget_text
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Radio
-  radio.pt##.gIuVSq.hamtuz-0
-  radio.pt##.cmDtSx.sc-13xwksj-0
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! StartPage
-  startpage.com##.a-gl-tp
-  startpage.com##.w-gl__label
-  startpage.com##.w-gl__result:has(a[href*="pinterest.com"])
-  startpage.com##.ig-gl__list > div[data-img-metadata*="pinterest.com"]
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!  
-! Swisscows
-  swisscows.com##.banners-wrap
-  swisscows.com##.app-links
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Instagram
-  instagram.com##.Yx5HN.RnEpo
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Reddit
-  reddit.com##.promotedlink
-  reddit.com##.infobar-toaster-container
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+  record.pt##.mb-4.mt-4.bloco03.container > .flex-lg-row.flex-column.d-flex > .centro > .row > .col-12
+  cmjornal.pt##.barra_cofina
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Sol
+  sol.sapo.pt##.js-disqus-button
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! gHacks
-  ghacks.net###div-gpt-ad-1524862513262-0
-  ghacks.net###ghacks_ad_code-2
-  ghacks.net###ghacks_ad_code-3
-  ghacks.net###ghacks_ad_code-4
-  ghacks.net###ghacks_ad_code-5
-  ghacks.net###snhb-snhb_ghacks_bottom-0
-  ghacks.net##.col-banner
-  ghacks.net##.column-ad > .ad-title
   ghacks.net##.comment-item:has-text(Benjamin said)
   ghacks.net##.comment-item:has-text(Chekov said)
   ghacks.net##.comment-item:has-text(Choco said)
@@ -205,49 +53,11 @@
   ghacks.net##.comment-item:has-text(finoderi said)
   ghacks.net##.comment-item:has-text(sure said)
   ghacks.net##.comment-item:has-text(Altean said)
-  ghacks.net##.ghacks-ad
-  ghacks.net##.ghacks-ad-loaded
-  ghacks.net##.wppsac-slick-slider-wrp
-  ghacks.net##section.sec-caterories > div.wide-ad > .ad-title
-  ghacks.net##section.sec-caterories > div.wide-ad > .wide-banner
-  ghacks.net##.wide-ad-bottom.wide-ad
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Blog Planet Hunters
-  blog.planethunters.org###cmp-app-container iframe
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Github
-  github.com##.hx_cookie-banner--show.js-cookie-consent-banner
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Inverse
-  inverse.com##.adWrapper
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Nakid Online
-
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Pipocas.TV
-  pipocas.tv##.mb-0.text-center
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Online Convert
-  www.online-convert.com###qg-toast
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!  
-! The Wall Street Journal
-  ##.WSJTheme--adWrapper--6E2JufAO
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Mother Jones
- www.motherjones.com##.display-block.Homepage_ATF_970x250.htl-ad
- www.motherjones.com##.display-block.Mobile_Homepage_1.htl-ad
- www.motherjones.com##.display-block.Homepage_Middle1_970x250.htl-ad
- www.motherjones.com##.display-block.Mobile_Homepage_2.htl-ad
- www.motherjones.com##.display-block.Homepage_Middle2_970x250.htl-ad
- www.motherjones.com##.display-block.Mobile_Homepage_3.htl-ad
- www.motherjones.com##.display-block.Homepage_BTF_970x250.htl-ad
- www.motherjones.com##.display-block.Mobile_Footer_300x250_Homepage.htl-ad
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Viki
-  www.viki.com##.show.cookie-banner.bOkpWc.sc-VigVT
-  www.viki.com##.show.signup-banner.bOkpWc.sc-VigVT
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Radio.pt
-  radio.pt##.topASp.khAsVA.sc-13xwksj-0
-!--------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++!
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Reddit
+  reddit.com##.promotedlink
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Youtube
+  youtube.com#@##logo:style(pointer-events: none !important; cursor: default !important)
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+!++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++!
