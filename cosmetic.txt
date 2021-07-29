@@ -54,6 +54,12 @@
   ghacks.net##.comment-item:has-text(sure said)
   ghacks.net##.comment-item:has-text(Altean said)
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Geração Benfica
+  geracaobenfica.blogspot.com##.comment-form
+  geracaobenfica.blogspot.com###top-continue > .comment-reply
+  geracaobenfica.blogspot.com###fnp-nav > .blog-pager
+  geracaobenfica.blogspot.com###c6421352155741096171 > .comment-block > .secondary-text.comment-actions > .comment-reply
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Reddit
   reddit.com##.promotedlink
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
