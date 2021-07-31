@@ -10,8 +10,6 @@
 ! Blogspot
   blogspot.com##.comment-form
   blogspot.com###top-continue > .comment-reply
-  blogspot.com##.singleton-element.cookie-choices-info
-
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! NatGeo
   natgeo.pt##.ng-ad-banner
