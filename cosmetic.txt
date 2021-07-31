@@ -69,7 +69,7 @@
   geracaobenfica.blogspot.com###c6421352155741096171 > .comment-block > .secondary-text.comment-actions > .comment-reply
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Gawker Media
-  ##.hide.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
+  com##.hide.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Reddit
   reddit.com##.promotedlink
