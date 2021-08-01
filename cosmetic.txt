@@ -36,10 +36,8 @@
   sapo.pt##.loading.article-comments.\].\[
   sapo.pt##.bsu-placeholder-ctn.\].\[
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! A Bola, Record
-  abola.pt##.hidden-xs.comentarios.row
+! A Bola, Record, CM
   record.pt##.barra_cofina
-  record.pt##.mb-4.mt-4.bloco03.container > .flex-lg-row.flex-column.d-flex > .centro > .row > .col-12
   cmjornal.pt##.barra_cofina
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Sol
@@ -72,6 +70,7 @@
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Reddit
   reddit.com##.promotedlink
+  reddit.com###eu-cookie-policy
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Ser Benfiquista
   serbenfiquista.com##.eu-cookie-compliance-banner--opt-in.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
