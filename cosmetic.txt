@@ -57,6 +57,8 @@
   ghacks.net##.comment-item:has-text(finoderi said)
   ghacks.net##.comment-item:has-text(sure said)
   ghacks.net##.comment-item:has-text(Altean said)
+  ghacks.net###div-gpt-ad-1524862513262-0
+  ghacks.net##.dont-break-out.user-content:has-text(Advertisement)
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Geração Benfica
   geracaobenfica.blogspot.com##.comment-form
