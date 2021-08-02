@@ -100,11 +100,5 @@
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Washington Post
   washingtonpost.com##.pt-0.justify-center.items-center.flex.dn-hp-xs
-  washingtonpost.com##.z-2.relative.db-ns.dn.w-100 > .items-center.content-box.justify-center.flex.relative.hide-for-print > .chromatic-ignore.w-100.justify-center.flex-column.flex.relative
-  washingtonpost.com##.z-2.relative.db-ns.dn.w-100 > .items-center.content-box.justify-center.flex.relative.hide-for-print > .bg-offwhite.border-box.justify-center.flex-column.flex.absolute.h-100.w-100
-  washingtonpost.com##.z-1.top-0.absolute.w-100.bg-black.h-100.o-15
-  washingtonpost.com##.z-2.relative.db-ns.dn.w-100 > .items-center.content-box.justify-center.flex.relative.hide-for-print
-  washingtonpost.com##.sticky.bb.b.overflow-hidden.items-center.justify-center.border-box.dn.flex-ns.z-7.w-100
-  washingtonpost.com##.bb.b.overflow-hidden.items-center.justify-center.border-box.dn.flex-ns.z-7.w-100
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 !++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++!
