@@ -68,6 +68,7 @@
 ! Gawker Media
   gizmodo.com##.hide.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
   avclub.com##.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
+  theroot.com##.collapsed-ad.ad-top-banner.dfp-slot-TOP_BANNER.dfp.ad-container
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Reddit
   reddit.com##.promotedlink
