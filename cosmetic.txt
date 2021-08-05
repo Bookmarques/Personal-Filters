@@ -117,4 +117,10 @@
 ! Osphilia
   osphilia.co##.OPT_IN.ICON.BOTTOM_RIGHT.DARK.POPUP.sqs-cookie-banner-v2
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+! Público
+  publico.pt##.show-for-large.story__supplemental-slot--margin.story__supplemental-slot > .ad-slot--sticky.ad-slot
+  publico.pt##.incontent-hidden.ad-slot--in-content.ad-slot
+  publico.pt##.show-for-large.ad-slot--double.ad-slot
+  publico.pt##.show-for-large.ad-slot--sticky.ad-slot
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 !++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++!
