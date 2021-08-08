@@ -35,6 +35,7 @@
   sapo.pt##.\].hide-medium.hide-small.hide-tiny.\[ > .\].\[ > .ad-ctn
   sapo.pt##.loading.article-comments.\].\[
   sapo.pt##.bsu-placeholder-ctn.\].\[
+  sapo.pt##.widget-horoscope
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! A Bola, Record, CM
   record.pt##.barra_cofina
