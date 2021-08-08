@@ -80,10 +80,6 @@
 ! Ser Benfiquista
   serbenfiquista.com##.eu-cookie-compliance-banner--opt-in.eu-cookie-compliance-banner-info.eu-cookie-compliance-banner
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
-! Youtube
-  youtube.com#@##logo:style(pointer-events: none !important; cursor: default !important)
-  youtube.com##.style-text.ytd-toggle-button-renderer.style-scope
-!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Inverse
   inverse.com##.hVL.Uzp.zVG.adWrapper
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
