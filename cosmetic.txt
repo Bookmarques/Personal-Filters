@@ -104,6 +104,10 @@
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Wall Street Journal
   wsj.com###wrapper-AD_PUSH
+  wsj.com##.hide8.hide4.module.banner-ad
+  wsj.com###cx-what-to-read-next
+  wsj.com##.dianomi-module.module
+  wsj.com###saving-united-coupon-list
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Washington Post
   washingtonpost.com##.pt-0.justify-center.items-center.flex.dn-hp-xs
