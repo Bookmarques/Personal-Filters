@@ -36,6 +36,7 @@
   sapo.pt##.loading.article-comments.\].\[
   sapo.pt##.bsu-placeholder-ctn.\].\[
   sapo.pt##.widget-horoscope
+  sapo.pt###bsu-placeholder
   sapo.pt##.content > .article-inline-ads-2020.\].align-center.vertical-space.\[
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! A Bola, Record, CM
