@@ -149,6 +149,8 @@
   arstechnica.com##.ad_crown.ad
   arstechnica.com##.fullwidth.ad_fullwidth.ad
   arstechnica.com##.ad_xrail_top.ad_xrail.ad
+  arstechnica.com###header-nav-primary > ul > li > .store.nav-link
+  arstechnica.com###header-nav-primary > ul > li > .section-cars.nav-link
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------! 
   ! Globo Esporte
   ge.globo.com##.glbbarrawidget
