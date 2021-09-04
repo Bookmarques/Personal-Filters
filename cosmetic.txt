@@ -15,6 +15,7 @@
 ! The Guardian
   theguardian.com##.js-top-banner.top-banner-ad-container
   theguardian.com##.dcr-7gi34x
+  theguardian.com##.dcr-10kio6u
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 ! Politico
   politico.com##.bgc--transparent
