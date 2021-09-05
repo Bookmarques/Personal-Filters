@@ -173,4 +173,18 @@
   ! O Jogo
   ojogo.pt##.t-h-ticker-livegame.t-h-ticker > .t-i
 !----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
+  ! Visão de Mercado
+  blogvisaodemercado.pt##section.vm-widget.widget:nth-of-type(4)
+  blogvisaodemercado.pt###text-11
+  blogvisaodemercado.pt##section.vm-widget.widget:nth-of-type(3)
+  blogvisaodemercado.pt##section.vm-widget.widget:nth-of-type(5)
+  blogvisaodemercado.pt###advads_ad_widget-12
+  blogvisaodemercado.pt###advads_ad_widget-20
+  blogvisaodemercado.pt###text-15
+  blogvisaodemercado.pt###simple-social-icons-2 > .widget-wrap > .alignright > .ssi-email > [href] > .social-email
+  blogvisaodemercado.pt###simple-social-icons-2 > .widget-wrap > .alignright > .ssi-facebook > [href] > .social-facebook
+  blogvisaodemercado.pt##.header-widget-area.widget-area > .widget_text.widget
+  blogvisaodemercado.pt##.social-youtube
+  blogvisaodemercado.pt##.header-widget-area.widget-area
+!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------!
 !++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++!
